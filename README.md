@@ -1,2 +1,2 @@
-# snorkel
+# Snorkel
 Files for Snorkel
