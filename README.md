@@ -1,7 +1,7 @@
 # Snorkel Project - Extracting Virus-Host relations from Academic Papers
 
-### Current stage: We have extracted ~350 virus-host candidates from 39 academic papers (originally from PDF format) 
-### Next stage: Write labelling functions, Develop improved matching/extraction techniques to get more candidates
+### Current stage: We have extracted virus-host candidates from 39 academic papers (originally from PDF format) 
+### Next stage: Write labelling functions
 
 - Main code located at **'snorkel-test-2.ipynb'**
  
