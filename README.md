@@ -1,4 +1,5 @@
-# Snorkel Project - Extracting Virus-Host relations from Academic Papers
+# Extracting Virus-Host relations from Academic Papers - Machine Learning Project Using Snorkel
+## UC Davis Epicenter for Disease Dynamics 
 
 ### Current stage: Extracted virus-host candidates from 39 academic papers (originally PDF format) 
 ### Next stage: Write and develop labeling functions
