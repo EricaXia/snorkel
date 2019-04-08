@@ -4,7 +4,7 @@ In this project, we build a Snorkel application to extract and identify correct 
 
 1. **Document Preparation, Preprocessing, and Candidate Extraction**
  - [Required input files](https://github.com/EricaXia/snorkel/tree/master/data)
-- [Main code - Part I](https://github.com/EricaXia/snorkel/blob/master/snorkel_test-2.ipynb)
+- [Main code - Part I](https://github.com/EricaXia/snorkel/blob/master/snorkel_part_1.ipynb)
 
 2. **Labeling Functions Development and Modeling**
 
