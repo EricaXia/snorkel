@@ -1,3 +1,4 @@
+Title	Journal	Year	Authors	Volum	Issue	Date	Month	file
 "Tick-borne encephalitis virus, Zealand, Denmark, 2011"	Emerg Infect Dis	2013	"A. Fomsgaard, M. E. Fertner, S. Essbauer, A. Y. Nielsen, S. Frey, P. Lindblom, P. E. Lindgren, R. Bodker, M. Weidmann and G. Dobler"	19	7	1171-3	Jul	internal-pdf://0040337789/Fomsgaard-2013-Tick-borne encephalitis virus.pdf
 Epidemiology of tick-borne encephalitis in Japan	Comp Immunol Microbiol Infect Dis	1998	I. Takashima	21	2	81-90	Apr	internal-pdf://0121781648/1-s2.0-S0147957197000246-main.pdf
 "Isolation of viruses from wild mammals in West Africa, 1966-1970"	J Wildl Dis	1974	"G. E. Kemp, O. R. Causey, H. W. Setzer and D. L. Moore"	10	3	279-93	Jul	internal-pdf://0138025572/0090-3558-10.3.279.pdf
