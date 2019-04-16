@@ -8,7 +8,7 @@ import pandas as pd
 from snorkel.models import StableLabel
 from snorkel.db_helpers import reload_annotator_labels
 
-FPATH = r'gold_virushost_labels.txt'
+FPATH = r'gold_labels_erica.txt'
 
 def load_external_labels(session, candidate_class, annotator_name='gold'):
     gold_labels = pd.read_csv(FPATH, sep="\t")
@@ -27,6 +27,6 @@ def load_external_labels(session, candidate_class, annotator_name='gold'):
     session.commit()
 
     # Reload annotator labels
-    reload_annotator_labels(session, candidate_class, annotator_name, split=0, filter_label_split=False)
+    reload_annotator_labels(session, candidate_class, annotator_name, split=1, filter_label_split=False)
 #    reload_annotator_labels(session, candidate_class, annotator_name, split=2, filter_label_split=False)
     
