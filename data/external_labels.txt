@@ -1,0 +1,245 @@
+virus	host	label
+Cigarroa-Toledo-2016-Serologic Evidence of Fla.pdf::span:10386:10388	Cigarroa-Toledo-2016-Serologic Evidence of Fla.pdf::span:10410:10427	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:11895:11898	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:11983:11987	-1
+Kading-2015-Detection of Entebbe Bat Virus Aft.pdf::span:632:648	Kading-2015-Detection of Entebbe Bat Virus Aft.pdf::span:749:770	1
+Kading-2015-Detection of Entebbe Bat Virus Aft.pdf::span:632:648	Kading-2015-Detection of Entebbe Bat Virus Aft.pdf::span:773:790	1
+Kading-2015-Detection of Entebbe Bat Virus Aft.pdf::span:9285:9287	Kading-2015-Detection of Entebbe Bat Virus Aft.pdf::span:9400:9405	-1
+Rodrigues-2010-Molecular epidemiology of Saint.pdf::span:3422:3425	Rodrigues-2010-Molecular epidemiology of Saint.pdf::span:3459:3464	1
+Sabattini-1965-Serological survey for arboviru.pdf::span:2700:2704	Sabattini-1965-Serological survey for arboviru.pdf::span:2782:2787	1
+Suss-2007-Tickborne encephalitis in naturally.pdf::span:9987:9990	Suss-2007-Tickborne encephalitis in naturally.pdf::span:10117:10120	-1
+Takashima-1998-Epidemiology of tick-borne ence.pdf::span:804:806	Takashima-1998-Epidemiology of tick-borne ence.pdf::span:783:786	1
+Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:1709:1712	Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:1769:1788	1
+Yan-2011-An infectious disease of ducks caused.pdf::span:14677:14679	Yan-2011-An infectious disease of ducks caused.pdf::span:14714:14718	-1
+Yan-2011-An infectious disease of ducks caused.pdf::span:14677:14679	Yan-2011-An infectious disease of ducks caused.pdf::span:14713:14712	-1
+0090-3558-10.3.279.pdf::span:17752:17761	0090-3558-10.3.279.pdf::span:18175:18190	-1
+0090-3558-10.3.279.pdf::span:17824:17832	0090-3558-10.3.279.pdf::span:18175:18190	-1
+0090-3558-10.3.279.pdf::span:17886:17892	0090-3558-10.3.279.pdf::span:18175:18190	-1
+0090-3558-10.3.279.pdf::span:17953:17966	0090-3558-10.3.279.pdf::span:18175:18190	-1
+0090-3558-10.3.279.pdf::span:18012:18019	0090-3558-10.3.279.pdf::span:18175:18190	-1
+0090-3558-10.3.279.pdf::span:18034:18042	0090-3558-10.3.279.pdf::span:18175:18190	-1
+0090-3558-10.3.279.pdf::span:25312:25327	0090-3558-10.3.279.pdf::span:25459:25463	-1
+0090-3558-10.3.279.pdf::span:31350:31358	0090-3558-10.3.279.pdf::span:31464:31468	1
+0090-3558-10.3.279.pdf::span:31425:31439	0090-3558-10.3.279.pdf::span:31464:31468	1
+1-s2.0-0035920362900743-main.pdf::span:144:155	1-s2.0-0035920362900743-main.pdf::span:162:166	1
+1-s2.0-S0147957197000246-main.pdf::span:3481:3498	1-s2.0-S0147957197000246-main.pdf::span:3585:3589	1
+1-s2.0-S0147957197000246-main.pdf::span:3501:3512	1-s2.0-S0147957197000246-main.pdf::span:3585:3589	1
+1-s2.0-S0147957197000246-main.pdf::span:3518:3544	1-s2.0-S0147957197000246-main.pdf::span:3585:3589	1
+1-s2.0-S0147957197000246-main.pdf::span:3547:3555	1-s2.0-S0147957197000246-main.pdf::span:3585:3589	1
+1-s2.0-S0147957197000246-main.pdf::span:4418:4440	1-s2.0-S0147957197000246-main.pdf::span:4258:4262	1
+1-s2.0-S0147957197000246-main.pdf::span:4418:4440	1-s2.0-S0147957197000246-main.pdf::span:4521:4525	-1
+1-s2.0-S0147957197000246-main.pdf::span:4482:4492	1-s2.0-S0147957197000246-main.pdf::span:4258:4262	-1
+1-s2.0-S0147957197000246-main.pdf::span:4482:4492	1-s2.0-S0147957197000246-main.pdf::span:4521:4525	1
+1-s2.0-S0147957197000246-main.pdf::span:4530:4551	1-s2.0-S0147957197000246-main.pdf::span:4258:4262	-1
+1-s2.0-S0147957197000246-main.pdf::span:4530:4551	1-s2.0-S0147957197000246-main.pdf::span:4521:4525	-1
+1-s2.0-S0147957197000246-main.pdf::span:4652:4659	1-s2.0-S0147957197000246-main.pdf::span:4258:4262	-1
+1-s2.0-S0147957197000246-main.pdf::span:4652:4659	1-s2.0-S0147957197000246-main.pdf::span:4521:4525	-1
+1-s2.0-S0147957197000246-main.pdf::span:4718:4746	1-s2.0-S0147957197000246-main.pdf::span:4258:4262	-1
+1-s2.0-S0147957197000246-main.pdf::span:4718:4746	1-s2.0-S0147957197000246-main.pdf::span:4521:4525	-1
+1-s2.0-S0147957197000246-main.pdf::span:7416:7418	1-s2.0-S0147957197000246-main.pdf::span:7512:7517	-1
+1-s2.0-S0147957197000246-main.pdf::span:7591:7593	1-s2.0-S0147957197000246-main.pdf::span:7549:7553	1
+1-s2.0-S0147957197000246-main.pdf::span:12124:12135	1-s2.0-S0147957197000246-main.pdf::span:12112:12114	1
+1-s2.0-S0147957197000246-main.pdf::span:12550:12553	1-s2.0-S0147957197000246-main.pdf::span:12460:12462	-1
+1-s2.0-S0147957197000246-main.pdf::span:12550:12553	1-s2.0-S0147957197000246-main.pdf::span:12521:12523	-1
+1-s2.0-S0147957197000246-main.pdf::span:12556:12561	1-s2.0-S0147957197000246-main.pdf::span:12460:12462	-1
+1-s2.0-S0147957197000246-main.pdf::span:14557:14559	1-s2.0-S0147957197000246-main.pdf::span:14576:14578	-1
+1-s2.0-S0147957197000246-main.pdf::span:14562:14567	1-s2.0-S0147957197000246-main.pdf::span:14576:14578	-1
+1-s2.0-S0147957197000246-main.pdf::span:15835:15843	1-s2.0-S0147957197000246-main.pdf::span:15863:15868	1
+1-s2.0-S0147957197000246-main.pdf::span:17274:17276	1-s2.0-S0147957197000246-main.pdf::span:17490:17494	-1
+1-s2.0-S0147957197000246-main.pdf::span:17274:17276	1-s2.0-S0147957197000246-main.pdf::span:17453:17457	-1
+1-s2.0-S0147957197000246-main.pdf::span:17389:17411	1-s2.0-S0147957197000246-main.pdf::span:17490:17494	-1
+1-s2.0-S0147957197000246-main.pdf::span:17423:17433	1-s2.0-S0147957197000246-main.pdf::span:17453:17457	-1
+1-s2.0-S0147957197000246-main.pdf::span:17518:17539	1-s2.0-S0147957197000246-main.pdf::span:17490:17494	-1
+1-s2.0-S0147957197000246-main.pdf::span:17518:17539	1-s2.0-S0147957197000246-main.pdf::span:17453:17457	-1
+1-s2.0-S0147957197000246-main.pdf::span:17551:17556	1-s2.0-S0147957197000246-main.pdf::span:17490:17494	-1
+1-s2.0-S0147957197000246-main.pdf::span:17551:17556	1-s2.0-S0147957197000246-main.pdf::span:17453:17457	-1
+1-s2.0-S0147957197000246-main.pdf::span:17568:17590	1-s2.0-S0147957197000246-main.pdf::span:17490:17494	-1
+1-s2.0-S0147957197000246-main.pdf::span:17568:17590	1-s2.0-S0147957197000246-main.pdf::span:17453:17457	-1
+1-s2.0-S0147957197000246-main.pdf::span:17602:17609	1-s2.0-S0147957197000246-main.pdf::span:17490:17494	-1
+1-s2.0-S0147957197000246-main.pdf::span:17602:17609	1-s2.0-S0147957197000246-main.pdf::span:17453:17457	-1
+1-s2.0-S0147957197000246-main.pdf::span:17635:17657	1-s2.0-S0147957197000246-main.pdf::span:17490:17494	-1
+1-s2.0-S0147957197000246-main.pdf::span:17635:17657	1-s2.0-S0147957197000246-main.pdf::span:17453:17457	-1
+1-s2.0-S0147957197000246-main.pdf::span:18069:18077	1-s2.0-S0147957197000246-main.pdf::span:17996:17998	1
+1-s2.0-S1090023313005315-main.pdf::span:14:24	1-s2.0-S1090023313005315-main.pdf::span:42:58	1
+1-s2.0-S1090023313005315-main.pdf::span:14:24	1-s2.0-S1090023313005315-main.pdf::span:93:109	1
+1-s2.0-S1090023313005315-main.pdf::span:14:24	1-s2.0-S1090023313005315-main.pdf::span:378:401	1
+1-s2.0-S1090023313005315-main.pdf::span:14:24	1-s2.0-S1090023313005315-main.pdf::span:353:369	1
+1-s2.0-S1090023313005315-main.pdf::span:14:24	1-s2.0-S1090023313005315-main.pdf::span:404:420	1
+1-s2.0-S1090023313005315-main.pdf::span:14:24	1-s2.0-S1090023313005315-main.pdf::span:67:90	1
+1-s2.0-S1090023313005315-main.pdf::span:325:335	1-s2.0-S1090023313005315-main.pdf::span:42:58	1
+1-s2.0-S1090023313005315-main.pdf::span:325:335	1-s2.0-S1090023313005315-main.pdf::span:93:109	1
+1-s2.0-S1090023313005315-main.pdf::span:325:335	1-s2.0-S1090023313005315-main.pdf::span:378:401	1
+1-s2.0-S1090023313005315-main.pdf::span:325:335	1-s2.0-S1090023313005315-main.pdf::span:353:369	1
+1-s2.0-S1090023313005315-main.pdf::span:325:335	1-s2.0-S1090023313005315-main.pdf::span:404:420	1
+1-s2.0-S1090023313005315-main.pdf::span:325:335	1-s2.0-S1090023313005315-main.pdf::span:67:90	1
+1-s2.0-S1090023313005315-main.pdf::span:1464:1474	1-s2.0-S1090023313005315-main.pdf::span:1692:1708	1
+1-s2.0-S1090023313005315-main.pdf::span:1464:1474	1-s2.0-S1090023313005315-main.pdf::span:1588:1604	1
+1-s2.0-S1090023313005315-main.pdf::span:1464:1474	1-s2.0-S1090023313005315-main.pdf::span:1666:1689	1
+1-s2.0-S1090023313005315-main.pdf::span:2896:2899	1-s2.0-S1090023313005315-main.pdf::span:2863:2875	1
+1-s2.0-S1090023313005315-main.pdf::span:3804:3807	1-s2.0-S1090023313005315-main.pdf::span:3655:3671	1
+1-s2.0-S1090023313005315-main.pdf::span:3804:3807	1-s2.0-S1090023313005315-main.pdf::span:3727:3743	1
+1-s2.0-S1090023313005315-main.pdf::span:3804:3807	1-s2.0-S1090023313005315-main.pdf::span:3701:3724	1
+1-s2.0-S1090023313005315-main.pdf::span:6710:6713	1-s2.0-S1090023313005315-main.pdf::span:6653:6676	-1
+1-s2.0-S1090023313005315-main.pdf::span:6916:6920	1-s2.0-S1090023313005315-main.pdf::span:6653:6676	-1
+1-s2.0-S1090023313005315-main.pdf::span:7543:7546	1-s2.0-S1090023313005315-main.pdf::span:7466:7489	1
+1-s2.0-S1090023313005315-main.pdf::span:13031:13041	1-s2.0-S1090023313005315-main.pdf::span:13059:13075	1
+1-s2.0-S1090023313005315-main.pdf::span:13031:13041	1-s2.0-S1090023313005315-main.pdf::span:13084:13107	1
+1-s2.0-S1090023313005315-main.pdf::span:13031:13041	1-s2.0-S1090023313005315-main.pdf::span:13110:13126	1
+1-s2.0-S1877959X13000587-main.pdf::span:43:71	1-s2.0-S1877959X13000587-main.pdf::span:184:197	1
+1-s2.0-S1877959X13000587-main.pdf::span:43:71	1-s2.0-S1877959X13000587-main.pdf::span:123:135	1
+1-s2.0-S1877959X13000587-main.pdf::span:43:71	1-s2.0-S1877959X13000587-main.pdf::span:174:181	1
+1-s2.0-S1877959X13000587-main.pdf::span:43:71	1-s2.0-S1877959X13000587-main.pdf::span:654:667	1
+1-s2.0-S1877959X13000587-main.pdf::span:43:71	1-s2.0-S1877959X13000587-main.pdf::span:644:651	1
+1-s2.0-S1877959X13000587-main.pdf::span:43:71	1-s2.0-S1877959X13000587-main.pdf::span:594:606	1
+1-s2.0-S1877959X13000587-main.pdf::span:73:78	1-s2.0-S1877959X13000587-main.pdf::span:184:197	1
+1-s2.0-S1877959X13000587-main.pdf::span:73:78	1-s2.0-S1877959X13000587-main.pdf::span:123:135	1
+1-s2.0-S1877959X13000587-main.pdf::span:73:78	1-s2.0-S1877959X13000587-main.pdf::span:174:181	1
+1-s2.0-S1877959X13000587-main.pdf::span:73:78	1-s2.0-S1877959X13000587-main.pdf::span:654:667	1
+1-s2.0-S1877959X13000587-main.pdf::span:73:78	1-s2.0-S1877959X13000587-main.pdf::span:644:651	1
+1-s2.0-S1877959X13000587-main.pdf::span:1675:1683	1-s2.0-S1877959X13000587-main.pdf::span:1866:1879	1
+1-s2.0-S1877959X13000587-main.pdf::span:1675:1683	1-s2.0-S1877959X13000587-main.pdf::span:1707:1713	1
+1-s2.0-S1877959X13000587-main.pdf::span:1675:1683	1-s2.0-S1877959X13000587-main.pdf::span:1856:1863	1
+1-s2.0-S1877959X13000587-main.pdf::span:1675:1683	1-s2.0-S1877959X13000587-main.pdf::span:1716:1728	1
+1-s2.0-S1877959X13000587-main.pdf::span:1908:1916	1-s2.0-S1877959X13000587-main.pdf::span:1866:1879	1
+1-s2.0-S1877959X13000587-main.pdf::span:1908:1916	1-s2.0-S1877959X13000587-main.pdf::span:1707:1713	1
+1-s2.0-S1877959X13000587-main.pdf::span:1908:1916	1-s2.0-S1877959X13000587-main.pdf::span:1856:1863	1
+1-s2.0-S1877959X13000587-main.pdf::span:1908:1916	1-s2.0-S1877959X13000587-main.pdf::span:1716:1728	1
+1-s2.0-S1877959X13000587-main.pdf::span:3098:3100	1-s2.0-S1877959X13000587-main.pdf::span:3142:3146	1
+1-s2.0-S1877959X13000587-main.pdf::span:7376:7378	1-s2.0-S1877959X13000587-main.pdf::span:7475:7479	1
+1-s2.0-S1877959X13000587-main.pdf::span:7668:7670	1-s2.0-S1877959X13000587-main.pdf::span:7662:7666	1
+1-s2.0-S1877959X13000587-main.pdf::span:7774:7777	1-s2.0-S1877959X13000587-main.pdf::span:8006:8018	1
+1-s2.0-S1877959X13000587-main.pdf::span:7855:7857	1-s2.0-S1877959X13000587-main.pdf::span:8006:8018	1
+1-s2.0-S1877959X13000587-main.pdf::span:8037:8039	1-s2.0-S1877959X13000587-main.pdf::span:8006:8018	1
+1-s2.0-S1877959X13000587-main.pdf::span:8260:8262	1-s2.0-S1877959X13000587-main.pdf::span:8198:8211	1
+1-s2.0-S1877959X13000587-main.pdf::span:8402:8404	1-s2.0-S1877959X13000587-main.pdf::span:8198:8211	1
+1-s2.0-S1877959X13000587-main.pdf::span:9929:9931	1-s2.0-S1877959X13000587-main.pdf::span:9835:9842	1
+1-s2.0-S1877959X13000587-main.pdf::span:9929:9931	1-s2.0-S1877959X13000587-main.pdf::span:9845:9858	1
+1-s2.0-S1877959X13000587-main.pdf::span:9929:9931	1-s2.0-S1877959X13000587-main.pdf::span:9903:9910	1
+1-s2.0-S1877959X13000587-main.pdf::span:11977:11980	1-s2.0-S1877959X13000587-main.pdf::span:12014:12021	1
+1-s2.0-S1877959X13000587-main.pdf::span:17086:17089	1-s2.0-S1877959X13000587-main.pdf::span:17190:17197	1
+059.041.0109.pdf::span:14260:14262	059.041.0109.pdf::span:14217:14227	1
+059.041.0109.pdf::span:14260:14262	059.041.0109.pdf::span:14104:14112	-1
+059.041.0109.pdf::span:15496:15498	059.041.0109.pdf::span:15440:15448	1
+059.041.0109.pdf::span:16920:16925	059.041.0109.pdf::span:16949:16952	-1
+2.pdf::span:9702:9705	2.pdf::span:9688:9692	1
+2.pdf::span:12046:12060	2.pdf::span:12067:12071	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:17512:17524	Calisher-2006-Bats_ important reservoir hosts.pdf::span:16187:16202	-1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:17967:17984	Calisher-2006-Bats_ important reservoir hosts.pdf::span:18052:18079	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:17967:17984	Calisher-2006-Bats_ important reservoir hosts.pdf::span:17898:17919	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:17967:17984	Calisher-2006-Bats_ important reservoir hosts.pdf::span:18105:18133	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:17967:17984	Calisher-2006-Bats_ important reservoir hosts.pdf::span:17923:17940	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:17967:17984	Calisher-2006-Bats_ important reservoir hosts.pdf::span:18083:18102	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:17967:17984	Calisher-2006-Bats_ important reservoir hosts.pdf::span:17878:17895	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:2398:2409	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:2512:2516	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:2475:2486	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:2512:2516	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13624:13635	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13461:13472	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13692:13694	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13461:13472	-1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13740:13751	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13833:13847	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16542:16553	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16560:16564	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:19094:19105	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:19203:19207	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3854:3859	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3776:3780	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3862:3873	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3776:3780	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3875:3880	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3776:3780	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3886:3901	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3776:3780	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3903:3908	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3776:3780	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:9132:9134	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:9193:9197	-1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:28244:28247	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:28413:28417	-1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:28333:28336	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:28413:28417	-1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:28439:28442	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:28413:28417	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:1068:1070	Seymour-1983-Serologic evidence of natural tog.pdf::span:1140:1158	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:1100:1105	Seymour-1983-Serologic evidence of natural tog.pdf::span:1140:1158	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:1173:1184	Seymour-1983-Serologic evidence of natural tog.pdf::span:1140:1158	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:2904:2915	Seymour-1983-Serologic evidence of natural tog.pdf::span:3065:3084	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:2904:2915	Seymour-1983-Serologic evidence of natural tog.pdf::span:3262:3280	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:2904:2915	Seymour-1983-Serologic evidence of natural tog.pdf::span:3331:3349	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3522:3529	Seymour-1983-Serologic evidence of natural tog.pdf::span:3065:3084	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3522:3529	Seymour-1983-Serologic evidence of natural tog.pdf::span:3262:3280	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3522:3529	Seymour-1983-Serologic evidence of natural tog.pdf::span:3331:3349	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3748:3752	Seymour-1983-Serologic evidence of natural tog.pdf::span:3893:3897	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14318:14326	Seymour-1983-Serologic evidence of natural tog.pdf::span:14802:14821	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14318:14326	Seymour-1983-Serologic evidence of natural tog.pdf::span:14705:14727	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14318:14326	Seymour-1983-Serologic evidence of natural tog.pdf::span:14823:14840	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14318:14326	Seymour-1983-Serologic evidence of natural tog.pdf::span:14842:14863	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14318:14326	Seymour-1983-Serologic evidence of natural tog.pdf::span:14683:14703	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14427:14429	Seymour-1983-Serologic evidence of natural tog.pdf::span:14802:14821	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14427:14429	Seymour-1983-Serologic evidence of natural tog.pdf::span:14705:14727	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14427:14429	Seymour-1983-Serologic evidence of natural tog.pdf::span:14823:14840	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14427:14429	Seymour-1983-Serologic evidence of natural tog.pdf::span:14842:14863	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14427:14429	Seymour-1983-Serologic evidence of natural tog.pdf::span:14683:14703	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14434:14436	Seymour-1983-Serologic evidence of natural tog.pdf::span:14802:14821	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14434:14436	Seymour-1983-Serologic evidence of natural tog.pdf::span:14705:14727	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14434:14436	Seymour-1983-Serologic evidence of natural tog.pdf::span:14823:14840	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14434:14436	Seymour-1983-Serologic evidence of natural tog.pdf::span:14842:14863	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14434:14436	Seymour-1983-Serologic evidence of natural tog.pdf::span:14683:14703	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14438:14440	Seymour-1983-Serologic evidence of natural tog.pdf::span:14802:14821	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14438:14440	Seymour-1983-Serologic evidence of natural tog.pdf::span:14705:14727	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14438:14440	Seymour-1983-Serologic evidence of natural tog.pdf::span:14823:14840	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14438:14440	Seymour-1983-Serologic evidence of natural tog.pdf::span:14842:14863	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14438:14440	Seymour-1983-Serologic evidence of natural tog.pdf::span:14683:14703	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14566:14577	Seymour-1983-Serologic evidence of natural tog.pdf::span:14705:14727	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14566:14577	Seymour-1983-Serologic evidence of natural tog.pdf::span:14823:14840	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14566:14577	Seymour-1983-Serologic evidence of natural tog.pdf::span:14842:14863	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14566:14577	Seymour-1983-Serologic evidence of natural tog.pdf::span:14683:14703	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:18385:18387	Seymour-1983-Serologic evidence of natural tog.pdf::span:18257:18275	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:23831:23833	Seymour-1983-Serologic evidence of natural tog.pdf::span:23862:23872	1
+Ubico-1995-Serologic survey of neotropical bat.pdf::span:14850:14858	Ubico-1995-Serologic survey of neotropical bat.pdf::span:14867:14878	1
+Ubico-1995-Serologic survey of neotropical bat.pdf::span:14850:14858	Ubico-1995-Serologic survey of neotropical bat.pdf::span:14954:14965	1
+Ubico-1995-Serologic survey of neotropical bat.pdf::span:14917:14919	Ubico-1995-Serologic survey of neotropical bat.pdf::span:14867:14878	1
+Ubico-1995-Serologic survey of neotropical bat.pdf::span:14917:14919	Ubico-1995-Serologic survey of neotropical bat.pdf::span:14954:14965	1
+Ubico-1995-Serologic survey of neotropical bat.pdf::span:20162:20164	Ubico-1995-Serologic survey of neotropical bat.pdf::span:20111:20122	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:23689:23697	Seymour-1983-Serologic evidence of natural tog.pdf::span:23862:23872	-1
+059.041.0109.pdf::span:2380:2391	059.041.0109.pdf::span:2341:2349	1
+059.041.0109.pdf::span:2394:2398	059.041.0109.pdf::span:2341:2349	1
+059.041.0109.pdf::span:2405:2408	059.041.0109.pdf::span:2341:2349	1
+059.041.0109.pdf::span:11907:11918	059.041.0109.pdf::span:11867:11875	1
+059.041.0109.pdf::span:11921:11925	059.041.0109.pdf::span:11867:11875	1
+059.041.0109.pdf::span:11932:11935	059.041.0109.pdf::span:11867:11875	1
+2.pdf::span:1323:1325	2.pdf::span:1317:1321	1
+2.pdf::span:2383:2387	2.pdf::span:2357:2361	1
+2.pdf::span:2460:2462	2.pdf::span:2357:2361	1
+2.pdf::span:8915:8918	2.pdf::span:8877:8881	-1
+2.pdf::span:8924:8926	2.pdf::span:8877:8881	-1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:13093:13119	Calisher-2006-Bats_ important reservoir hosts.pdf::span:13000:13015	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:13121:13125	Calisher-2006-Bats_ important reservoir hosts.pdf::span:13000:13015	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:18558:18584	Calisher-2006-Bats_ important reservoir hosts.pdf::span:18517:18531	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:18558:18584	Calisher-2006-Bats_ important reservoir hosts.pdf::span:18472:18489	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:18558:18584	Calisher-2006-Bats_ important reservoir hosts.pdf::span:18492:18513	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:31077:31097	Calisher-2006-Bats_ important reservoir hosts.pdf::span:31151:31155	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:87:98	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:171:179	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:87:98	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:140:155	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:954:965	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:1172:1183	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:30706:30717	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:30724:30742	1
+Machain-William-2013-Serologic evidence of fla.pdf::span:21933:21947	Machain-William-2013-Serologic evidence of fla.pdf::span:21996:22008	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:1005:1007	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:1110:1115	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:1005:1007	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:1075:1079	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3356:3361	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3341:3345	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3422:3433	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3341:3345	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:6224:6226	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:6314:6318	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:9963:9965	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:9881:9885	-1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:11765:11779	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:11933:11937	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:12384:12398	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:12486:12490	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18799:18802	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18640:18644	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18812:18815	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18640:18644	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18825:18827	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18640:18644	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18837:18840	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18640:18644	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:20910:20913	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:20878:20882	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:767:771	Seymour-1983-Serologic evidence of natural tog.pdf::span:634:652	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3748:3752	Seymour-1983-Serologic evidence of natural tog.pdf::span:3763:3767	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3866:3874	Seymour-1983-Serologic evidence of natural tog.pdf::span:3893:3897	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3866:3874	Seymour-1983-Serologic evidence of natural tog.pdf::span:3763:3767	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3951:3958	Seymour-1983-Serologic evidence of natural tog.pdf::span:3893:3897	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3951:3958	Seymour-1983-Serologic evidence of natural tog.pdf::span:3763:3767	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3988:3996	Seymour-1983-Serologic evidence of natural tog.pdf::span:3893:3897	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3988:3996	Seymour-1983-Serologic evidence of natural tog.pdf::span:3763:3767	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:4159:4167	Seymour-1983-Serologic evidence of natural tog.pdf::span:3893:3897	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:4159:4167	Seymour-1983-Serologic evidence of natural tog.pdf::span:3763:3767	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:4180:4187	Seymour-1983-Serologic evidence of natural tog.pdf::span:3893:3897	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:4180:4187	Seymour-1983-Serologic evidence of natural tog.pdf::span:3763:3767	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:12670:12678	Seymour-1983-Serologic evidence of natural tog.pdf::span:12721:12739	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:13047:13055	Seymour-1983-Serologic evidence of natural tog.pdf::span:13064:13069	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:13673:13680	Seymour-1983-Serologic evidence of natural tog.pdf::span:13713:13730	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:13673:13680	Seymour-1983-Serologic evidence of natural tog.pdf::span:13754:13770	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:13673:13680	Seymour-1983-Serologic evidence of natural tog.pdf::span:13741:13752	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:16721:16729	Seymour-1983-Serologic evidence of natural tog.pdf::span:16777:16798	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:16721:16729	Seymour-1983-Serologic evidence of natural tog.pdf::span:16758:16774	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:20139:20147	Seymour-1983-Serologic evidence of natural tog.pdf::span:20072:20090	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:20206:20208	Seymour-1983-Serologic evidence of natural tog.pdf::span:20072:20090	-1
