@@ -2,17 +2,14 @@
 
 In this project, we build a Snorkel application to extract and identify correct mentions of virus and animal host species from academic research papers. The tasks are broken up into each step of the pipeline. 
 
-1. **Document Preparation, Preprocessing, and Candidate Extraction**
-<br>
 [Part 1](snorkel_part_1.ipynb)
+**Document Preparation, Preprocessing, and Candidate Extraction**
 
-2. **Labeling Functions Development and Modeling**
-<br>
 [Part 2](snorkel_part_2.ipynb)
+**Labeling Functions Development and Modeling**
 
-3. **Generative Model Training**
-<br>
 [Part 3](snorkel_part_3.ipynb)
+**Generative Model Training**
 
 ### Additional Data
 - [Metadata table](https://github.com/EricaXia/snorkel/blob/master/metadata.tsv) 
