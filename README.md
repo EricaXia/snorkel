@@ -15,7 +15,7 @@ In this project, we build a Snorkel application to extract and identify correct 
 [Part 3](snorkel_part_3.ipynb)
 **- Generative Model Training**
 - Unify the LFs and reduce their noise
-- Marginal predictions from the model are used for the probabilistic training labels for the end extraction model
+- Use marginal predictions from the model as the probabilistic training labels (for the end extraction model in Part 4)
 
 [Part 4](snorkel_part_4.ipynb)
 **- LSTM Neural Network Training**
