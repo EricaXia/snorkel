@@ -6,7 +6,7 @@ In this project, we build a Snorkel application to extract and identify correct 
 **- Document Preparation, Preprocessing, and Candidate Extraction**
 
 [Part 2](snorkel_part_2.ipynb)
-**- Labeling Functions Development and Modeling**
+**- Labeling Functions Development**
 
 [Part 3](snorkel_part_3.ipynb)
 **- Generative Model Training**
