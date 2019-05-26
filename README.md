@@ -1,4 +1,4 @@
-# Extracting Virus-Host Relations from Research Text - Machine Learning Project Using Snorkel
+# Extracting Virus-Host Relations from Research Text - Machine Learning Project
 
 ![pic](/misc/logo.png)
 
