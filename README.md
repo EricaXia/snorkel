@@ -1,6 +1,16 @@
 # Extracting Virus-Host relations from Academic Papers - Machine Learning Project Using Snorkel
+<br>
+  Considering a large majority of infectious diseases are spread from animals to humans, zoonotic diseases have become an important topic of study and the subject of many research studies. Various species of viruses, such as Flaviviruses, may cause the outbreak of viral zoonotic disease. Hence, the relations between viral and animal host species are major factors in understanding the transmission and characteristics of zoonotic diseases. Natural Language Processing extraction techniques can be used to identify species-level mentions of viral-host relations in academic text. 
+<br>
+  In this project, we build a system to extract and identify correct mentions of virus and animal host species from academic research papers. The goal of such methods is to provide insights into the scientific writing and international research conducted on species linked to zoonotic disease. After extracting frequencies of the mentions of specific viral-host relations, we use supervised machine learning techniques to label entity pairs as having positive or negative associations. 
+<br>
+  One challenge in the way of applying supervised learning methods is the creation of large, labeled training sets. In our project, we require training sets of confirmed viral and host species relations. Hence, we use data programming by way of a training set creation package called Snorkel (created by HazyResearch from Stanford Dawn project) to create training set. The training sets are noisy, machine labeled sets created by applying user-defined heuristics, called labeling functions, to extracted candidate pairs. A generative model is deployed to unify the labeling functions and reduce noise in the final training set. Finally, end extraction is performed by an LSTM model to predict correct relation mentions.    
+<br>
 
-In this project, we build a Snorkel application to extract and identify correct mentions of virus and animal host species from academic research papers. The tasks are broken up into each step of the pipeline. 
+## Code
+
+The tasks are broken up into each step of the pipeline. 
+
 
 [Part 1](snorkel_part_1.ipynb)
 **- Document Preparation, Preprocessing, and Candidate Extraction**
