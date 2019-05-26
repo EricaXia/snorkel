@@ -1,4 +1,4 @@
-# Extracting Virus-Host relations from Academic Papers - Machine Learning Project Using Snorkel
+# Extracting Virus-Host Relations from Research Text - Machine Learning Project Using Snorkel
 
 In this project, we build a machine learning system to extract and identify correct mentions of virus and animal host species relations from academic research papers in the context of epidemiological research.
 
