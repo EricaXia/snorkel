@@ -21,23 +21,19 @@ In this project, we build a machine learning system to extract and identify corr
 The tasks are broken up into each step of the pipeline. 
 
 
-[Part 1](snorkel_part_1.ipynb)
-**- Document Preparation, Preprocessing, and Candidate Extraction**
+[**Part 1 - Document Preparation, Preprocessing, and Candidate Extraction**](snorkel_part_1.ipynb)
 - Read in a corpus of documents in .tsv format
 - Extract candidates through dictionary matching
 
-[Part 2](snorkel_part_2.ipynb)
-**- Labeling Functions Development**
+[**Part 2 - Labeling Functions Development**](snorkel_part_2.ipynb)
 - Develop Labeling Functions to label candidates as true or false
 - Compare LF performance with hand labeled set (gold labels)
 
-[Part 3](snorkel_part_3.ipynb)
-**- Generative Model Training**
+[**Part 3 - Generative Model Training**](snorkel_part_3.ipynb)
 - Unify the LFs and reduce their noise
 - Use marginal predictions from the model as the probabilistic training labels (for the end extraction model in Part 4)
 
-[Part 4](snorkel_part_4.ipynb)
-**- LSTM Neural Network Training**
+[**Part 4 - LSTM Neural Network Training**](snorkel_part_4.ipynb)
 - Train a LSTM model using training labels from Part 3
 - Evaluate model performance on a blind test set
 
