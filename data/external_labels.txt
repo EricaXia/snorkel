@@ -243,3 +243,190 @@ Seymour-1983-Serologic evidence of natural tog.pdf::span:16721:16729	Seymour-198
 Seymour-1983-Serologic evidence of natural tog.pdf::span:16721:16729	Seymour-1983-Serologic evidence of natural tog.pdf::span:16758:16774	1
 Seymour-1983-Serologic evidence of natural tog.pdf::span:20139:20147	Seymour-1983-Serologic evidence of natural tog.pdf::span:20072:20090	1
 Seymour-1983-Serologic evidence of natural tog.pdf::span:20206:20208	Seymour-1983-Serologic evidence of natural tog.pdf::span:20072:20090	-1
+1-s2.0-S1877959X13000587-main.pdf::span:29037:29059	1-s2.0-S1877959X13000587-main.pdf::span:29014:29018	1
+1-s2.0-S1877959X13000587-main.pdf::span:29061:29065	1-s2.0-S1877959X13000587-main.pdf::span:29014:29018	1
+1-s2.0-S1877959X13000587-main.pdf::span:29138:29146	1-s2.0-S1877959X13000587-main.pdf::span:29014:29018	1
+1-s2.0-S1877959X13001179-main.pdf::span:2463:2466	1-s2.0-S1877959X13001179-main.pdf::span:2551:2564	1
+1-s2.0-S1877959X13001179-main.pdf::span:2645:2648	1-s2.0-S1877959X13001179-main.pdf::span:2685:2687	1
+1-s2.0-S1877959X13001179-main.pdf::span:2645:2648	1-s2.0-S1877959X13001179-main.pdf::span:2737:2748	1
+1-s2.0-S1877959X13001179-main.pdf::span:2645:2648	1-s2.0-S1877959X13001179-main.pdf::span:2715:2723	1
+1-s2.0-S1877959X13001179-main.pdf::span:2645:2648	1-s2.0-S1877959X13001179-main.pdf::span:2751:2772	1
+Aguirre-1992-Serologic survey for selected arb.pdf::span:2643:2652	Aguirre-1992-Serologic survey for selected arb.pdf::span:2602:2608	1
+Aguirre-1992-Serologic survey for selected arb.pdf::span:2658:2686	Aguirre-1992-Serologic survey for selected arb.pdf::span:2602:2608	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30005:30007	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30005:30007	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30005:30007	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30005:30007	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30005:30007	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30046:30048	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30046:30048	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30046:30048	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30046:30048	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30046:30048	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30095:30097	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30095:30097	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30095:30097	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30095:30097	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30095:30097	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30135:30137	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30135:30137	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30135:30137	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30135:30137	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30135:30137	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30177:30179	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30177:30179	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30177:30179	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30177:30179	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30177:30179	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30236:30238	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30236:30238	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30236:30238	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30236:30238	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30236:30238	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30281:30283	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30281:30283	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30281:30283	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30281:30283	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30281:30283	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30324:30326	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30324:30326	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30324:30326	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30324:30326	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30324:30326	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30373:30375	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30373:30375	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30373:30375	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30373:30375	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30373:30375	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30415:30417	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30415:30417	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30415:30417	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30415:30417	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30415:30417	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30456:30458	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30456:30458	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30456:30458	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30456:30458	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30456:30458	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30497:30499	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30497:30499	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30497:30499	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30497:30499	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30497:30499	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30545:30547	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30545:30547	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30545:30547	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30545:30547	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30545:30547	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30588:30590	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30588:30590	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30588:30590	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30588:30590	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30588:30590	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30629:30631	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30629:30631	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30629:30631	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30629:30631	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30629:30631	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30677:30679	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30677:30679	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30677:30679	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30677:30679	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30677:30679	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30720:30722	Buckley-2003-Serological evidence of West Nile.pdf::span:30088:30093	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30720:30722	Buckley-2003-Serological evidence of West Nile.pdf::span:30540:30543	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30720:30722	Buckley-2003-Serological evidence of West Nile.pdf::span:30365:30371	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30720:30722	Buckley-2003-Serological evidence of West Nile.pdf::span:30670:30675	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:30720:30722	Buckley-2003-Serological evidence of West Nile.pdf::span:30219:30234	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:49:57	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:98:102	1
+fulltext367.pdf::span:12422:12444	fulltext367.pdf::span:12492:12495	1
+Haddow-2012-Genetic characterization of Zika v.pdf::span:16756:16758	Haddow-2012-Genetic characterization of Zika v.pdf::span:16792:16796	-1
+Hubalek-2012-Tick-borne viruses in Europe.pdf::span:30340:30343	Hubalek-2012-Tick-borne viruses in Europe.pdf::span:30420:30424	1
+Hubalek-2012-Tick-borne viruses in Europe.pdf::span:30340:30343	Hubalek-2012-Tick-borne viruses in Europe.pdf::span:30316:30320	1
+Hubalek-2012-Tick-borne viruses in Europe.pdf::span:30409:30411	Hubalek-2012-Tick-borne viruses in Europe.pdf::span:30420:30424	1
+Kading-2015-Detection of Entebbe Bat Virus Aft.pdf::span:1635:1649	Kading-2015-Detection of Entebbe Bat Virus Aft.pdf::span:2134:2155	-1
+Kading-2015-Detection of Entebbe Bat Virus Aft.pdf::span:2053:2063	Kading-2015-Detection of Entebbe Bat Virus Aft.pdf::span:2134:2155	1
+Kading-2015-Detection of Entebbe Bat Virus Aft.pdf::span:2053:2063	Kading-2015-Detection of Entebbe Bat Virus Aft.pdf::span:2158:2175	1
+Kramer-Chandler2001_Article_PhylogeneticAnalys.pdf::span:15618:15620	Kramer-Chandler2001_Article_PhylogeneticAnalys.pdf::span:15798:15802	-1
+Kramer-Chandler2001_Article_PhylogeneticAnalys.pdf::span:15626:15628	Kramer-Chandler2001_Article_PhylogeneticAnalys.pdf::span:15798:15802	-1
+Kramer-Chandler2001_Article_PhylogeneticAnalys.pdf::span:15718:15726	Kramer-Chandler2001_Article_PhylogeneticAnalys.pdf::span:15798:15802	1
+Lelli-2008-Serological evidence of USUTU virus.pdf::span:2798:2808	Lelli-2008-Serological evidence of USUTU virus.pdf::span:2753:2757	1
+Lelli-2008-Serological evidence of USUTU virus.pdf::span:2798:2808	Lelli-2008-Serological evidence of USUTU virus.pdf::span:2744:2750	1
+Lelli-2008-Serological evidence of USUTU virus.pdf::span:2811:2825	Lelli-2008-Serological evidence of USUTU virus.pdf::span:2753:2757	1
+Lelli-2008-Serological evidence of USUTU virus.pdf::span:2811:2825	Lelli-2008-Serological evidence of USUTU virus.pdf::span:2744:2750	1
+"Nakgoi-2014-Dengue, Japanese encephalitis and.pdf::span:14717:14720"	"Nakgoi-2014-Dengue, Japanese encephalitis and.pdf::span:14747:14751"	1
+"Nakgoi-2014-Dengue, Japanese encephalitis and.pdf::span:14723:14725"	"Nakgoi-2014-Dengue, Japanese encephalitis and.pdf::span:14747:14751"	1
+"Nakgoi-2014-Dengue, Japanese encephalitis and.pdf::span:15913:15916"	"Nakgoi-2014-Dengue, Japanese encephalitis and.pdf::span:16110:16114"	1
+"Nakgoi-2014-Dengue, Japanese encephalitis and.pdf::span:15976:15979"	"Nakgoi-2014-Dengue, Japanese encephalitis and.pdf::span:16110:16114"	1
+Pattnaik-2006-Kyasanur forest disease_ an epid.pdf::span:24524:24527	Pattnaik-2006-Kyasanur forest disease_ an epid.pdf::span:24614:24618	1
+Pattnaik-2006-Kyasanur forest disease_ an epid.pdf::span:24530:24533	Pattnaik-2006-Kyasanur forest disease_ an epid.pdf::span:24614:24618	1
+Sabattini-1965-Serological survey for arboviru.pdf::span:5690:5692	Sabattini-1965-Serological survey for arboviru.pdf::span:5729:5733	1
+Sabattini-1965-Serological survey for arboviru.pdf::span:9202:9207	Sabattini-1965-Serological survey for arboviru.pdf::span:9126:9139	1
+Steinmetz-2011-Emergence and establishment of.pdf::span:25793:25796	Steinmetz-2011-Emergence and establishment of.pdf::span:25958:25974	1
+Steinmetz-2011-Emergence and establishment of.pdf::span:25793:25796	Steinmetz-2011-Emergence and establishment of.pdf::span:25949:25955	1
+Steinmetz-2011-Emergence and establishment of.pdf::span:25793:25796	Steinmetz-2011-Emergence and establishment of.pdf::span:25988:25998	1
+Steinmetz-2011-Emergence and establishment of.pdf::span:25902:25905	Steinmetz-2011-Emergence and establishment of.pdf::span:25958:25974	1
+Steinmetz-2011-Emergence and establishment of.pdf::span:25902:25905	Steinmetz-2011-Emergence and establishment of.pdf::span:25949:25955	1
+Steinmetz-2011-Emergence and establishment of.pdf::span:25902:25905	Steinmetz-2011-Emergence and establishment of.pdf::span:25988:25998	1
+Takeda-1999-Isolation of tick-borne encephalit.pdf::span:18010:18018	Takeda-1999-Isolation of tick-borne encephalit.pdf::span:18056:18058	1
+Timoney-1976-Encephalitis caused by louping il.pdf::span:22911:22913	Timoney-1976-Encephalitis caused by louping il.pdf::span:23080:23084	1
+Wang-2009-Japanese encephalitis viruses from b.pdf::span:454:474	Wang-2009-Japanese encephalitis viruses from b.pdf::span:448:452	1
+Wang-2009-Japanese encephalitis viruses from b.pdf::span:9452:9454	Wang-2009-Japanese encephalitis viruses from b.pdf::span:9561:9565	1
+09-642913p460.pdf::span:14035:14040	09-642913p460.pdf::span:14166:14169	-1
+09-642913p460.pdf::span:14043:14053	09-642913p460.pdf::span:14166:14169	-1
+09-642913p460.pdf::span:14059:14068	09-642913p460.pdf::span:14166:14169	-1
+09-642913p460.pdf::span:219:228	09-642913p460.pdf::span:265:270	1
+09-642913p460.pdf::span:617:626	09-642913p460.pdf::span:705:710	1
+09-642913p460.pdf::span:1058:1067	09-642913p460.pdf::span:1070:1075	1
+09-642913p460.pdf::span:1341:1350	09-642913p460.pdf::span:1398:1403	1
+09-642913p460.pdf::span:1953:1962	09-642913p460.pdf::span:2060:2066	1
+09-642913p460.pdf::span:2635:2644	09-642913p460.pdf::span:2668:2673	1
+09-642913p460.pdf::span:8167:8176	09-642913p460.pdf::span:8185:8189	1
+09-642913p460.pdf::span:8203:8212	09-642913p460.pdf::span:8185:8189	1
+218.full.pdf::span:14290:14306	218.full.pdf::span:14451:14457	1
+218.full.pdf::span:14395:14399	218.full.pdf::span:14451:14457	1
+218.full.pdf::span:14481:14483	218.full.pdf::span:14451:14457	1
+218.full.pdf::span:15112:15115	218.full.pdf::span:15138:15144	1
+218.full.pdf::span:15198:15201	218.full.pdf::span:15138:15144	1
+218.full.pdf::span:15232:15235	218.full.pdf::span:15138:15144	1
+218.full.pdf::span:15261:15277	218.full.pdf::span:15138:15144	1
+218.full.pdf::span:15399:15402	218.full.pdf::span:15440:15446	1
+218.full.pdf::span:15508:15511	218.full.pdf::span:15440:15446	1
+218.full.pdf::span:19423:19445	218.full.pdf::span:19387:19391	1
+218.full.pdf::span:19595:19597	218.full.pdf::span:19610:19612	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:30882:30884	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:30851:30856	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:30882:30884	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:30838:30845	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:9264:9267	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:9345:9357	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:9399:9401	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:9345:9357	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:14176:14178	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:14421:14437	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:14176:14178	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:14464:14471	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:14263:14265	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:14421:14437	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:14263:14265	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:14464:14471	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:15992:15994	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:15925:15942	-1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:18458:18460	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:18581:18592	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:20235:20237	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:19993:20000	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:20235:20237	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:20003:20010	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:21375:21377	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:21472:21480	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:21501:21503	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:21472:21480	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:22102:22105	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:22056:22066	1
+Mackenzie-2009-The zoonotic flaviviruses of so.pdf::span:20919:20926	Mackenzie-2009-The zoonotic flaviviruses of so.pdf::span:20970:20990	1
+Sotomayor-Bonil-2014-Dengue virus in bats from.pdf::span:9544:9547	Sotomayor-Bonil-2014-Dengue virus in bats from.pdf::span:9662:9672	1
+Sotomayor-Bonil-2014-Dengue virus in bats from.pdf::span:9544:9547	Sotomayor-Bonil-2014-Dengue virus in bats from.pdf::span:9644:9655	1
+Sotomayor-Bonil-2014-Dengue virus in bats from.pdf::span:9544:9547	Sotomayor-Bonil-2014-Dengue virus in bats from.pdf::span:9628:9641	1
+Sotomayor-Bonil-2014-Dengue virus in bats from.pdf::span:9904:9907	Sotomayor-Bonil-2014-Dengue virus in bats from.pdf::span:10036:10051	1
+Sotomayor-Bonil-2014-Dengue virus in bats from.pdf::span:9904:9907	Sotomayor-Bonil-2014-Dengue virus in bats from.pdf::span:9922:9936	1
+Sotomayor-Bonil-2014-Dengue virus in bats from.pdf::span:9904:9907	Sotomayor-Bonil-2014-Dengue virus in bats from.pdf::span:10018:10033	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:8196:8203	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:8164:8169	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:13557:13565	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:13498:13503	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16181:16184	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16211:16216	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16187:16192	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16211:16216	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16245:16256	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16211:16216	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16259:16267	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16211:16216	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16270:16280	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16211:16216	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16283:16290	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16211:16216	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16306:16314	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:16211:16216	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:21097:21102	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:21058:21063	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:21123:21133	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:21058:21063	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:28866:28880	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:28811:28816	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:29052:29062	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:28811:28816	1
+Varelas-Wesley-1982-Antigenic relationships of.pdf::span:29069:29071	Varelas-Wesley-1982-Antigenic relationships of.pdf::span:28811:28816	1
