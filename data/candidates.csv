@@ -1,0 +1,4796 @@
+id,virus,host
+1,JEV,human
+2,JEV,human
+3,TBEV,mice
+4,WNV,mouse
+5,WNV,mouse
+6,WNV,chicken
+7,WNV,rabbit
+8,WNV,chicken
+9,WNV,rabbit
+10,West Nile virus,Columba livia
+11,USUV,red fox
+12,USUV,Vulpes vulpes
+13,USUV,cat
+14,SLEV,Java Sparrow
+15,SLEV,Spotted Dove
+16,JEV,Java Sparrow
+17,JEV,Spotted Dove
+18,Japanese encephalitis virus,Macaca nemestrina
+19,chikungunya virus,Macaca nemestrina
+20,dengue virus,Macaca nemestrina
+21,West Nile virus,Odocoileus virginianus
+22,West Nile virus,Tadarida condylura
+23,West Nile virus,white  tailed deer
+24,West Nile virus,Tadarida pumila
+25,WNV,Odocoileus virginianus
+26,WNV,Tadarida condylura
+27,WNV,white  tailed deer
+28,WNV,Tadarida pumila
+29,WNV,osprey
+30,WNV,Pandion haliaetus
+31,WNV,human
+32,TBEV,M arvalis
+33,ZIKV,water buffalo
+34,ZIKV,sheep
+35,ZIKV,impala
+36,ZIKV,monkey
+37,JEV,Spotted Dove
+38,JEV,Padda oryzivora
+39,JEV,Spotted Dove
+40,JEV,Java Sparrow
+41,SLEV,Spotted Dove
+42,SLEV,Padda oryzivora
+43,SLEV,Spotted Dove
+44,SLEV,Java Sparrow
+45,USUV,chicken
+46,Pasteurella,Cynomys mexicanus
+47,SIN,human
+48,SIN,human
+49,WNV,human
+50,WNV,human
+51,TBE,human
+52,SINV,human
+53,TBE virus,dog
+54, DENV ,human
+55,dengue virus,human
+56,RKI,human
+57,WNV,C modestus
+58,WEST NILE VIRUS,C modestus
+59,West Nile virus,mice
+60,TBEV,sheep
+61,TBEV,brambling
+62,TBEV,brambling
+63,Tembusu virus,Chicken
+64,TBEV,M glareolus
+65,TBEV,M arvalis
+66,TBEV,A agrarius
+67,TBEV,Turdus iliacus
+68,TBE,cattle
+69,TBEV,cattle
+70,TBE,cattle
+71,JEV,human
+72,JEV,human
+73,SINV,magpie
+74,SINV,blackbird
+75,SINV,Pica pica
+76,SINV,carrion crow
+77,SINV,Corvus corone
+78,WNV,hare
+79,WNV,rabbits
+80,WNV,rabbit
+81,WNV,hare
+82,WNV,rabbits
+83,WNV,rabbit
+84,WNV,Blackbird
+85,WNV,Blackbird
+86,WNV,Blackbird
+87,WNV,Blackbird
+88,WNV,Blackbird
+89,WNV,Blackbird
+90,WNV,Blackbird
+91,WNV,Blackbird
+92,WNV,Blackbird
+93,WNV,Blackbird
+94,TBE,human
+95,BHK,mice
+96,TBEV,mice
+97,Tick  borne encephalitis virus,mice
+98,IHC,T merula
+99,IHC,T merula
+100,IHC,T merula
+101,IHC,T merula
+102,TBEV,Sheep
+103,TBEV,monkey
+104,Japanese encephalitis,monkey
+105,Japanese encephalitis,Macaca nemestrina
+106,Japanese encephalitis,Macaca nemestrina
+107,Japanese encephalitis,Monkey
+108,Dengue,monkey
+109,Dengue,Macaca nemestrina
+110,Dengue,Macaca nemestrina
+111,Dengue,Monkey
+112,Japanese Encephalitis,monkey
+113,Japanese Encephalitis,Macaca nemestrina
+114,Japanese Encephalitis,Macaca nemestrina
+115,Japanese Encephalitis,Monkey
+116,Dengue,monkey
+117,Dengue,Macaca nemestrina
+118,Dengue,Macaca nemestrina
+119,Dengue,Monkey
+120,Chikungunya virus,monkey
+121,Chikungunya virus,Macaca nemestrina
+122,Chikungunya virus,Macaca nemestrina
+123,Chikungunya virus,Monkey
+124,Chikungunya Virus,monkey
+125,Chikungunya Virus,Macaca nemestrina
+126,Chikungunya Virus,Macaca nemestrina
+127,Chikungunya Virus,Monkey
+128,Tick  Borne Encephalitis,Apodemus agrarius
+129, TBEV ,Apodemus agrarius
+130,Tick  Borne Encephalitis,Apodemus agrarius
+131,tick  borne encephalitis virus,Apodemus agrarius
+132,KFDV,sheep
+133,ALKV,sheep
+134,TBEV,Microtus arvalis
+135,tick  borne encephalitis,human
+136,dengue,monkeys
+137,JEV,monkeys
+138,DENV,monkeys
+139,yellow fever virus,Chaerephon pumilus
+140,yellow fever virus,little free  tailed bat
+141,Entebbe bat virus,Chaerephon pumilus
+142,Entebbe bat virus,little free  tailed bat
+143,ENTV,Chaerephon pumilus
+144,ENTV,little free  tailed bat
+145,DENV,human
+146,ZIKV,human
+147,SLEV,Common Quail
+148,SLEV,Coturnix coturnix
+149,WNV,Common Quail
+150,WNV,Coturnix coturnix
+151,SLEV,Common Quail
+152,SLEV,Coturnix coturnix
+153,WNV,Common Quail
+154,WNV,Coturnix coturnix
+155,WNV,Lepus californicus
+156,WNV,black  tailed jackrabbit
+157,Lan,mouse
+158,Lan,mouse
+159,Lan,goat
+160,Lan,mouse
+161,PAP,mouse
+162,PAP,mouse
+163,PAP,goat
+164,PAP,mouse
+165,BHK,mouse
+166,BHK,mouse
+167,BHK,goat
+168,BHK,mouse
+169, PAP ,mouse
+170, PAP ,mouse
+171, PAP ,goat
+172, PAP ,mouse
+173,WNV,Ovis aries
+174,WNV,Cervus elaphus
+175,WNV,red sheep
+176,WNV,red deer
+177,WNV,Dama dama
+178,WNV,European roe
+179,WNV,Capreolus capreolus
+180,WNV,fallow deer
+181,SLEV,Crowned Eagle
+182,Squirrel monkey retrovirus,monkey
+183, SMRV ,monkey
+184,Uganda S,Xerus erythropus
+185,Lebombo,Xerus erythropus
+186,Dakar bat,Xerus erythropus
+187,West Nile,Xerus erythropus
+188,Semliki Forest,Xerus erythropus
+189,Bluetongue,Xerus erythropus
+190,Powassan virus,monkeys
+191,Una virus,mice
+192, UUKV ,Puffin
+193, UUKV ,swine
+194, TDMV ,Puffin
+195, TDMV ,swine
+196, CMV ,Puffin
+197, CMV ,swine
+198,Meaban,Puffin
+199,Meaban,swine
+200, BHAV ,Puffin
+201, BHAV ,swine
+202,DHOV,Puffin
+203,DHOV,swine
+204, MEAV ,Puffin
+205, MEAV ,swine
+206, OKHV ,Puffin
+207, OKHV ,swine
+208, SOLV ,Puffin
+209, SOLV ,swine
+210, TBEV ,Puffin
+211, TBEV ,swine
+212, ZTV ,Puffin
+213, ZTV ,swine
+214, BAUV ,Puffin
+215, BAUV ,swine
+216,Eyach,Puffin
+217,Eyach,swine
+218, MTRV ,Puffin
+219, MTRV ,swine
+220, GAV ,Puffin
+221, GAV ,swine
+222, EYAV ,Puffin
+223, EYAV ,swine
+224, CWV ,Puffin
+225, CWV ,swine
+226, PIV ,Puffin
+227, PIV ,swine
+228, LIV ,Puffin
+229, LIV ,swine
+230, BAHV ,Puffin
+231, BAHV ,swine
+232,THOV,Puffin
+233,THOV,swine
+234,African swine fever virus,Puffin
+235,African swine fever virus,swine
+236,ASFV,Puffin
+237,ASFV,swine
+238, PTVV ,Puffin
+239, PTVV ,swine
+240,Tyuleniy,Puffin
+241,Tyuleniy,swine
+242, MYKV ,Puffin
+243, MYKV ,swine
+244, SAHV ,Puffin
+245, SAHV ,swine
+246, AVAV ,Puffin
+247, AVAV ,swine
+248, TYUV ,Puffin
+249, TYUV ,swine
+250, TRBV ,Puffin
+251, TRBV ,swine
+252,TBEV,mice
+253,TBEV,mice
+254,TBEV,M musculus
+255,SMRV,monkey
+256,SMRV,monkey
+257,squirrel monkey retrovirus,monkey
+258,West Nile virus,monkey
+259,WNV,monkey
+260,TBE,Cervus elaphus
+261,TBE,Cervus elaphus
+262,TBEV,Myodes rufocanus
+263,TBEV,Microtus arvalis
+264,TBEV,Myodes rufocanus
+265,TBEV,Microtus arvalis
+266,TBEV,Myodes rufocanus
+267,TBEV,Microtus arvalis
+268,WNV,Cygnus olor
+269,SMRV,Cygnus olor
+270,SMRV,Cygnus olor
+271,WNV,Cygnus olor
+272,SMRV,Cygnus olor
+273,SMRV,Cygnus olor
+274,WNV,Magpie
+275,WNV,Magpie
+276,LIV,Magpie
+277,WNV,Magpie
+278,USUV,Magpie
+279,WNV,Magpie
+280,WNV,Magpie
+281,WNV,Magpie
+282,WNV,Magpie
+283,WNV,Magpie
+284,SINV,Magpie
+285,WNV,Magpie
+286,WNV,Magpie
+287,TBE,monkey
+288,TBE,monkeys
+289,TBE,monkey
+290,TBE,Macaca sylvanus
+291,TBEV,monkey
+292,TBEV,monkeys
+293,TBEV,monkey
+294,TBEV,Macaca sylvanus
+295,TBE,monkey
+296,TBE,monkeys
+297,TBE,monkey
+298,TBE,Macaca sylvanus
+299,USUTU,chicken
+300,USUTU,chicken
+301,TBEV,chicken
+302,WNV,chicken
+303,TBEV,M glareolus
+304,TBE,M glareolus
+305,EEEV,human
+306,WNV,human
+307,SLEV,human
+308,West Nile virus,Corvus mellori
+309,West Nile virus,little raven
+310,tick  borne encephalitis virus,sheep
+311,tick  borne encephalitis,sheep
+312, TBE ,sheep
+313, TBEV ,sheep
+314,WNV,C modestus
+315,WNV,magpie
+316,TBE,Vulpes vulpes
+317,TBEV,Vulpes vulpes
+318,TBE,Vulpes vulpes
+319,SLEV,human
+320,TBE,rhesus monkey
+321,TBE,sheep
+322,TBE,pig
+323,TBE,mouse
+324,WNV,American kestrel
+325,LI virus,Horse
+326,DENV,Proechimys cuvieri
+327,DENV,Proechimys cuvieri
+328,TBEV,human
+329,TBEV,human
+330,bat virus,eloquent horseshoe bat
+331,bat virus,Egyptian fruit bat
+332,bat virus,Rhinolophus hildebrandtii
+333,bat virus,Mops condylurus
+334,bat virus,Rousettus aegyptiacus
+335,Bukalasa bat virus,eloquent horseshoe bat
+336,Bukalasa bat virus,Egyptian fruit bat
+337,Bukalasa bat virus,Rhinolophus hildebrandtii
+338,Bukalasa bat virus,Mops condylurus
+339,Bukalasa bat virus,Rousettus aegyptiacus
+340,ENTV,eloquent horseshoe bat
+341,ENTV,Egyptian fruit bat
+342,ENTV,Rhinolophus hildebrandtii
+343,ENTV,Mops condylurus
+344,ENTV,Rousettus aegyptiacus
+345,Entebbe bat virus,eloquent horseshoe bat
+346,Entebbe bat virus,Egyptian fruit bat
+347,Entebbe bat virus,Rhinolophus hildebrandtii
+348,Entebbe bat virus,Mops condylurus
+349,Entebbe bat virus,Rousettus aegyptiacus
+350,bat virus,eloquent horseshoe bat
+351,bat virus,Egyptian fruit bat
+352,bat virus,Rhinolophus hildebrandtii
+353,bat virus,Mops condylurus
+354,bat virus,Rousettus aegyptiacus
+355,bat virus,eloquent horseshoe bat
+356,bat virus,Egyptian fruit bat
+357,bat virus,Rhinolophus hildebrandtii
+358,bat virus,Mops condylurus
+359,bat virus,Rousettus aegyptiacus
+360,ENTV,eloquent horseshoe bat
+361,ENTV,Egyptian fruit bat
+362,ENTV,Rhinolophus hildebrandtii
+363,ENTV,Mops condylurus
+364,ENTV,Rousettus aegyptiacus
+365,Bukalasa bat virus,eloquent horseshoe bat
+366,Bukalasa bat virus,Egyptian fruit bat
+367,Bukalasa bat virus,Rhinolophus hildebrandtii
+368,Bukalasa bat virus,Mops condylurus
+369,Bukalasa bat virus,Rousettus aegyptiacus
+370,Dakar bat virus,eloquent horseshoe bat
+371,Dakar bat virus,Egyptian fruit bat
+372,Dakar bat virus,Rhinolophus hildebrandtii
+373,Dakar bat virus,Mops condylurus
+374,Dakar bat virus,Rousettus aegyptiacus
+375,Dakar bat virus,eloquent horseshoe bat
+376,Dakar bat virus,Egyptian fruit bat
+377,Dakar bat virus,Rhinolophus hildebrandtii
+378,Dakar bat virus,Mops condylurus
+379,Dakar bat virus,Rousettus aegyptiacus
+380,ENTV,eloquent horseshoe bat
+381,ENTV,Egyptian fruit bat
+382,ENTV,Rhinolophus hildebrandtii
+383,ENTV,Mops condylurus
+384,ENTV,Rousettus aegyptiacus
+385,FITC,mouse
+386,FITC,goat
+387,TBEV,mouse
+388,TBEV,goat
+389,TBEV,mouse
+390,TBEV,goat
+391,TBE virus,dog
+392,yellow fever,mice
+393,dengue,mice
+394,IHC,Oreamnos americanus
+395,IHC,Fallow deer
+396,IHC,White  tailed deer
+397,IHC,Dama dama
+398,IHC,European roe
+399,IHC,Roman mole
+400,IHC,Asian elephant
+401,IHC,Indian rhinoceros
+402,IHC,Odocoileus virginianus
+403,IHC,Capreolus capreolus
+404,IHC,Talpa romana
+405,IHC,Red deer
+406,IHC,Reindeer
+407,IHC,Red sheep
+408,IHC,horse
+409,IHC,Elephas maximus
+410,IHC,Mountain goat
+411,IHC,Cervus elaphus
+412,IHC,Rhinoceros unicornis
+413,IHC,Rangifer tarandus
+414,IHC,Equus caballus
+415,USUV,human
+416,CDC,killer whale
+417,SLE,killer whale
+418,SLE virus,killer whale
+419,TBEV,sheep
+420,TBEV,goat
+421,TBE,sheep
+422,TBE,goat
+423,DEN,human
+424,SLEV,human
+425,JEV,human
+426,WNV,human
+427,JEV,human
+428,Zika virus,mice
+429,Zika virus,mouse
+430,LIV,goat
+431,LIV,sheep
+432,DENV,human
+433,dengue,human
+434,West Nile virus,Lobo
+435,USUV,Blackbird
+436,WNV,Lepus europaeus
+437,Sindbis,Cattle
+438,Sindbis,Dog
+439,Sindbis,Goat
+440,Langat,Cattle
+441,Langat,Dog
+442,Langat,Goat
+443,West Nile,Cattle
+444,West Nile,Dog
+445,West Nile,Goat
+446,ZIKV,human
+447,TMUV,duck
+448,Cherry,duck
+449,West Nile Virus,human
+450,TBEV,Turdus pilaris
+451, WNF ,human
+452, WNF ,human
+453,WNF,human
+454,WNF,human
+455,West Nile,human
+456,West Nile,human
+457,TBEV,M agrestis
+458,TBEV,M glareolus
+459,USUV,Blackbird
+460,TBEV,rabbit
+461,SSEV,sheep
+462,TBEV,Acrocephalus dumetorum
+463,TBEV,pig
+464,TBEV,reed warbler
+465,TBEV,fieldfare
+466,SLE,human
+467,yellow fever,human
+468,TBEV,human
+469,JEV,mice
+470,dengue,Human
+471,WNV,Ciconia ciconia
+472,WNV,Ciconia ciconia
+473,TBE,human
+474,TBE,human
+475,DENV,human
+476,DENV,human
+477,DENV,human
+478,DENV,human
+479,KFD,human
+480, SLEV ,Human
+481, SLEV ,Human
+482,West Nile,Human
+483,West Nile,Human
+484,West Nile,Human
+485,West Nile,Human
+486,SLEV,human
+487,TBE,human
+488,SINV,black grouse
+489,SINV,capercaillie
+490,USUTU VIRUS,blackbird
+491,USUTU VIRUS,blackbird
+492,TBEV,M arvalis
+493,TBE virus,sheep
+494,Zika virus,human
+495,Zika virus,monkeys
+496,TBEV,goat
+497,WNV,Green woodpecker
+498,WNV,Magpie
+499,WNV,Duck
+500,WNV,Chicken
+501,WNV,Turkey
+502,WNV,Green woodpecker
+503,WNV,Magpie
+504,WNV,Duck
+505,WNV,Chicken
+506,WNV,Turkey
+507,WNV,Green woodpecker
+508,WNV,Magpie
+509,WNV,Duck
+510,WNV,Chicken
+511,WNV,Turkey
+512,WNV,Green woodpecker
+513,WNV,Magpie
+514,WNV,Duck
+515,WNV,Chicken
+516,WNV,Turkey
+517,WNV,Green woodpecker
+518,WNV,Magpie
+519,WNV,Duck
+520,WNV,Chicken
+521,WNV,Turkey
+522,WNV,Green woodpecker
+523,WNV,Magpie
+524,WNV,Duck
+525,WNV,Chicken
+526,WNV,Turkey
+527,WNV,Green woodpecker
+528,WNV,Magpie
+529,WNV,Duck
+530,WNV,Chicken
+531,WNV,Turkey
+532,WNV,Green woodpecker
+533,WNV,Magpie
+534,WNV,Duck
+535,WNV,Chicken
+536,WNV,Turkey
+537,WNV,Green woodpecker
+538,WNV,Magpie
+539,WNV,Duck
+540,WNV,Chicken
+541,WNV,Turkey
+542,WNV,Green woodpecker
+543,WNV,Magpie
+544,WNV,Duck
+545,WNV,Chicken
+546,WNV,Turkey
+547,WNV,Green woodpecker
+548,WNV,Magpie
+549,WNV,Duck
+550,WNV,Chicken
+551,WNV,Turkey
+552,WNV,Green woodpecker
+553,WNV,Magpie
+554,WNV,Duck
+555,WNV,Chicken
+556,WNV,Turkey
+557,WNV,Green woodpecker
+558,WNV,Magpie
+559,WNV,Duck
+560,WNV,Chicken
+561,WNV,Turkey
+562,WNV,Green woodpecker
+563,WNV,Magpie
+564,WNV,Duck
+565,WNV,Chicken
+566,WNV,Turkey
+567,WNV,Green woodpecker
+568,WNV,Magpie
+569,WNV,Duck
+570,WNV,Chicken
+571,WNV,Turkey
+572,WNV,Green woodpecker
+573,WNV,Magpie
+574,WNV,Duck
+575,WNV,Chicken
+576,WNV,Turkey
+577,WNV,Green woodpecker
+578,WNV,Magpie
+579,WNV,Duck
+580,WNV,Chicken
+581,WNV,Turkey
+582,WNV,Green woodpecker
+583,WNV,Magpie
+584,WNV,Duck
+585,WNV,Chicken
+586,WNV,Turkey
+587,DENV,Carollia perspicillata
+588,eastern equine encephalitis virus,Caracara cheriway
+589, WNV ,Caracara cheriway
+590, EEEV ,Caracara cheriway
+591,West Nile virus,Caracara cheriway
+592, SLEV ,Caracara cheriway
+593,West Nile Virus,Caracara cheriway
+594,TBE virus,dog
+595, RSSE ,dog
+596,RSSE,dog
+597,TBEV,sheep
+598,West Nile,human
+599,WNV,common kestrel
+600,USUV,common kestrel
+601,WNV,common kestrel
+602,Usutu virus,great spotted woodpecker
+603,Usutu virus,Pyrrhula pyrrhula
+604,Usutu virus,Dendrocopos major
+605,Usutu virus,great spotted woodpecker
+606,Usutu virus,Pyrrhula pyrrhula
+607,Usutu virus,Dendrocopos major
+608,Usutu virus,great spotted woodpecker
+609,Usutu virus,Pyrrhula pyrrhula
+610,Usutu virus,Dendrocopos major
+611,Usutu virus,great spotted woodpecker
+612,Usutu virus,Pyrrhula pyrrhula
+613,Usutu virus,Dendrocopos major
+614,SLEV,human
+615,SLEV,human
+616,SINV,redwing
+617,Japanese encephalitis,human
+618,FITC,rabbit
+619,FITC,rabbit
+620,FITC,goat
+621,TBEV,rabbit
+622,TBEV,rabbit
+623,TBEV,goat
+624,LAN,human
+625,CHIK,human
+626,den,human
+627,dengue,human
+628,TBE virus,cattle
+629,KFD,human
+630,WNV,white stork
+631,TMUV,duck
+632,TBEV,sheep
+633,ZIKV,human
+634,ZIKV,human
+635,WNV,Crowned Eagle
+636,DENV,human
+637,TBEV,M arvalis
+638,KFD,monkeys
+639,KFD,Semnopithecus entellus
+640,KFD,monkey
+641,KFD,Macaca radiata
+642,WNV,Rufous Hornero
+643,LIV,goat
+644,LIV,pig
+645,LIV,dog
+646,LIV,hare
+647,LIV,cattle
+648,LIV,horse
+649,TBEV,Apodemus agrarius
+650,TBEV,Apodemus agrarius
+651,WNV,Equus caballus
+652,WNV,Mice
+653,WNV,mice
+654,USUV,Chicken
+655,USUV,Chicken
+656,USUV,Chicken
+657,USUV,Chicken
+658,USUV,Chicken
+659,USUV,Chicken
+660,USUV,Chicken
+661,USUV,Chicken
+662,USUV,Chicken
+663,USUV,Chicken
+664,USUV,Chicken
+665,USUV,Chicken
+666,USUV,Chicken
+667,USUV,Chicken
+668,USUV,Chicken
+669,USUV,Chicken
+670,USUV,Chicken
+671,USUV,Chicken
+672,USUV,Chicken
+673,USUV,Chicken
+674,TBEV,Chicken
+675,TBEV,Chicken
+676,TBEV,Chicken
+677,TBEV,Chicken
+678,TBEV,Chicken
+679,TBEV,Chicken
+680,TBEV,Chicken
+681,TBEV,Chicken
+682,TBEV,Chicken
+683,TBEV,Chicken
+684,TBEV,Chicken
+685,TBEV,Chicken
+686,TBEV,Chicken
+687,TBEV,Chicken
+688,TBEV,Chicken
+689,TBEV,Chicken
+690,TBEV,Chicken
+691,TBEV,Chicken
+692,TBEV,Chicken
+693,TBEV,Chicken
+694,West Nile virus,Chicken
+695,West Nile virus,Chicken
+696,West Nile virus,Chicken
+697,West Nile virus,Chicken
+698,West Nile virus,Chicken
+699,West Nile virus,Chicken
+700,West Nile virus,Chicken
+701,West Nile virus,Chicken
+702,West Nile virus,Chicken
+703,West Nile virus,Chicken
+704,West Nile virus,Chicken
+705,West Nile virus,Chicken
+706,West Nile virus,Chicken
+707,West Nile virus,Chicken
+708,West Nile virus,Chicken
+709,West Nile virus,Chicken
+710,West Nile virus,Chicken
+711,West Nile virus,Chicken
+712,West Nile virus,Chicken
+713,West Nile virus,Chicken
+714,TBEV,Chicken
+715,TBEV,Chicken
+716,TBEV,Chicken
+717,TBEV,Chicken
+718,TBEV,Chicken
+719,TBEV,Chicken
+720,TBEV,Chicken
+721,TBEV,Chicken
+722,TBEV,Chicken
+723,TBEV,Chicken
+724,TBEV,Chicken
+725,TBEV,Chicken
+726,TBEV,Chicken
+727,TBEV,Chicken
+728,TBEV,Chicken
+729,TBEV,Chicken
+730,TBEV,Chicken
+731,TBEV,Chicken
+732,TBEV,Chicken
+733,TBEV,Chicken
+734,WNV,Chicken
+735,WNV,Chicken
+736,WNV,Chicken
+737,WNV,Chicken
+738,WNV,Chicken
+739,WNV,Chicken
+740,WNV,Chicken
+741,WNV,Chicken
+742,WNV,Chicken
+743,WNV,Chicken
+744,WNV,Chicken
+745,WNV,Chicken
+746,WNV,Chicken
+747,WNV,Chicken
+748,WNV,Chicken
+749,WNV,Chicken
+750,WNV,Chicken
+751,WNV,Chicken
+752,WNV,Chicken
+753,WNV,Chicken
+754,USUV,Chicken
+755,USUV,Chicken
+756,USUV,Chicken
+757,USUV,Chicken
+758,USUV,Chicken
+759,USUV,Chicken
+760,USUV,Chicken
+761,USUV,Chicken
+762,USUV,Chicken
+763,USUV,Chicken
+764,USUV,Chicken
+765,USUV,Chicken
+766,USUV,Chicken
+767,USUV,Chicken
+768,USUV,Chicken
+769,USUV,Chicken
+770,USUV,Chicken
+771,USUV,Chicken
+772,USUV,Chicken
+773,USUV,Chicken
+774,WNV,Chicken
+775,WNV,Chicken
+776,WNV,Chicken
+777,WNV,Chicken
+778,WNV,Chicken
+779,WNV,Chicken
+780,WNV,Chicken
+781,WNV,Chicken
+782,WNV,Chicken
+783,WNV,Chicken
+784,WNV,Chicken
+785,WNV,Chicken
+786,WNV,Chicken
+787,WNV,Chicken
+788,WNV,Chicken
+789,WNV,Chicken
+790,WNV,Chicken
+791,WNV,Chicken
+792,WNV,Chicken
+793,WNV,Chicken
+794,USUV,Chicken
+795,USUV,Chicken
+796,USUV,Chicken
+797,USUV,Chicken
+798,USUV,Chicken
+799,USUV,Chicken
+800,USUV,Chicken
+801,USUV,Chicken
+802,USUV,Chicken
+803,USUV,Chicken
+804,USUV,Chicken
+805,USUV,Chicken
+806,USUV,Chicken
+807,USUV,Chicken
+808,USUV,Chicken
+809,USUV,Chicken
+810,USUV,Chicken
+811,USUV,Chicken
+812,USUV,Chicken
+813,USUV,Chicken
+814,TBEV,Chicken
+815,TBEV,Chicken
+816,TBEV,Chicken
+817,TBEV,Chicken
+818,TBEV,Chicken
+819,TBEV,Chicken
+820,TBEV,Chicken
+821,TBEV,Chicken
+822,TBEV,Chicken
+823,TBEV,Chicken
+824,TBEV,Chicken
+825,TBEV,Chicken
+826,TBEV,Chicken
+827,TBEV,Chicken
+828,TBEV,Chicken
+829,TBEV,Chicken
+830,TBEV,Chicken
+831,TBEV,Chicken
+832,TBEV,Chicken
+833,TBEV,Chicken
+834,USUTU virus,Chicken
+835,USUTU virus,Chicken
+836,USUTU virus,Chicken
+837,USUTU virus,Chicken
+838,USUTU virus,Chicken
+839,USUTU virus,Chicken
+840,USUTU virus,Chicken
+841,USUTU virus,Chicken
+842,USUTU virus,Chicken
+843,USUTU virus,Chicken
+844,USUTU virus,Chicken
+845,USUTU virus,Chicken
+846,USUTU virus,Chicken
+847,USUTU virus,Chicken
+848,USUTU virus,Chicken
+849,USUTU virus,Chicken
+850,USUTU virus,Chicken
+851,USUTU virus,Chicken
+852,USUTU virus,Chicken
+853,USUTU virus,Chicken
+854,USUV,Chicken
+855,USUV,Chicken
+856,USUV,Chicken
+857,USUV,Chicken
+858,USUV,Chicken
+859,USUV,Chicken
+860,USUV,Chicken
+861,USUV,Chicken
+862,USUV,Chicken
+863,USUV,Chicken
+864,USUV,Chicken
+865,USUV,Chicken
+866,USUV,Chicken
+867,USUV,Chicken
+868,USUV,Chicken
+869,USUV,Chicken
+870,USUV,Chicken
+871,USUV,Chicken
+872,USUV,Chicken
+873,USUV,Chicken
+874,TBEV,Chicken
+875,TBEV,Chicken
+876,TBEV,Chicken
+877,TBEV,Chicken
+878,TBEV,Chicken
+879,TBEV,Chicken
+880,TBEV,Chicken
+881,TBEV,Chicken
+882,TBEV,Chicken
+883,TBEV,Chicken
+884,TBEV,Chicken
+885,TBEV,Chicken
+886,TBEV,Chicken
+887,TBEV,Chicken
+888,TBEV,Chicken
+889,TBEV,Chicken
+890,TBEV,Chicken
+891,TBEV,Chicken
+892,TBEV,Chicken
+893,TBEV,Chicken
+894,TBEV,Chicken
+895,TBEV,Chicken
+896,TBEV,Chicken
+897,TBEV,Chicken
+898,TBEV,Chicken
+899,TBEV,Chicken
+900,TBEV,Chicken
+901,TBEV,Chicken
+902,TBEV,Chicken
+903,TBEV,Chicken
+904,TBEV,Chicken
+905,TBEV,Chicken
+906,TBEV,Chicken
+907,TBEV,Chicken
+908,TBEV,Chicken
+909,TBEV,Chicken
+910,TBEV,Chicken
+911,TBEV,Chicken
+912,TBEV,Chicken
+913,TBEV,Chicken
+914,tick  borne encephalitis virus,Chicken
+915,tick  borne encephalitis virus,Chicken
+916,tick  borne encephalitis virus,Chicken
+917,tick  borne encephalitis virus,Chicken
+918,tick  borne encephalitis virus,Chicken
+919,tick  borne encephalitis virus,Chicken
+920,tick  borne encephalitis virus,Chicken
+921,tick  borne encephalitis virus,Chicken
+922,tick  borne encephalitis virus,Chicken
+923,tick  borne encephalitis virus,Chicken
+924,tick  borne encephalitis virus,Chicken
+925,tick  borne encephalitis virus,Chicken
+926,tick  borne encephalitis virus,Chicken
+927,tick  borne encephalitis virus,Chicken
+928,tick  borne encephalitis virus,Chicken
+929,tick  borne encephalitis virus,Chicken
+930,tick  borne encephalitis virus,Chicken
+931,tick  borne encephalitis virus,Chicken
+932,tick  borne encephalitis virus,Chicken
+933,tick  borne encephalitis virus,Chicken
+934,WNV,Chicken
+935,WNV,Chicken
+936,WNV,Chicken
+937,WNV,Chicken
+938,WNV,Chicken
+939,WNV,Chicken
+940,WNV,Chicken
+941,WNV,Chicken
+942,WNV,Chicken
+943,WNV,Chicken
+944,WNV,Chicken
+945,WNV,Chicken
+946,WNV,Chicken
+947,WNV,Chicken
+948,WNV,Chicken
+949,WNV,Chicken
+950,WNV,Chicken
+951,WNV,Chicken
+952,WNV,Chicken
+953,WNV,Chicken
+954,TBEV,Chicken
+955,TBEV,Chicken
+956,TBEV,Chicken
+957,TBEV,Chicken
+958,TBEV,Chicken
+959,TBEV,Chicken
+960,TBEV,Chicken
+961,TBEV,Chicken
+962,TBEV,Chicken
+963,TBEV,Chicken
+964,TBEV,Chicken
+965,TBEV,Chicken
+966,TBEV,Chicken
+967,TBEV,Chicken
+968,TBEV,Chicken
+969,TBEV,Chicken
+970,TBEV,Chicken
+971,TBEV,Chicken
+972,TBEV,Chicken
+973,TBEV,Chicken
+974,WNV,Chicken
+975,WNV,Chicken
+976,WNV,Chicken
+977,WNV,Chicken
+978,WNV,Chicken
+979,WNV,Chicken
+980,WNV,Chicken
+981,WNV,Chicken
+982,WNV,Chicken
+983,WNV,Chicken
+984,WNV,Chicken
+985,WNV,Chicken
+986,WNV,Chicken
+987,WNV,Chicken
+988,WNV,Chicken
+989,WNV,Chicken
+990,WNV,Chicken
+991,WNV,Chicken
+992,WNV,Chicken
+993,WNV,Chicken
+994,USUV,Chicken
+995,USUV,Chicken
+996,USUV,Chicken
+997,USUV,Chicken
+998,USUV,Chicken
+999,USUV,Chicken
+1000,USUV,Chicken
+1001,USUV,Chicken
+1002,USUV,Chicken
+1003,USUV,Chicken
+1004,USUV,Chicken
+1005,USUV,Chicken
+1006,USUV,Chicken
+1007,USUV,Chicken
+1008,USUV,Chicken
+1009,USUV,Chicken
+1010,USUV,Chicken
+1011,USUV,Chicken
+1012,USUV,Chicken
+1013,USUV,Chicken
+1014,WNV,Chicken
+1015,WNV,Chicken
+1016,WNV,Chicken
+1017,WNV,Chicken
+1018,WNV,Chicken
+1019,WNV,Chicken
+1020,WNV,Chicken
+1021,WNV,Chicken
+1022,WNV,Chicken
+1023,WNV,Chicken
+1024,WNV,Chicken
+1025,WNV,Chicken
+1026,WNV,Chicken
+1027,WNV,Chicken
+1028,WNV,Chicken
+1029,WNV,Chicken
+1030,WNV,Chicken
+1031,WNV,Chicken
+1032,WNV,Chicken
+1033,WNV,Chicken
+1034,USUV,Chicken
+1035,USUV,Chicken
+1036,USUV,Chicken
+1037,USUV,Chicken
+1038,USUV,Chicken
+1039,USUV,Chicken
+1040,USUV,Chicken
+1041,USUV,Chicken
+1042,USUV,Chicken
+1043,USUV,Chicken
+1044,USUV,Chicken
+1045,USUV,Chicken
+1046,USUV,Chicken
+1047,USUV,Chicken
+1048,USUV,Chicken
+1049,USUV,Chicken
+1050,USUV,Chicken
+1051,USUV,Chicken
+1052,USUV,Chicken
+1053,USUV,Chicken
+1054,WNV,Chicken
+1055,WNV,Chicken
+1056,WNV,Chicken
+1057,WNV,Chicken
+1058,WNV,Chicken
+1059,WNV,Chicken
+1060,WNV,Chicken
+1061,WNV,Chicken
+1062,WNV,Chicken
+1063,WNV,Chicken
+1064,WNV,Chicken
+1065,WNV,Chicken
+1066,WNV,Chicken
+1067,WNV,Chicken
+1068,WNV,Chicken
+1069,WNV,Chicken
+1070,WNV,Chicken
+1071,WNV,Chicken
+1072,WNV,Chicken
+1073,WNV,Chicken
+1074,WNV,jay
+1075,Chikungunya,human
+1076,FCS,mice
+1077,FCS,mice
+1078,MVEV,horse
+1079,MVEV,horse
+1080,KFD,Macaca radiata
+1081,KFDV,Macaca radiata
+1082,TBE,cattle
+1083,TBEV,red deer
+1084,TBEV,red deer
+1085,JEV,human
+1086,TBEV,red deer
+1087,West Nile virus,Weasel
+1088,West Nile virus,Lemur catta
+1089,West Nile virus,Propithecus verreauxi
+1090,West Nile virus,Ring  tailed lemur
+1091,West Nile virus,Barbary macaque
+1092,West Nile virus,Macaca sylvanus
+1093,West Nile virus,Propithecus coquereli
+1094,West Nile virus,Brown lemur
+1095,West Nile virus,Lepilemur edwardsi
+1096,West Nile virus,Papio cynocephalus
+1097,West Nile,chicken
+1098,tick  borne encephalitis,chicken
+1099,USUTU virus,chicken
+1100,WNV,chicken
+1101,USUV,human
+1102,Royal farm virus,human
+1103,Kadam virus,human
+1104, ICR ,mice
+1105,yellow fever virus,monkeys
+1106,Zika,monkeys
+1107,yellow fever virus,monkeys
+1108,ZIKV,monkeys
+1109,WNV,long  tailed field mouse
+1110,WNV,Mus spretus
+1111,WNV,mouse
+1112,WNV,Apodemus sylvaticus
+1113,WNV,western Mediterranean mouse
+1114,WNV,Apodemus
+1115,USUV,blackbird
+1116,USUV,Turdus merula
+1117,SLEV,Crowned Eagle
+1118,Japanese encephalitis,human
+1119,TBEV,M arvalis
+1120,TBEV,Apodemus agrarius
+1121,TBEV,Microtus agrestis
+1122,TBEV,Myodes glareolus
+1123,TBEV,Apodemus flavicollis
+1124,TBEV,Apodemus
+1125,West Nile,Goose
+1126,West Nile,Human
+1127,West Nile,Phoenicopterus chilensis
+1128,West Nile,Chilean flamingo
+1129, TBE ,human
+1130,Tick  borne encephalitis,human
+1131,EEE virus,human
+1132,EEE virus,cattle
+1133,EEE virus,horse
+1134,WEE,human
+1135,WEE,cattle
+1136,WEE,horse
+1137,TBE,monkey
+1138,TBE,Apodemus
+1139,TBE,human
+1140,TBE,Apodemus
+1141,TBE,human
+1142,TBE virus,Apodemus
+1143,TBE virus,human
+1144,TBEV,cow
+1145,TBEV,cow
+1146,WNV,Eptesicus fuscus
+1147,WNV,Myotis septentrionalis
+1148,WNV,northern myotis
+1149,WNV,little brown myotis
+1150,WNV,Myotis lucifugus
+1151,Japanese encephalitis,Agelaius phoeniceus
+1152,West Nile,Agelaius phoeniceus
+1153,West Nile,human
+1154,Usutu,human
+1155,DENV,human
+1156,DENV,human
+1157,SLE,human
+1158,MVE,human
+1159,CNS,human
+1160,TBEV,M arvalis
+1161,JEV,swine
+1162,JEV,Black  crowned Night Heron
+1163,JEV,Bubulcus ibis
+1164,JEV,Cattle Egret
+1165,JEV,Sus scrofa
+1166,JEV,Nycticorax nycticorax
+1167,WNV,Thallomys nigricauda
+1168,WNV,African arvicanthis
+1169,WNV,common dasymys
+1170,WNV,Dasymys incomtus
+1171,WNV,sika
+1172,WNV,rusty  bellied brush  furred rat
+1173,USUV,house sparrow
+1174,yellow fever virus,monkeys
+1175,WNV,Erithacus rubecula
+1176,WNV,Pandion haliaetus
+1177,WNV,Ciconia ciconia
+1178,WNV,Sylvia borin
+1179,WNV,Motacilla flava
+1180,WNV,Lanius collurio
+1181,WNV,Phoenicurus phoenicurus
+1182,WNV,osprey
+1183,WNV,Ficedula hypoleuca
+1184,WNV,Haliaeetus albicilla
+1185,West Nile virus,Erithacus rubecula
+1186,West Nile virus,Pandion haliaetus
+1187,West Nile virus,Ciconia ciconia
+1188,West Nile virus,Sylvia borin
+1189,West Nile virus,Motacilla flava
+1190,West Nile virus,Lanius collurio
+1191,West Nile virus,Phoenicurus phoenicurus
+1192,West Nile virus,osprey
+1193,West Nile virus,Ficedula hypoleuca
+1194,West Nile virus,Haliaeetus albicilla
+1195,duck circovirus,duck
+1196,duck circovirus,duck
+1197,duck circovirus,Muscovy duck
+1198,duck circovirus,goose
+1199,duck circovirus,goose
+1200,duck circovirus,duck
+1201,duck circovirus,goose
+1202,duck circovirus,duck
+1203,SLEV,Northern mockingbird
+1204,SLEV,Mimus polyglottos
+1205,West Nile virus,Ficedula hypoleuca
+1206,West Nile virus,Cygnus olor
+1207,West Nile virus,Pandion haliaetus
+1208,West Nile virus,Milvus migrans
+1209,West Nile virus,Phoenicurus phoenicurus
+1210,West Nile virus,Accipiter gentilis
+1211,West Nile virus,Ciconia ciconia
+1212,West Nile virus,Lanius collurio
+1213,West Nile Virus,Caracara cheriway
+1214,USUV,blackbird
+1215,TBEV,blackbird
+1216,WNV,Elaenia martinica
+1217,WNV,Caribbean elaenia
+1218,WNV,Elaenia martinica
+1219,WNV,Caribbean elaenia
+1220,Zika,rhesus monkey
+1221,TBEV,Apodemus flavicollis
+1222,TBEV,Sciurus vulgaris
+1223,TBEV,cattle
+1224,TBEV,euro
+1225,TBEV,Sorex araneus
+1226,TBEV,sheep
+1227,TBEV,Erinaceus concolor
+1228,TBEV,Apodemus sylvaticus
+1229,TBEV,Myodes glareolus
+1230,TBEV,Myodes rufocanus
+1231,TBEV,goat
+1232,TBEV,Microtus agrestis
+1233,TBEV,human
+1234,SLEV,horse
+1235,SLEV,chicken
+1236,WNV,horse
+1237,WNV,chicken
+1238,EEEV,horse
+1239,EEEV,chicken
+1240,Zika,rhesus monkey
+1241,Zika virus,rhesus monkey
+1242,TBE,human
+1243,TBEV,human
+1244,Bagaza virus,turkey
+1245,Ilheus virus,turkey
+1246,TBEV,red deer
+1247,TBEV,red deer
+1248,USUV,Strix nebulosa
+1249,USUV,Turdus merula
+1250,DENV,human
+1251,BHK,Human
+1252,BHK,mouse
+1253,BHK,green monkey
+1254,BHK,Human
+1255,ZIKV,human
+1256,TBEV,red deer
+1257,TBEVVZCro,red deer
+1258,TBEVTikves,red deer
+1259,TBEVVRBCro,red deer
+1260,TBEVSDjCro,red deer
+1261,TBE,monkeys
+1262,tick  borne encephalitis,human
+1263,TBE,human
+1264,WNV,mouse
+1265,WNV,mouse
+1266,TBE,human
+1267,TBE,human
+1268,TBE,human
+1269, WNV ,human
+1270,WNV,human
+1271,West Nile virus,human
+1272,WNV,human
+1273,EEE virus,human
+1274,EEE,human
+1275,WNV,turkey
+1276,WNV,robin
+1277,WNV,turkey
+1278,WNV,robin
+1279,LIV,turkey
+1280,LIV,robin
+1281,LIV,goat
+1282,TBEV,goat
+1283,TYUV,goat
+1284,TBE,human
+1285,TBE,human
+1286,Mayaro,Passer domesticus
+1287,Mayaro,Coryphistera alaudina
+1288,Mayaro,Guira guira
+1289,Mayaro,Zonotrichia capensis
+1290,Mayaro,Chloroceryle americana
+1291,Mayaro,Pseudoseisura lophotes
+1292,Mayaro,Machetornis rixosa
+1293,Pixuna,Passer domesticus
+1294,Pixuna,Coryphistera alaudina
+1295,Pixuna,Guira guira
+1296,Pixuna,Zonotrichia capensis
+1297,Pixuna,Chloroceryle americana
+1298,Pixuna,Pseudoseisura lophotes
+1299,Pixuna,Machetornis rixosa
+1300,Una,cattle
+1301,Una,chicken
+1302,Una,Glaucidium brasilianum
+1303,EEE,cattle
+1304,EEE,chicken
+1305,EEE,Glaucidium brasilianum
+1306,Pixuna,cattle
+1307,Pixuna,chicken
+1308,Pixuna,Glaucidium brasilianum
+1309,JEV,swine
+1310,JEV,swine
+1311,West Nile virus,Nankeen night heron
+1312,West Nile virus,horse
+1313,MVEV,Nankeen night heron
+1314,MVEV,horse
+1315,MVEV,Nankeen night heron
+1316,MVEV,horse
+1317, WNV ,Nankeen night heron
+1318, WNV ,horse
+1319,Japanese encephalitis,Nankeen night heron
+1320,Japanese encephalitis,horse
+1321,Yersinia,Cynomys mexicanus
+1322,West Nile virus,human
+1323,WNV,human
+1324,WNV,horse
+1325,West Nile virus,human
+1326,TBEV,cow
+1327,West Nile,chicken
+1328,TBEV,reed warbler
+1329,TBEV,reed warbler
+1330,JEV,human
+1331,IHC,Red fox
+1332,IHC,Harbor seal
+1333,IHC,Tiger
+1334,IHC,Canis lupus
+1335,IHC,Panthera onca
+1336,IHC,Canis latrans
+1337,IHC,Snow leopard
+1338,IHC,Cougar
+1339,IHC,Jaguar
+1340,IHC,Vulpes vulpes
+1341,IHC,Lion
+1342,IHC,Coyote
+1343,IHC,Puma
+1344,IHC,Phoca vitulina
+1345,IHC,Red fox
+1346,IHC,Harbor seal
+1347,IHC,Tiger
+1348,IHC,Canis lupus
+1349,IHC,Panthera onca
+1350,IHC,Canis latrans
+1351,IHC,Snow leopard
+1352,IHC,Cougar
+1353,IHC,Jaguar
+1354,IHC,Vulpes vulpes
+1355,IHC,Lion
+1356,IHC,Coyote
+1357,IHC,Puma
+1358,IHC,Phoca vitulina
+1359,West Nile virus,Mus musculus
+1360,West Nile virus,White  footed mouse
+1361,West Nile virus,House mouse
+1362,West Nile virus,Peromyscus leucopus
+1363,West Nile virus,R rattus
+1364,EEE,cattle
+1365,WNV,House Sparrow
+1366,WNV,Rufous Hornero
+1367,WNV,Great Kiskadee
+1368,WNV,American Kestrel
+1369,WNV,Falco sparverius
+1370,TBEV,mouse
+1371,TBEV,cow
+1372,tick  borne encephalitis,goat
+1373,FSME,goat
+1374,TBE,sheep
+1375,TBE,human
+1376,TBE,human
+1377,BAHV,Oenanthe oenanthe
+1378,LIV,roe deer
+1379,TBEV,A pallipes
+1380,TBEV,mice
+1381, YFV ,human
+1382, WNV ,human
+1383,Japanese encephalitis virus,human
+1384,yellow fever virus,human
+1385,West Nile virus,human
+1386,tick  borne encephalitis virus,human
+1387, DENV ,human
+1388,Omsk hemorrhagic fever virus,human
+1389,dengue virus,human
+1390,TBEV,A pallipes
+1391,TBEV,mice
+1392,Omsk hemorrhagic fever,sheep
+1393,Omsk hemorrhagic fever,sheep
+1394,Kyasanur Forest disease,sheep
+1395,Kyasanur Forest disease,sheep
+1396,TBE,sheep
+1397,TBE,sheep
+1398,tick  borne encephalitis,sheep
+1399,tick  borne encephalitis,sheep
+1400,Langat,sheep
+1401,Langat,sheep
+1402,Louping ill,sheep
+1403,Louping ill,sheep
+1404,Powassan,sheep
+1405,Powassan,sheep
+1406,tick  borne encephalitis,sheep
+1407,tick  borne encephalitis,sheep
+1408, NSP ,great spotted woodpecker
+1409,USUV,great spotted woodpecker
+1410,USUV,great spotted woodpecker
+1411,USUV,Dendrocopos major
+1412,USUV,Pyrrhula pyrrhula
+1413,MEAV,human
+1414,MEAV,human
+1415,HIT,human
+1416,HIT,human
+1417,TBEV,M arvalis
+1418,TBEV,M arvalis
+1419,Changuinola virus,human
+1420,SEPV,human
+1421,SEPV,sheep
+1422,SLE virus,human
+1423,MVE,human
+1424,KUN,human
+1425,LIV,human
+1426,WNV,Corvus brachyrhynchos
+1427,WNV,American Crow
+1428,USUV,blackbird
+1429,USUV,magpie
+1430,USUV,human
+1431,USUV,human
+1432,West Nile virus,human
+1433,West Nile virus,human
+1434,USUV,human
+1435,USUV,human
+1436,Japanese encephalitis virus,human
+1437,Japanese encephalitis virus,human
+1438, HTS ,Choloepus hoffmanni
+1439, HTS ,brown  throated sloth
+1440, BTS ,Choloepus hoffmanni
+1441, BTS ,brown  throated sloth
+1442,TBEV,Myodes glareolus
+1443,TBEV,Apodemus sylvaticus
+1444,TBEV,Microtus agrestis
+1445,TBEV,Apodemus agrarius
+1446,TBEV,Microtus arvalis
+1447,TBEV,Apodemus flavicollis
+1448,Japanese encephalitis,human
+1449, SSEV ,sheep
+1450,West Nile virus,human
+1451,BAGV,human
+1452,SLEV,Taraba major
+1453,SLEV,Troglodytes aedon
+1454,WNV,C occidentalis
+1455,WNV,Crocidura olivieri
+1456,KFDV,monkey
+1457,SLEV,human
+1458,TBE,human
+1459,TBEV,A pallipes
+1460,TBEV,mice
+1461,TBEV,A pallipes
+1462,TBEV,mice
+1463,VEE,white  tailed deer
+1464,VEE,woodrat
+1465,VEE,Dipodomys merriami
+1466,VEE,striped skunk
+1467,West Nile,human
+1468,Sindbis,human
+1469,TBEV,MICE
+1470,TBEV,MICE
+1471,TBEV,Turkey
+1472,TBEVVRBCro,red deer
+1473,TBEVStrosinci,red deer
+1474,JEV,pig
+1475,JEV,pig
+1476,yellow fever,Alouatta sp
+1477,yellow fever,monkeys
+1478,NKV,mice
+1479,SLE virus,human
+1480, HIT ,P montanus
+1481, HIT ,Passer domesticus
+1482,WNV,P montanus
+1483,WNV,Passer domesticus
+1484,WNV,P montanus
+1485,WNV,Passer domesticus
+1486,tick  borne encephalitis,Macaca radiata
+1487,TBE,human
+1488,Japanese encephalitis virus,swine
+1489,WNV,Chaerephon pumilus
+1490,WNV,Mops condylurus
+1491,WNV,Eidolon helvum
+1492,EEE virus,cattle
+1493,EEE virus,cattle
+1494,ILHEUS VIRUS,HUMAN
+1495,tick  borne encephalitis virus,mouse
+1496,KFDV,monkeys
+1497,TBEV,sheep
+1498,WNV,chicken
+1499,WNV,chicken
+1500,WNV,chicken
+1501,WNV,chicken
+1502,EYAV,sheep
+1503,BHAV,sheep
+1504,TRBV,sheep
+1505,FBS,green monkey
+1506, FBS ,green monkey
+1507,DEN,human
+1508,TBEV,red fox
+1509,TBEV,cattle
+1510,TBEV,Vulpes vulpes
+1511,TBEV,Capreolus capreolus
+1512,TBEV,roe deer
+1513,TBEV,red fox
+1514,TBEV,cattle
+1515,TBEV,Vulpes vulpes
+1516,TBEV,Capreolus capreolus
+1517,TBEV,roe deer
+1518,West Nile,cattle
+1519,West Nile,cattle
+1520,Langat,cattle
+1521,Langat,cattle
+1522,BAT virus,human
+1523,TYUV,monkey
+1524,CNS,Human
+1525,TBEV,Human
+1526,USUV,human
+1527,SLEV,Rufous Hornero
+1528,WNV,Rufous Hornero
+1529,WNV,Rufous Hornero
+1530,SLEV,Rufous Hornero
+1531,TBE,human
+1532,West Nile virus,Crocidura zaphiri
+1533,West Nile virus,Greater white  toothed shrew
+1534,West Nile virus,Papio anubis
+1535,West Nile virus,olive baboon
+1536,West Nile virus,Asian house shrew
+1537,West Nile virus,Suncus murinus
+1538,West Nile virus,Crocidura russula
+1539,West Nile virus,yellow baboon
+1540,West Nile virus,African giant shrew
+1541,West Nile virus,Papio cynocephalus
+1542,WNV,Rufous Hornero
+1543,WNV,Great Kiskadee
+1544,WNV,Rufous Hornero
+1545,WNV,Rufous Hornero
+1546,WNV,Great Kiskadee
+1547,SLEV,Rufous Hornero
+1548,SLEV,Great Kiskadee
+1549,SLEV,Rufous Hornero
+1550,SLEV,Rufous Hornero
+1551,SLEV,Great Kiskadee
+1552,WNV,Rufous Hornero
+1553,WNV,Great Kiskadee
+1554,WNV,Rufous Hornero
+1555,WNV,Rufous Hornero
+1556,WNV,Great Kiskadee
+1557,SLEV,Rufous Hornero
+1558,SLEV,Great Kiskadee
+1559,SLEV,Rufous Hornero
+1560,SLEV,Rufous Hornero
+1561,SLEV,Great Kiskadee
+1562,WNV,Rufous Hornero
+1563,WNV,Great Kiskadee
+1564,WNV,Rufous Hornero
+1565,WNV,Rufous Hornero
+1566,WNV,Great Kiskadee
+1567,SLEV,Rufous Hornero
+1568,SLEV,Great Kiskadee
+1569,SLEV,Rufous Hornero
+1570,SLEV,Rufous Hornero
+1571,SLEV,Great Kiskadee
+1572,SLEV,Rufous Hornero
+1573,SLEV,Great Kiskadee
+1574,SLEV,Rufous Hornero
+1575,SLEV,Rufous Hornero
+1576,SLEV,Great Kiskadee
+1577,TBEV,A agrarius
+1578,TBEV,A agrarius
+1579,den,human
+1580,SLE,cattle
+1581,SLE,human
+1582,KFDV,monkeys
+1583,TBEVTikves,red deer
+1584,FSME,chicken
+1585,Sapporo,human
+1586,TBE,human
+1587,tick  borne encephalitis,sheep
+1588,TBE virus,sheep
+1589, TBE ,sheep
+1590,MVEV,pig
+1591,JEV,pig
+1592,KUNV,pig
+1593,JEV,pig
+1594,AAHL,pig
+1595,SLE,cattle
+1596,SLE,human
+1597,CPE,cow
+1598,CPE,sheep
+1599,CPE,human
+1600,CPE,goat
+1601,TBEV,cow
+1602,TBEV,sheep
+1603,TBEV,human
+1604,TBEV,goat
+1605,MEAV,mouse
+1606,West Nile Virus,human
+1607,TBEV,mice
+1608, TBEV ,blackbird
+1609,West Nile,blackbird
+1610,USUV,blackbird
+1611, SLE ,mice
+1612, SLE ,mouse
+1613,JEV,little tube  nosed bat
+1614,JEV,Murina aurata
+1615,TBEV,cattle
+1616,TBEV,sheep
+1617,TBEV,M arvalis
+1618,Usutu virus,Pyrrhula pyrrhula
+1619,Usutu virus,great spotted woodpecker
+1620,WEE,Horse
+1621, WNV ,great grey owl
+1622, WNV ,Aegolius funereus
+1623, WNV ,Strix nebulosa
+1624,West Nile virus,great grey owl
+1625,West Nile virus,Aegolius funereus
+1626,West Nile virus,Strix nebulosa
+1627,USUV,great grey owl
+1628,USUV,Aegolius funereus
+1629,USUV,Strix nebulosa
+1630,USUV,great grey owl
+1631,USUV,Aegolius funereus
+1632,USUV,Strix nebulosa
+1633,TBE,red fox
+1634,TBE,red fox
+1635,TBEV,red fox
+1636,TBEV,red fox
+1637,Dengue,Human
+1638,Zika Virus,Human
+1639, ZIKV ,Human
+1640,Zika virus,Human
+1641,TBE,human
+1642,TBE,human
+1643,USUV,mute swan
+1644,USUV,mute swan
+1645,WNV,mute swan
+1646,WNV,mute swan
+1647,KFDV,M radiata
+1648,KFDV,M radiata
+1649,KFDV,monkeys
+1650, EEEV ,Caracara cheriway
+1651, WNV ,Caracara cheriway
+1652, FLAV ,Caracara cheriway
+1653, SLEV ,Caracara cheriway
+1654,West Nile virus,Caracara cheriway
+1655,eastern equine encephalitis virus,Caracara cheriway
+1656,INIA,INIA
+1657,KFDV,monkey
+1658,Kyasanur Forest disease virus,Macaca radiata
+1659,tick  borne encephalitis,monkeys
+1660,VEE,rabbit
+1661,VEE,white  footed mouse
+1662,VEE,Procyon lotor
+1663,VEE,rabbit
+1664,VEE,white  footed mouse
+1665,VEE,Procyon lotor
+1666,IHC,T merula
+1667,IHC,T merula
+1668,IHC,Turdus merula
+1669,IHC,T merula
+1670,IHC,T merula
+1671,tick  borne encephalitis virus,cow
+1672,TBE,human
+1673,WNV,pig
+1674,USUTU virus,Gallus domesticus
+1675,USUTU virus,chicken
+1676,Cherry,duck
+1677,Cherry,duck
+1678,USUV,blackbird
+1679,JEV,chicken
+1680,ZIKV,human
+1681,ZIKV,human
+1682,louping ill virus,sheep
+1683,Sindbis,human
+1684,KFDV,human
+1685,FITC,goat
+1686,FITC,rabbit
+1687,FITC,Spotted flycatcher
+1688,FITC,Saxicola rubetra
+1689,FITC,Whinchat
+1690,FITC,rabbit
+1691,WNV,goat
+1692,WNV,rabbit
+1693,WNV,Spotted flycatcher
+1694,WNV,Saxicola rubetra
+1695,WNV,Whinchat
+1696,WNV,rabbit
+1697,Louping ill Virus,cattle
+1698,Louping ill Virus,sheep
+1699,LOUPING ill,cattle
+1700,LOUPING ill,sheep
+1701,USUV,chicken
+1702,Kyasanur Forest disease,human
+1703,ZIKV,human
+1704,ZIKV,human
+1705,BHK,mice
+1706,BHK,Passer domesticus
+1707,BHK,mice
+1708,BHK,house sparrow
+1709,BHK,mice
+1710,BHK,mice
+1711,BHK,Duck
+1712,BHK,mice
+1713,BHK,chicken
+1714,BHK,mice
+1715,BHK,Human
+1716,BHK,mice
+1717,tick  borne encephalitis virus,Sheep
+1718,tick  borne encephalitis virus,human
+1719,Omsk hemorrhagic fever,Sheep
+1720,Omsk hemorrhagic fever,human
+1721,tick  borne encephalitis,Sheep
+1722,tick  borne encephalitis,human
+1723,Powassan,Sheep
+1724,Powassan,human
+1725,Louping ill,Sheep
+1726,Louping ill,human
+1727,JEV,human
+1728,WNV,Procyon lotor
+1729,vEE,Peromyscus leucopus
+1730,vEE,Lynx
+1731,vEE,Baiomys taylori
+1732,vEE,Neotoma mexicana
+1733,vEE,Procyon lotor
+1734,vEE,Mephitis mephitis
+1735,vEE,Odocoileus virginianus
+1736,VEE,Peromyscus leucopus
+1737,VEE,Lynx
+1738,VEE,Baiomys taylori
+1739,VEE,Neotoma mexicana
+1740,VEE,Procyon lotor
+1741,VEE,Mephitis mephitis
+1742,VEE,Odocoileus virginianus
+1743,VSV,Peromyscus leucopus
+1744,VSV,Lynx
+1745,VSV,Baiomys taylori
+1746,VSV,Neotoma mexicana
+1747,VSV,Procyon lotor
+1748,VSV,Mephitis mephitis
+1749,VSV,Odocoileus virginianus
+1750,vSV,Peromyscus leucopus
+1751,vSV,Lynx
+1752,vSV,Baiomys taylori
+1753,vSV,Neotoma mexicana
+1754,vSV,Procyon lotor
+1755,vSV,Mephitis mephitis
+1756,vSV,Odocoileus virginianus
+1757,CEEV,pig
+1758,CEEV,sheep
+1759,VSV,Didelphis virginiana
+1760,USUV,Garden Warbler
+1761,USUV,Nightingale
+1762,JEV,chicken
+1763,JEV,chicken
+1764,BHK,chicken
+1765,WNV,cattle
+1766,WNV,cattle
+1767,WNV,cattle
+1768,WNV,human
+1769,WNV,cattle
+1770,TBEV,mice
+1771,TBEV,mice
+1772,USUV,Turdus merula
+1773,WNV,goose
+1774,tick  borne encephalitis,sheep
+1775,WNV,horse
+1776,WNV,human
+1777,TBEV,red deer
+1778,TBEV,red deer
+1779,JEV,mice
+1780,LI virus,sheep
+1781,LI virus,sheep
+1782,TBE,human
+1783,TBEV,human
+1784,TBE,human
+1785,WNV,white stork
+1786,TBEV,mice
+1787,Bluetongue,sheep
+1788,Bluetongue,cattle
+1789,Usutu virus,human
+1790,ZIKV,human
+1791,ZIKV,human
+1792,WNV,Canis latrans
+1793, TBEV ,SHEEP
+1794, TBEV ,sheep
+1795,TICK  BORNE ENCEPHALITIS VIRUS,SHEEP
+1796,TICK  BORNE ENCEPHALITIS VIRUS,sheep
+1797, TBEV ,SHEEP
+1798, TBEV ,sheep
+1799,ASFV,Pig
+1800,ASFV,mouse
+1801, WNV ,mouse
+1802, ABC ,mouse
+1803,USUV,chicken
+1804,USUV,chicken
+1805,JE virus,bearded pig
+1806,JE virus,bearded pig
+1807,West Nile virus,house sparrow
+1808,West Nile virus,Passer domesticus
+1809,SINV,Lagopus lagopus
+1810,KFD,human
+1811,KFD,monkeys
+1812,KFD,human
+1813,KFD,monkeys
+1814,EEE,horse
+1815,WEE,horse
+1816,VNT,pig
+1817,VNT,mice
+1818,CSF,pig
+1819,CSF,mice
+1820,HIT,pig
+1821,HIT,mice
+1822,BHK,Human
+1823,Tembusu virus,human
+1824,USUV,Blackbird
+1825,tick  borne encephalitis virus,human
+1826,tick  borne encephalitis virus,Spermophilus undulatus
+1827,tick  borne encephalitis virus,long  tailed ground squirrel
+1828,TBE,Passer domesticus
+1829,TBE,C flammea
+1830,TBE,F atra
+1831,TBE,Passer domesticus
+1832,TBE,C flammea
+1833,TBE,F atra
+1834,TBEV,Passer domesticus
+1835,TBEV,C flammea
+1836,TBEV,F atra
+1837,USUV,human
+1838,bluetongue virus,sheep
+1839,yellow fever,Monkey
+1840,Zika,Monkey
+1841,West Nile virus,mouse
+1842,WNV,human
+1843,USUV,human
+1844,TBEV,M arvalis
+1845,KFDV,Rattus rattus
+1846,KFDV,Eonycteris spelaea
+1847,KFDV,black  naped hare
+1848,KFDV,Vandeleuria oleracea
+1849,KFDV,Chalcophaps indica
+1850,KFDV,Indian gerbil
+1851,KFDV,Suncus murinus
+1852,KFDV,Treron pompadora
+1853,KFDV,mouse
+1854,KFDV,Mus platythrix
+1855,KFDV,petaurista philippensis
+1856,KFDV,Lepus nigricollis
+1857,KFDV,Hipposideros lankadiva
+1858,KFDV,Cynopterus sphinx
+1859,KFDV,Golunda ellioti
+1860,KFDV,Petaurista petaurista
+1861,KFDV,Hipposideros speoris
+1862,KFDV,Rattus rattus
+1863,KFDV,northern palm squirrel
+1864,KFDV,Mus booduga
+1865,KFDV,Rattus rattus
+1866,KFDV,Eonycteris spelaea
+1867,KFDV,black  naped hare
+1868,KFDV,Vandeleuria oleracea
+1869,KFDV,Chalcophaps indica
+1870,KFDV,Indian gerbil
+1871,KFDV,Suncus murinus
+1872,KFDV,Treron pompadora
+1873,KFDV,mouse
+1874,KFDV,Mus platythrix
+1875,KFDV,petaurista philippensis
+1876,KFDV,Lepus nigricollis
+1877,KFDV,Hipposideros lankadiva
+1878,KFDV,Cynopterus sphinx
+1879,KFDV,Golunda ellioti
+1880,KFDV,Petaurista petaurista
+1881,KFDV,Hipposideros speoris
+1882,KFDV,Rattus rattus
+1883,KFDV,northern palm squirrel
+1884,KFDV,Mus booduga
+1885,TBEV,mice
+1886,TBEV,M glareolus
+1887,TBEV,A flavicollis
+1888,Ntaya virus,turkey
+1889,Bagaza virus,turkey
+1890,Tembusu virus,turkey
+1891,Ilheus virus,turkey
+1892,WNV,Great Tit
+1893,WNV,Great Spotted Woodpecker
+1894,WNV,Northern Goshawk
+1895,ZIKV,mice
+1896,ZIKV,mouse
+1897,ZIKV,mouse
+1898,USUV,Turdus merula
+1899,Tick  borne encephalitis,goat
+1900,Tick  borne encephalitis,drome
+1901,Usutu,Larus ridibundus
+1902,Usutu,black  headed gull
+1903,West Nile virus,Panthera uncia
+1904,TBEV,monkey
+1905,yellow fever,monkeys
+1906,yellow fever,monkeys
+1907,Zika,monkeys
+1908,Zika,monkeys
+1909,yellow fever virus,monkeys
+1910,yellow fever virus,monkeys
+1911,TBE,red fox
+1912,TBE,V vulpes
+1913,MVE,human
+1914,MVE,human
+1915,West Nile virus,human
+1916,JEV,human
+1917,WNV,Urocyon cinereoargenteus
+1918,WNV,gray fox
+1919,SLEV,human
+1920,West Nile,human
+1921,KOU,Human
+1922,TBE,V vulpes
+1923,TBE,red fox
+1924,WNV,magpie
+1925,USUV,magpie
+1926,USUV,magpie
+1927,WNV,magpie
+1928,SINV,magpie
+1929,WNV,magpie
+1930,USUV,magpie
+1931,TAHV,Clethrionomys glareolus
+1932,TAHV,Apodemus sylvaticus
+1933,TAHV,wood mouse
+1934,TAHV,bank vole
+1935,KFDV,monkeys
+1936,KFDV,monkey
+1937,West Nile virus,human
+1938,Tembusu virus,Duck
+1939,Tembusu virus,Duck
+1940,Tembusu virus,Duck
+1941,TBE,human
+1942,Murray Valley encephalitis virus,human
+1943, MVEV ,human
+1944,Japanese encephalitis virus,human
+1945, WNV ,human
+1946, JEV ,human
+1947,Saint Louis encephalitis virus,human
+1948,West Nile virus,human
+1949, SLEV ,human
+1950,JEV,human
+1951,WNV,woodchuck
+1952,WNV,Marmota monax
+1953,TBEV,human
+1954,WNV,Rousettus leschenaultii
+1955,bluetongue,mouflon
+1956,epizootic hemorrhagic disease,mouflon
+1957,TBEV,mouse
+1958,OKHV,Sheep
+1959,DHOV,Sheep
+1960,MYKV,Sheep
+1961,TDMV,Sheep
+1962,THOV,Sheep
+1963,BAUV,Sheep
+1964,CWV,Sheep
+1965,YF virus,mice
+1966,SLE,human
+1967,LI virus,mouse
+1968,JEV,human
+1969,West Nile Virus,Human
+1970,louping ill,goat
+1971,BAGV,red  legged partridge
+1972,BAGV,common pheasant
+1973,USUV,T merula
+1974,USUV,Blackbird
+1975,ZIKV,Human
+1976,PHA,horse
+1977,West Nile virus,human
+1978,Murray Valley encephalitis,human
+1979, MVE ,human
+1980,SLE virus,human
+1981,WN virus,human
+1982,Japanese encephalitis,human
+1983,West Nile,human
+1984,WNV,mice
+1985,Murray Valley encephalitis virus,horse
+1986,Murray Valley encephalitis virus,human
+1987,MVEV,horse
+1988,MVEV,human
+1989,Murray Valley encephalitis virus,horse
+1990,Murray Valley encephalitis virus,human
+1991, SPF ,chicken
+1992,Usutu virus,blackbird
+1993,Usutu virus,blackbird
+1994,WNV,human
+1995,WNV,horse
+1996,Usutu virus,human
+1997,ZIKV,human
+1998,WNV,Ursus americanus
+1999,WNV,American black bear
+2000,NSW,Horse
+2001,West Nile,Horse
+2002,Ntaya virus,turkey
+2003,Tembusu virus,turkey
+2004,Bagaza virus,turkey
+2005,Tembusu virus,turkey
+2006,Tembusu virus,turkey
+2007,JEV,pig
+2008,TBE virus,dog
+2009,TBE virus,horse
+2010,KFDV,mice
+2011,WNV,blackbird
+2012,WNV,pig
+2013,USUV,blackbird
+2014,USUV,pig
+2015,WNV,blackbird
+2016,WNV,pig
+2017,Langat,Dog
+2018,TBE,Dog
+2019,BAT virus,human
+2020,TBEV,mice
+2021,TBEV,Apodemus
+2022,Langat,pig
+2023,ZIKV,monkeys
+2024,ZIKV,monkeys
+2025,TBE virus,horse
+2026,TBE virus,dog
+2027,TBE virus,dog
+2028,TBE,horse
+2029,TBE,dog
+2030,TBE,dog
+2031,JE virus,horse
+2032,JE virus,dog
+2033,JE virus,dog
+2034,WNV,brown bear
+2035,WNV,Ursus arctos
+2036,FITC,Rabbit
+2037,FITC,Goat
+2038,dengue,human
+2039,dengue virus,human
+2040,dengue virus,human
+2041,West Nile virus,Buteo lineatus
+2042,West Nile virus,Red  shouldered Hawk
+2043,ZIKV,human
+2044,ZIKV,human
+2045,Zika,human
+2046,Dengue,human
+2047,Japanese encephalitis,human
+2048,CHIK,human
+2049,CHIK,human
+2050,Tembusu,human
+2051,CHIK,human
+2052,WNV,horse
+2053,TBEV,human
+2054,Powassan virus,mouse
+2055,Powassan virus,Peromyscus leucopus
+2056,West Nile virus,Chicken
+2057,West Nile virus,horse
+2058,USUTU virus,Chicken
+2059,USUTU virus,horse
+2060,TBEV,mice
+2061,TBEV,mice
+2062,PHA,horse
+2063,JEV,human
+2064,WNV,Falco sparverius
+2065,WNV,American kestrel
+2066,West Nile virus,Crested Caracara
+2067,West Nile virus,Caracara cheriway
+2068,TBEV,Troglodytes troglodytes
+2069,TBEV,T pilaris
+2070,TBEV,Accipiter gentilis
+2071,TBEV,Turdus pallidus
+2072,TBEV,T iliacus
+2073,TBEV,Lanius cristatus
+2074,TBEV,Emberiza fucata
+2075,VEE,Cathartes aura
+2076,VEE,Callipepla squamata
+2077,VEE,Charadrius vociferus
+2078,VEE,Cathartes aura
+2079,VEE,Callipepla squamata
+2080,VEE,Charadrius vociferus
+2081,JEV,horse
+2082,JEV,mouse
+2083,JEV,horse
+2084,JEV,mouse
+2085,Zika,monkey
+2086,ZIKV,monkey
+2087,Zika Virus,monkey
+2088,TBEV,mice
+2089,Murray Valley encephalitis virus,horse
+2090,tick  borne encephalitis,Sheep
+2091,ZIKV,monkey
+2092,Saumarez Reef virus,sheep
+2093,Modoc virus,sheep
+2094,Montana myotis leukoencephalitis virus,sheep
+2095,Dengue virus,sheep
+2096,Omsk hemorrhagic fever virus,sheep
+2097,BSQV,sheep
+2098,Aroa virus,sheep
+2099,KFDV,sheep
+2100,Murray Valley encephalitis virus,sheep
+2101,ENTV,sheep
+2102,Kadam virus,sheep
+2103,Royal Farm virus,sheep
+2104,Bagaza virus,sheep
+2105,AHFV,sheep
+2106,Yokose virus,sheep
+2107,West Nile virus,sheep
+2108,Louping ill virus,sheep
+2109,OHFV,sheep
+2110,BAGV,sheep
+2111,tick  borne encephalitis,sheep
+2112,Japanese encephalitis virus,sheep
+2113,Tyuleniy virus,sheep
+2114,Dengue virus,sheep
+2115,MVEV,sheep
+2116,Apoi virus,sheep
+2117,WNV,sheep
+2118,LIV,sheep
+2119,ROCV,sheep
+2120,Usutu virus,sheep
+2121,SLEV,sheep
+2122,KUNV,sheep
+2123,TYUV,sheep
+2124,Meaban virus,sheep
+2125,Ilheus virus,sheep
+2126,Rio Bravo virus,sheep
+2127,USUV,sheep
+2128,JEV,sheep
+2129,Dengue virus,sheep
+2130,tick  borne encephalitis virus,sheep
+2131,Yellow fever virus,sheep
+2132,Tick  borne encephalitis,sheep
+2133,Yellow fever virus,sheep
+2134,Powassan virus,sheep
+2135,MEAV,sheep
+2136,Kokobera virus,sheep
+2137,ILHV,sheep
+2138,RBV,sheep
+2139,Langat virus,sheep
+2140,Kyasanur forest disease virus,sheep
+2141,Dengue virus,sheep
+2142,IGUV,sheep
+2143,POWV,sheep
+2144,YFV,sheep
+2145,KOKV,sheep
+2146,Gadgets Gully virus,sheep
+2147,Entebbe bat virus,sheep
+2148,Usutu virus,great spotted woodpecker
+2149,Usutu virus,Dendrocopos major
+2150,Usutu virus,Pyrrhula pyrrhula
+2151,WNV,Human
+2152,West Nile,Turkey
+2153,Usutu,Turkey
+2154, DENV ,Turkey
+2155,Sindbis,Turkey
+2156, BATV ,Turkey
+2157, TAHV ,Turkey
+2158, USUV ,Turkey
+2159, WNV ,Turkey
+2160, SINV ,Turkey
+2161,Dengue,Turkey
+2162, LEDV ,Turkey
+2163, INKV ,Turkey
+2164,yellow fever,Human
+2165,TBEV,rabbit
+2166,CGLV,Choloepus hoffmanni
+2167,CGLV,Bradypus variegatus
+2168,CVL,horse
+2169,JEV,horse
+2170,TBE,human
+2171,JUTV,Sigmodon hispidus
+2172,JUTV,white  footed mouse
+2173,JUTV,Peromyscus leucopus
+2174,Cowbone Ridge virus,Sigmodon hispidus
+2175,Cowbone Ridge virus,white  footed mouse
+2176,Cowbone Ridge virus,Peromyscus leucopus
+2177,SPV,Sigmodon hispidus
+2178,SPV,white  footed mouse
+2179,SPV,Peromyscus leucopus
+2180,SVV,Sigmodon hispidus
+2181,SVV,white  footed mouse
+2182,SVV,Peromyscus leucopus
+2183,WNF,human
+2184,SLEV,Picui Ground  Dove
+2185,SLEV,Green  barred Woodpecker
+2186,SLEV,American Kestrel
+2187,SLEV,Falco sparverius
+2188,SLEV,Eared Dove
+2189,WNV,Picui Ground  Dove
+2190,WNV,Green  barred Woodpecker
+2191,WNV,American Kestrel
+2192,WNV,Falco sparverius
+2193,WNV,Eared Dove
+2194,TBE virus,red fox
+2195,TBE virus,Vulpes vulpes
+2196,TBE virus,red deer
+2197,TBE virus,Cervus elaphus
+2198,TBE virus,red fox
+2199,TBE virus,Vulpes vulpes
+2200,TBE virus,red deer
+2201,TBE virus,Cervus elaphus
+2202,TBE virus,dog
+2203,TBE virus,horse
+2204,TBE virus,A speciosus
+2205,Usutu Virus,Turdus merula
+2206,Japanese encephalitis virus,Turdus merula
+2207,Usutu virus,Turdus merula
+2208, USUV ,Turdus merula
+2209,Kyasanur Forest disease,monkeys
+2210,tick  borne encephalitis virus,human
+2211,BAGV,Alectoris rufa
+2212,BAGV,turkey
+2213,BAGV,Phasianus colchicus
+2214,TMEV,Alectoris rufa
+2215,TMEV,turkey
+2216,TMEV,Phasianus colchicus
+2217,Israel turkey meningoencephalomyelitis virus,Alectoris rufa
+2218,Israel turkey meningoencephalomyelitis virus,turkey
+2219,Israel turkey meningoencephalomyelitis virus,Phasianus colchicus
+2220,BAGV,Alectoris rufa
+2221,BAGV,turkey
+2222,BAGV,Phasianus colchicus
+2223,USUV,T pilaris
+2224,USUV,rabbit
+2225,USUV,Turdus iliacus
+2226,MVEV,mouse
+2227,PIV,pigeon
+2228,AVAV,pigeon
+2229,WNV,striped skunk
+2230,Tick  Borne Encephalitis Virus,bank vole
+2231,Tick  Borne Encephalitis Virus,Myodes glareolus
+2232,Tick  Borne Encephalitis Virus,Apodemus agrarius
+2233,Tick  Borne Encephalitis Virus,long  tailed field mouse
+2234,Tick  Borne Encephalitis Virus,mouse
+2235,Tick  Borne Encephalitis Virus,Mus musculus
+2236,Tick  Borne Encephalitis Virus,wood mouse
+2237,Tick  Borne Encephalitis Virus,common vole
+2238,Tick  Borne Encephalitis Virus,Apodemus flavicollis
+2239,Tick  Borne Encephalitis Virus,striped field mouse
+2240,Tick  Borne Encephalitis Virus,Microtus arvalis
+2241,Tick  Borne Encephalitis Virus,house mouse
+2242,Tick  Borne Encephalitis Virus,Apodemus sylvaticus
+2243,Tick  Borne Encephalitis Virus,field vole
+2244,Tick  Borne Encephalitis Virus,Microtus agrestis
+2245,WNV,Cygnus olor
+2246,WNV,Ciconia ciconia
+2247,WNV,Corvus corone cornix
+2248,WNV,mute swan
+2249,WNV,human
+2250,USUV,human
+2251,LIV,sheep
+2252,Louping ill virus,sheep
+2253,KEDV,human
+2254,WNV,Tamias striatus
+2255,JEV,human
+2256,JEV,human
+2257,LI virus,mouse
+2258,LI virus,mouse
+2259,TBE,monkey
+2260,TBEV,Apodemus
+2261,TBE,red deer
+2262,TBE,red deer
+2263,TBE,Cervus elaphus
+2264,Usutu virus,human
+2265,TBE virus,human
+2266,SLEV,Picui Ground  Dove
+2267,SLEV,Columbina picui
+2268,SLEV,Rufous Hornero
+2269,SLEV,Furnarius rufus
+2270,SLEV,Bay  winged Cowbird
+2271,SLEV,House Sparrow
+2272,SLEV,Passer domesticus
+2273,SLEV,Great Kiskadee
+2274,SLEV,Agelaioides badius
+2275,SLEV,Eared Dove
+2276,SLEV,Pitangus sulphuratus
+2277,SLEV,Caribbean dove
+2278,SLEV,Golden warbler
+2279,SLEV,Yellow warbler
+2280,SLEV,Caribbean elaenia
+2281,SLEV,Pearly  eyed thrasher
+2282,SLEV,Dendroica petechia
+2283,SLEV,Northern waterthrush
+2284,SLEV,Prairie warbler
+2285,WNV,Caribbean dove
+2286,WNV,Golden warbler
+2287,WNV,Yellow warbler
+2288,WNV,Caribbean elaenia
+2289,WNV,Pearly  eyed thrasher
+2290,WNV,Dendroica petechia
+2291,WNV,Northern waterthrush
+2292,WNV,Prairie warbler
+2293,WNV,Caribbean dove
+2294,WNV,Golden warbler
+2295,WNV,Yellow warbler
+2296,WNV,Caribbean elaenia
+2297,WNV,Pearly  eyed thrasher
+2298,WNV,Dendroica petechia
+2299,WNV,Northern waterthrush
+2300,WNV,Prairie warbler
+2301,WNV,Caribbean dove
+2302,WNV,Golden warbler
+2303,WNV,Yellow warbler
+2304,WNV,Caribbean elaenia
+2305,WNV,Pearly  eyed thrasher
+2306,WNV,Dendroica petechia
+2307,WNV,Northern waterthrush
+2308,WNV,Prairie warbler
+2309,SLEV,Caribbean dove
+2310,SLEV,Golden warbler
+2311,SLEV,Yellow warbler
+2312,SLEV,Caribbean elaenia
+2313,SLEV,Pearly  eyed thrasher
+2314,SLEV,Dendroica petechia
+2315,SLEV,Northern waterthrush
+2316,SLEV,Prairie warbler
+2317,WNV,Caribbean dove
+2318,WNV,Golden warbler
+2319,WNV,Yellow warbler
+2320,WNV,Caribbean elaenia
+2321,WNV,Pearly  eyed thrasher
+2322,WNV,Dendroica petechia
+2323,WNV,Northern waterthrush
+2324,WNV,Prairie warbler
+2325,SLEV,Caribbean dove
+2326,SLEV,Golden warbler
+2327,SLEV,Yellow warbler
+2328,SLEV,Caribbean elaenia
+2329,SLEV,Pearly  eyed thrasher
+2330,SLEV,Dendroica petechia
+2331,SLEV,Northern waterthrush
+2332,SLEV,Prairie warbler
+2333,West Nile virus,Caribbean dove
+2334,West Nile virus,Golden warbler
+2335,West Nile virus,Yellow warbler
+2336,West Nile virus,Caribbean elaenia
+2337,West Nile virus,Pearly  eyed thrasher
+2338,West Nile virus,Dendroica petechia
+2339,West Nile virus,Northern waterthrush
+2340,West Nile virus,Prairie warbler
+2341,SLEV,Caribbean dove
+2342,SLEV,Golden warbler
+2343,SLEV,Yellow warbler
+2344,SLEV,Caribbean elaenia
+2345,SLEV,Pearly  eyed thrasher
+2346,SLEV,Dendroica petechia
+2347,SLEV,Northern waterthrush
+2348,SLEV,Prairie warbler
+2349,TBEV,monkey
+2350,TBEV,monkey
+2351,TBE,human
+2352,yellow fever virus,human
+2353,dengue virus,human
+2354,Japanese encephalitis virus,human
+2355,TBE virus,human
+2356,TBEV,A pallipes
+2357,TBEV,mice
+2358,TBEV,Apodemus
+2359,TBEV,human
+2360,TBE,human
+2361,TBEV,red deer
+2362,TBE,human
+2363,DENV,Marmosa murina
+2364,tick  borne encephalitis,cattle
+2365,yellow fever,Robin
+2366,ILHV,Bradypus variegatus
+2367,ILHV,Choloepus hoffmanni
+2368,CGLV,Bradypus variegatus
+2369,CGLV,Choloepus hoffmanni
+2370,VRL,Cricetomys gambianus
+2371,VRL,giant rat
+2372,TBEV,Pyrrhula pyrrhula
+2373,TBEV,waxwing
+2374,TBEV,shoveler
+2375,TBEV,Vanellus vanellus
+2376,TBEV,European pied flycatcher
+2377,TBEV,Phylloscopus trochilus
+2378,TBEV,willow tit
+2379,TBEV,mallard
+2380,TBEV,starling
+2381,TBEV,Corvus monedula
+2382,TBEV,Phylloscopus proregulus
+2383,TBEV,Ficedula hypoleuca
+2384,TBEV,teal
+2385,TBEV,Parus montanus
+2386,TBEV,Dendrocopos major
+2387,TBEV,willow warbler
+2388,TBEV,goldfinch
+2389,TBEV,Anas platyrhynchos
+2390,TBEV,Sturnus vulgaris
+2391,TBEV,Anas crecca
+2392,TBEV,coal tit
+2393,TBEV,pigeon
+2394,TBEV,Riparia riparia
+2395,TBEV,Carduelis carduelis
+2396,TBEV,willow warbler
+2397,TBEV,Phylloscopus collybita
+2398,TBEV,Mergus merganser
+2399,TBEV,Parus ater
+2400,TBEV,Columba livia
+2401,West Nile virus,Falco sparverius
+2402,USUV,great spotted woodpecker
+2403,West Nile virus,mice
+2404,WNV,White  chinned thrush
+2405,WNV,Caribbean dove
+2406,WNV,Bananaquit
+2407,WNV,Greater Antillean grackle
+2408,WNV,Loggerhead kingbird
+2409,WNV,Orangequit
+2410,WNV,Golden warbler
+2411,WNV,Bananaquit
+2412,WNV,Loggerhead kingbird
+2413,WNV,Jamaican elaenia
+2414,WNV,Caribbean dove
+2415,WNV,Dendroica petechia
+2416,WNV,Bananaquit
+2417,WNV,Caribbean dove
+2418,WNV,Black  faced grassquit
+2419,WNV,Northern mockingbird
+2420,WNV,Common ground  dove
+2421,WNV,Jamaican elaenia
+2422,WNV,White  eyed thrush
+2423,WNV,Jamaican vireo
+2424,WNV,Jamaican elaenia
+2425,WNV,Jamaican oriole
+2426,WNV,Bananaquit
+2427,WNV,White  chinned thrush
+2428,WNV,White  chinned thrush
+2429,WNV,Black  faced grassquit
+2430,WNV,White  chinned thrush
+2431,WNV,White  chinned thrush
+2432,WNV,Caribbean dove
+2433,WNV,Bananaquit
+2434,WNV,Greater Antillean grackle
+2435,WNV,Loggerhead kingbird
+2436,WNV,Orangequit
+2437,WNV,Golden warbler
+2438,WNV,Bananaquit
+2439,WNV,Loggerhead kingbird
+2440,WNV,Jamaican elaenia
+2441,WNV,Caribbean dove
+2442,WNV,Dendroica petechia
+2443,WNV,Bananaquit
+2444,WNV,Caribbean dove
+2445,WNV,Black  faced grassquit
+2446,WNV,Northern mockingbird
+2447,WNV,Common ground  dove
+2448,WNV,Jamaican elaenia
+2449,WNV,White  eyed thrush
+2450,WNV,Jamaican vireo
+2451,WNV,Jamaican elaenia
+2452,WNV,Jamaican oriole
+2453,WNV,Bananaquit
+2454,WNV,White  chinned thrush
+2455,WNV,White  chinned thrush
+2456,WNV,Black  faced grassquit
+2457,WNV,White  chinned thrush
+2458,WNV,White  chinned thrush
+2459,WNV,Caribbean dove
+2460,WNV,Bananaquit
+2461,WNV,Greater Antillean grackle
+2462,WNV,Loggerhead kingbird
+2463,WNV,Orangequit
+2464,WNV,Golden warbler
+2465,WNV,Bananaquit
+2466,WNV,Loggerhead kingbird
+2467,WNV,Jamaican elaenia
+2468,WNV,Caribbean dove
+2469,WNV,Dendroica petechia
+2470,WNV,Bananaquit
+2471,WNV,Caribbean dove
+2472,WNV,Black  faced grassquit
+2473,WNV,Northern mockingbird
+2474,WNV,Common ground  dove
+2475,WNV,Jamaican elaenia
+2476,WNV,White  eyed thrush
+2477,WNV,Jamaican vireo
+2478,WNV,Jamaican elaenia
+2479,WNV,Jamaican oriole
+2480,WNV,Bananaquit
+2481,WNV,White  chinned thrush
+2482,WNV,White  chinned thrush
+2483,WNV,Black  faced grassquit
+2484,WNV,White  chinned thrush
+2485,SLEV,White  chinned thrush
+2486,SLEV,Caribbean dove
+2487,SLEV,Bananaquit
+2488,SLEV,Greater Antillean grackle
+2489,SLEV,Loggerhead kingbird
+2490,SLEV,Orangequit
+2491,SLEV,Golden warbler
+2492,SLEV,Bananaquit
+2493,SLEV,Loggerhead kingbird
+2494,SLEV,Jamaican elaenia
+2495,SLEV,Caribbean dove
+2496,SLEV,Dendroica petechia
+2497,SLEV,Bananaquit
+2498,SLEV,Caribbean dove
+2499,SLEV,Black  faced grassquit
+2500,SLEV,Northern mockingbird
+2501,SLEV,Common ground  dove
+2502,SLEV,Jamaican elaenia
+2503,SLEV,White  eyed thrush
+2504,SLEV,Jamaican vireo
+2505,SLEV,Jamaican elaenia
+2506,SLEV,Jamaican oriole
+2507,SLEV,Bananaquit
+2508,SLEV,White  chinned thrush
+2509,SLEV,White  chinned thrush
+2510,SLEV,Black  faced grassquit
+2511,SLEV,White  chinned thrush
+2512,West Nile virus,White  chinned thrush
+2513,West Nile virus,Caribbean dove
+2514,West Nile virus,Bananaquit
+2515,West Nile virus,Greater Antillean grackle
+2516,West Nile virus,Loggerhead kingbird
+2517,West Nile virus,Orangequit
+2518,West Nile virus,Golden warbler
+2519,West Nile virus,Bananaquit
+2520,West Nile virus,Loggerhead kingbird
+2521,West Nile virus,Jamaican elaenia
+2522,West Nile virus,Caribbean dove
+2523,West Nile virus,Dendroica petechia
+2524,West Nile virus,Bananaquit
+2525,West Nile virus,Caribbean dove
+2526,West Nile virus,Black  faced grassquit
+2527,West Nile virus,Northern mockingbird
+2528,West Nile virus,Common ground  dove
+2529,West Nile virus,Jamaican elaenia
+2530,West Nile virus,White  eyed thrush
+2531,West Nile virus,Jamaican vireo
+2532,West Nile virus,Jamaican elaenia
+2533,West Nile virus,Jamaican oriole
+2534,West Nile virus,Bananaquit
+2535,West Nile virus,White  chinned thrush
+2536,West Nile virus,White  chinned thrush
+2537,West Nile virus,Black  faced grassquit
+2538,West Nile virus,White  chinned thrush
+2539,WNV,White  chinned thrush
+2540,WNV,Caribbean dove
+2541,WNV,Bananaquit
+2542,WNV,Greater Antillean grackle
+2543,WNV,Loggerhead kingbird
+2544,WNV,Orangequit
+2545,WNV,Golden warbler
+2546,WNV,Bananaquit
+2547,WNV,Loggerhead kingbird
+2548,WNV,Jamaican elaenia
+2549,WNV,Caribbean dove
+2550,WNV,Dendroica petechia
+2551,WNV,Bananaquit
+2552,WNV,Caribbean dove
+2553,WNV,Black  faced grassquit
+2554,WNV,Northern mockingbird
+2555,WNV,Common ground  dove
+2556,WNV,Jamaican elaenia
+2557,WNV,White  eyed thrush
+2558,WNV,Jamaican vireo
+2559,WNV,Jamaican elaenia
+2560,WNV,Jamaican oriole
+2561,WNV,Bananaquit
+2562,WNV,White  chinned thrush
+2563,WNV,White  chinned thrush
+2564,WNV,Black  faced grassquit
+2565,WNV,White  chinned thrush
+2566,WNV,White  chinned thrush
+2567,WNV,Caribbean dove
+2568,WNV,Bananaquit
+2569,WNV,Greater Antillean grackle
+2570,WNV,Loggerhead kingbird
+2571,WNV,Orangequit
+2572,WNV,Golden warbler
+2573,WNV,Bananaquit
+2574,WNV,Loggerhead kingbird
+2575,WNV,Jamaican elaenia
+2576,WNV,Caribbean dove
+2577,WNV,Dendroica petechia
+2578,WNV,Bananaquit
+2579,WNV,Caribbean dove
+2580,WNV,Black  faced grassquit
+2581,WNV,Northern mockingbird
+2582,WNV,Common ground  dove
+2583,WNV,Jamaican elaenia
+2584,WNV,White  eyed thrush
+2585,WNV,Jamaican vireo
+2586,WNV,Jamaican elaenia
+2587,WNV,Jamaican oriole
+2588,WNV,Bananaquit
+2589,WNV,White  chinned thrush
+2590,WNV,White  chinned thrush
+2591,WNV,Black  faced grassquit
+2592,WNV,White  chinned thrush
+2593,WNV,White  chinned thrush
+2594,WNV,Caribbean dove
+2595,WNV,Bananaquit
+2596,WNV,Greater Antillean grackle
+2597,WNV,Loggerhead kingbird
+2598,WNV,Orangequit
+2599,WNV,Golden warbler
+2600,WNV,Bananaquit
+2601,WNV,Loggerhead kingbird
+2602,WNV,Jamaican elaenia
+2603,WNV,Caribbean dove
+2604,WNV,Dendroica petechia
+2605,WNV,Bananaquit
+2606,WNV,Caribbean dove
+2607,WNV,Black  faced grassquit
+2608,WNV,Northern mockingbird
+2609,WNV,Common ground  dove
+2610,WNV,Jamaican elaenia
+2611,WNV,White  eyed thrush
+2612,WNV,Jamaican vireo
+2613,WNV,Jamaican elaenia
+2614,WNV,Jamaican oriole
+2615,WNV,Bananaquit
+2616,WNV,White  chinned thrush
+2617,WNV,White  chinned thrush
+2618,WNV,Black  faced grassquit
+2619,WNV,White  chinned thrush
+2620,WNV,White  chinned thrush
+2621,WNV,Caribbean dove
+2622,WNV,Bananaquit
+2623,WNV,Greater Antillean grackle
+2624,WNV,Loggerhead kingbird
+2625,WNV,Orangequit
+2626,WNV,Golden warbler
+2627,WNV,Bananaquit
+2628,WNV,Loggerhead kingbird
+2629,WNV,Jamaican elaenia
+2630,WNV,Caribbean dove
+2631,WNV,Dendroica petechia
+2632,WNV,Bananaquit
+2633,WNV,Caribbean dove
+2634,WNV,Black  faced grassquit
+2635,WNV,Northern mockingbird
+2636,WNV,Common ground  dove
+2637,WNV,Jamaican elaenia
+2638,WNV,White  eyed thrush
+2639,WNV,Jamaican vireo
+2640,WNV,Jamaican elaenia
+2641,WNV,Jamaican oriole
+2642,WNV,Bananaquit
+2643,WNV,White  chinned thrush
+2644,WNV,White  chinned thrush
+2645,WNV,Black  faced grassquit
+2646,WNV,White  chinned thrush
+2647,WNV,White  chinned thrush
+2648,WNV,Caribbean dove
+2649,WNV,Bananaquit
+2650,WNV,Greater Antillean grackle
+2651,WNV,Loggerhead kingbird
+2652,WNV,Orangequit
+2653,WNV,Golden warbler
+2654,WNV,Bananaquit
+2655,WNV,Loggerhead kingbird
+2656,WNV,Jamaican elaenia
+2657,WNV,Caribbean dove
+2658,WNV,Dendroica petechia
+2659,WNV,Bananaquit
+2660,WNV,Caribbean dove
+2661,WNV,Black  faced grassquit
+2662,WNV,Northern mockingbird
+2663,WNV,Common ground  dove
+2664,WNV,Jamaican elaenia
+2665,WNV,White  eyed thrush
+2666,WNV,Jamaican vireo
+2667,WNV,Jamaican elaenia
+2668,WNV,Jamaican oriole
+2669,WNV,Bananaquit
+2670,WNV,White  chinned thrush
+2671,WNV,White  chinned thrush
+2672,WNV,Black  faced grassquit
+2673,WNV,White  chinned thrush
+2674,SLEV,White  chinned thrush
+2675,SLEV,Caribbean dove
+2676,SLEV,Bananaquit
+2677,SLEV,Greater Antillean grackle
+2678,SLEV,Loggerhead kingbird
+2679,SLEV,Orangequit
+2680,SLEV,Golden warbler
+2681,SLEV,Bananaquit
+2682,SLEV,Loggerhead kingbird
+2683,SLEV,Jamaican elaenia
+2684,SLEV,Caribbean dove
+2685,SLEV,Dendroica petechia
+2686,SLEV,Bananaquit
+2687,SLEV,Caribbean dove
+2688,SLEV,Black  faced grassquit
+2689,SLEV,Northern mockingbird
+2690,SLEV,Common ground  dove
+2691,SLEV,Jamaican elaenia
+2692,SLEV,White  eyed thrush
+2693,SLEV,Jamaican vireo
+2694,SLEV,Jamaican elaenia
+2695,SLEV,Jamaican oriole
+2696,SLEV,Bananaquit
+2697,SLEV,White  chinned thrush
+2698,SLEV,White  chinned thrush
+2699,SLEV,Black  faced grassquit
+2700,SLEV,White  chinned thrush
+2701,WNV,White  chinned thrush
+2702,WNV,Caribbean dove
+2703,WNV,Bananaquit
+2704,WNV,Greater Antillean grackle
+2705,WNV,Loggerhead kingbird
+2706,WNV,Orangequit
+2707,WNV,Golden warbler
+2708,WNV,Bananaquit
+2709,WNV,Loggerhead kingbird
+2710,WNV,Jamaican elaenia
+2711,WNV,Caribbean dove
+2712,WNV,Dendroica petechia
+2713,WNV,Bananaquit
+2714,WNV,Caribbean dove
+2715,WNV,Black  faced grassquit
+2716,WNV,Northern mockingbird
+2717,WNV,Common ground  dove
+2718,WNV,Jamaican elaenia
+2719,WNV,White  eyed thrush
+2720,WNV,Jamaican vireo
+2721,WNV,Jamaican elaenia
+2722,WNV,Jamaican oriole
+2723,WNV,Bananaquit
+2724,WNV,White  chinned thrush
+2725,WNV,White  chinned thrush
+2726,WNV,Black  faced grassquit
+2727,WNV,White  chinned thrush
+2728,ILHV,White  chinned thrush
+2729,ILHV,Caribbean dove
+2730,ILHV,Bananaquit
+2731,ILHV,Greater Antillean grackle
+2732,ILHV,Loggerhead kingbird
+2733,ILHV,Orangequit
+2734,ILHV,Golden warbler
+2735,ILHV,Bananaquit
+2736,ILHV,Loggerhead kingbird
+2737,ILHV,Jamaican elaenia
+2738,ILHV,Caribbean dove
+2739,ILHV,Dendroica petechia
+2740,ILHV,Bananaquit
+2741,ILHV,Caribbean dove
+2742,ILHV,Black  faced grassquit
+2743,ILHV,Northern mockingbird
+2744,ILHV,Common ground  dove
+2745,ILHV,Jamaican elaenia
+2746,ILHV,White  eyed thrush
+2747,ILHV,Jamaican vireo
+2748,ILHV,Jamaican elaenia
+2749,ILHV,Jamaican oriole
+2750,ILHV,Bananaquit
+2751,ILHV,White  chinned thrush
+2752,ILHV,White  chinned thrush
+2753,ILHV,Black  faced grassquit
+2754,ILHV,White  chinned thrush
+2755,WNV,White  chinned thrush
+2756,WNV,Caribbean dove
+2757,WNV,Bananaquit
+2758,WNV,Greater Antillean grackle
+2759,WNV,Loggerhead kingbird
+2760,WNV,Orangequit
+2761,WNV,Golden warbler
+2762,WNV,Bananaquit
+2763,WNV,Loggerhead kingbird
+2764,WNV,Jamaican elaenia
+2765,WNV,Caribbean dove
+2766,WNV,Dendroica petechia
+2767,WNV,Bananaquit
+2768,WNV,Caribbean dove
+2769,WNV,Black  faced grassquit
+2770,WNV,Northern mockingbird
+2771,WNV,Common ground  dove
+2772,WNV,Jamaican elaenia
+2773,WNV,White  eyed thrush
+2774,WNV,Jamaican vireo
+2775,WNV,Jamaican elaenia
+2776,WNV,Jamaican oriole
+2777,WNV,Bananaquit
+2778,WNV,White  chinned thrush
+2779,WNV,White  chinned thrush
+2780,WNV,Black  faced grassquit
+2781,WNV,White  chinned thrush
+2782,SLEV,White  chinned thrush
+2783,SLEV,Caribbean dove
+2784,SLEV,Bananaquit
+2785,SLEV,Greater Antillean grackle
+2786,SLEV,Loggerhead kingbird
+2787,SLEV,Orangequit
+2788,SLEV,Golden warbler
+2789,SLEV,Bananaquit
+2790,SLEV,Loggerhead kingbird
+2791,SLEV,Jamaican elaenia
+2792,SLEV,Caribbean dove
+2793,SLEV,Dendroica petechia
+2794,SLEV,Bananaquit
+2795,SLEV,Caribbean dove
+2796,SLEV,Black  faced grassquit
+2797,SLEV,Northern mockingbird
+2798,SLEV,Common ground  dove
+2799,SLEV,Jamaican elaenia
+2800,SLEV,White  eyed thrush
+2801,SLEV,Jamaican vireo
+2802,SLEV,Jamaican elaenia
+2803,SLEV,Jamaican oriole
+2804,SLEV,Bananaquit
+2805,SLEV,White  chinned thrush
+2806,SLEV,White  chinned thrush
+2807,SLEV,Black  faced grassquit
+2808,SLEV,White  chinned thrush
+2809,WNV,White  chinned thrush
+2810,WNV,Caribbean dove
+2811,WNV,Bananaquit
+2812,WNV,Greater Antillean grackle
+2813,WNV,Loggerhead kingbird
+2814,WNV,Orangequit
+2815,WNV,Golden warbler
+2816,WNV,Bananaquit
+2817,WNV,Loggerhead kingbird
+2818,WNV,Jamaican elaenia
+2819,WNV,Caribbean dove
+2820,WNV,Dendroica petechia
+2821,WNV,Bananaquit
+2822,WNV,Caribbean dove
+2823,WNV,Black  faced grassquit
+2824,WNV,Northern mockingbird
+2825,WNV,Common ground  dove
+2826,WNV,Jamaican elaenia
+2827,WNV,White  eyed thrush
+2828,WNV,Jamaican vireo
+2829,WNV,Jamaican elaenia
+2830,WNV,Jamaican oriole
+2831,WNV,Bananaquit
+2832,WNV,White  chinned thrush
+2833,WNV,White  chinned thrush
+2834,WNV,Black  faced grassquit
+2835,WNV,White  chinned thrush
+2836,WNV,White  chinned thrush
+2837,WNV,Caribbean dove
+2838,WNV,Bananaquit
+2839,WNV,Greater Antillean grackle
+2840,WNV,Loggerhead kingbird
+2841,WNV,Orangequit
+2842,WNV,Golden warbler
+2843,WNV,Bananaquit
+2844,WNV,Loggerhead kingbird
+2845,WNV,Jamaican elaenia
+2846,WNV,Caribbean dove
+2847,WNV,Dendroica petechia
+2848,WNV,Bananaquit
+2849,WNV,Caribbean dove
+2850,WNV,Black  faced grassquit
+2851,WNV,Northern mockingbird
+2852,WNV,Common ground  dove
+2853,WNV,Jamaican elaenia
+2854,WNV,White  eyed thrush
+2855,WNV,Jamaican vireo
+2856,WNV,Jamaican elaenia
+2857,WNV,Jamaican oriole
+2858,WNV,Bananaquit
+2859,WNV,White  chinned thrush
+2860,WNV,White  chinned thrush
+2861,WNV,Black  faced grassquit
+2862,WNV,White  chinned thrush
+2863,WNV,White  chinned thrush
+2864,WNV,Caribbean dove
+2865,WNV,Bananaquit
+2866,WNV,Greater Antillean grackle
+2867,WNV,Loggerhead kingbird
+2868,WNV,Orangequit
+2869,WNV,Golden warbler
+2870,WNV,Bananaquit
+2871,WNV,Loggerhead kingbird
+2872,WNV,Jamaican elaenia
+2873,WNV,Caribbean dove
+2874,WNV,Dendroica petechia
+2875,WNV,Bananaquit
+2876,WNV,Caribbean dove
+2877,WNV,Black  faced grassquit
+2878,WNV,Northern mockingbird
+2879,WNV,Common ground  dove
+2880,WNV,Jamaican elaenia
+2881,WNV,White  eyed thrush
+2882,WNV,Jamaican vireo
+2883,WNV,Jamaican elaenia
+2884,WNV,Jamaican oriole
+2885,WNV,Bananaquit
+2886,WNV,White  chinned thrush
+2887,WNV,White  chinned thrush
+2888,WNV,Black  faced grassquit
+2889,WNV,White  chinned thrush
+2890,WNV,White  chinned thrush
+2891,WNV,Caribbean dove
+2892,WNV,Bananaquit
+2893,WNV,Greater Antillean grackle
+2894,WNV,Loggerhead kingbird
+2895,WNV,Orangequit
+2896,WNV,Golden warbler
+2897,WNV,Bananaquit
+2898,WNV,Loggerhead kingbird
+2899,WNV,Jamaican elaenia
+2900,WNV,Caribbean dove
+2901,WNV,Dendroica petechia
+2902,WNV,Bananaquit
+2903,WNV,Caribbean dove
+2904,WNV,Black  faced grassquit
+2905,WNV,Northern mockingbird
+2906,WNV,Common ground  dove
+2907,WNV,Jamaican elaenia
+2908,WNV,White  eyed thrush
+2909,WNV,Jamaican vireo
+2910,WNV,Jamaican elaenia
+2911,WNV,Jamaican oriole
+2912,WNV,Bananaquit
+2913,WNV,White  chinned thrush
+2914,WNV,White  chinned thrush
+2915,WNV,Black  faced grassquit
+2916,WNV,White  chinned thrush
+2917,WNV,White  chinned thrush
+2918,WNV,Caribbean dove
+2919,WNV,Bananaquit
+2920,WNV,Greater Antillean grackle
+2921,WNV,Loggerhead kingbird
+2922,WNV,Orangequit
+2923,WNV,Golden warbler
+2924,WNV,Bananaquit
+2925,WNV,Loggerhead kingbird
+2926,WNV,Jamaican elaenia
+2927,WNV,Caribbean dove
+2928,WNV,Dendroica petechia
+2929,WNV,Bananaquit
+2930,WNV,Caribbean dove
+2931,WNV,Black  faced grassquit
+2932,WNV,Northern mockingbird
+2933,WNV,Common ground  dove
+2934,WNV,Jamaican elaenia
+2935,WNV,White  eyed thrush
+2936,WNV,Jamaican vireo
+2937,WNV,Jamaican elaenia
+2938,WNV,Jamaican oriole
+2939,WNV,Bananaquit
+2940,WNV,White  chinned thrush
+2941,WNV,White  chinned thrush
+2942,WNV,Black  faced grassquit
+2943,WNV,White  chinned thrush
+2944,WNV,White  chinned thrush
+2945,WNV,Caribbean dove
+2946,WNV,Bananaquit
+2947,WNV,Greater Antillean grackle
+2948,WNV,Loggerhead kingbird
+2949,WNV,Orangequit
+2950,WNV,Golden warbler
+2951,WNV,Bananaquit
+2952,WNV,Loggerhead kingbird
+2953,WNV,Jamaican elaenia
+2954,WNV,Caribbean dove
+2955,WNV,Dendroica petechia
+2956,WNV,Bananaquit
+2957,WNV,Caribbean dove
+2958,WNV,Black  faced grassquit
+2959,WNV,Northern mockingbird
+2960,WNV,Common ground  dove
+2961,WNV,Jamaican elaenia
+2962,WNV,White  eyed thrush
+2963,WNV,Jamaican vireo
+2964,WNV,Jamaican elaenia
+2965,WNV,Jamaican oriole
+2966,WNV,Bananaquit
+2967,WNV,White  chinned thrush
+2968,WNV,White  chinned thrush
+2969,WNV,Black  faced grassquit
+2970,WNV,White  chinned thrush
+2971,WNV,White  chinned thrush
+2972,WNV,Caribbean dove
+2973,WNV,Bananaquit
+2974,WNV,Greater Antillean grackle
+2975,WNV,Loggerhead kingbird
+2976,WNV,Orangequit
+2977,WNV,Golden warbler
+2978,WNV,Bananaquit
+2979,WNV,Loggerhead kingbird
+2980,WNV,Jamaican elaenia
+2981,WNV,Caribbean dove
+2982,WNV,Dendroica petechia
+2983,WNV,Bananaquit
+2984,WNV,Caribbean dove
+2985,WNV,Black  faced grassquit
+2986,WNV,Northern mockingbird
+2987,WNV,Common ground  dove
+2988,WNV,Jamaican elaenia
+2989,WNV,White  eyed thrush
+2990,WNV,Jamaican vireo
+2991,WNV,Jamaican elaenia
+2992,WNV,Jamaican oriole
+2993,WNV,Bananaquit
+2994,WNV,White  chinned thrush
+2995,WNV,White  chinned thrush
+2996,WNV,Black  faced grassquit
+2997,WNV,White  chinned thrush
+2998,WNV,White  chinned thrush
+2999,WNV,Caribbean dove
+3000,WNV,Bananaquit
+3001,WNV,Greater Antillean grackle
+3002,WNV,Loggerhead kingbird
+3003,WNV,Orangequit
+3004,WNV,Golden warbler
+3005,WNV,Bananaquit
+3006,WNV,Loggerhead kingbird
+3007,WNV,Jamaican elaenia
+3008,WNV,Caribbean dove
+3009,WNV,Dendroica petechia
+3010,WNV,Bananaquit
+3011,WNV,Caribbean dove
+3012,WNV,Black  faced grassquit
+3013,WNV,Northern mockingbird
+3014,WNV,Common ground  dove
+3015,WNV,Jamaican elaenia
+3016,WNV,White  eyed thrush
+3017,WNV,Jamaican vireo
+3018,WNV,Jamaican elaenia
+3019,WNV,Jamaican oriole
+3020,WNV,Bananaquit
+3021,WNV,White  chinned thrush
+3022,WNV,White  chinned thrush
+3023,WNV,Black  faced grassquit
+3024,WNV,White  chinned thrush
+3025, WNV ,human
+3026,West Nile virus,human
+3027, SLEV ,human
+3028,Tick  borne encephalitis virus,mice
+3029,TBE virus,human
+3030,Tick  borne encephalitis,goat
+3031,TBEV,H inermis
+3032,TBEV,human
+3033,TBEV,human
+3034,Japanese encephalitis,human
+3035,tick  borne encephalitis,sheep
+3036,mem,sheep
+3037,West Nile,human
+3038,TBEV,red deer
+3039,MVEV,human
+3040,TBEV,A pallipes
+3041,TBEV,mice
+3042,SLEV,Bay  winged Cowbird
+3043,SLEV,Rufous Hornero
+3044,SLEV,Bay  winged Cowbird
+3045,SLEV,Rufous Hornero
+3046,tick  borne encephalitis,roe deer
+3047,ZIKV,monkeys
+3048,WNV,house sparrow
+3049,WNV,Passer domesticus
+3050,ZIKV,monkeys
+3051,ZIKV,mice
+3052,NEP,Desert cottontail
+3053,Powassan virus,Peromyscus leucopus
+3054,TMB,horse
+3055,KFDV,human
+3056,KFDV,human
+3057,yellow fever,monkeys
+3058,dengue,monkeys
+3059,tick  borne encephalitis virus,Clethrionomys glareolus
+3060,tick  borne encephalitis virus,Apodemus flavicollis
+3061,WNV,Pandion haliaetus
+3062,Langat virus,dog
+3063,Chikungunya,Rhesus macaque
+3064,JEV,human
+3065,WNV,human
+3066,West Nile virus,human
+3067,Japanese encephalitis virus,human
+3068,WNV,Pandion haliaetus
+3069,DENV,human
+3070,louping ill,human
+3071,dengue,human
+3072,dengue,human
+3073,TBEV,red deer
+3074,TBEV,Vulpes vulpes
+3075,TBEV,Cervus elaphus
+3076,TBEV,Vulpes vulpes
+3077,TBEV,red deer
+3078,TBEV,Cervus elaphus
+3079,tick  borne encephalitis virus,red deer
+3080,tick  borne encephalitis virus,Vulpes vulpes
+3081,tick  borne encephalitis virus,Cervus elaphus
+3082,tick  borne encephalitis virus,Vulpes vulpes
+3083,tick  borne encephalitis virus,red deer
+3084,tick  borne encephalitis virus,Cervus elaphus
+3085, TBEV ,red deer
+3086, TBEV ,Vulpes vulpes
+3087, TBEV ,Cervus elaphus
+3088, TBEV ,Vulpes vulpes
+3089, TBEV ,red deer
+3090, TBEV ,Cervus elaphus
+3091,tick  borne encephalitis virus,red deer
+3092,tick  borne encephalitis virus,Vulpes vulpes
+3093,tick  borne encephalitis virus,Cervus elaphus
+3094,tick  borne encephalitis virus,Vulpes vulpes
+3095,tick  borne encephalitis virus,red deer
+3096,tick  borne encephalitis virus,Cervus elaphus
+3097,Bagaza virus,Alectoris rufa
+3098,BAGV,Alectoris rufa
+3099, BAGV ,Alectoris rufa
+3100,TBEV,M arvalis
+3101,TBEV,M arvalis
+3102,TBEV,M arvalis
+3103,USUV,Carrion Crow
+3104,USUV,Pica pica
+3105,USUV,Corvus corone cornix
+3106,USUV,European Starling
+3107,USUV,Sturnus vulgaris
+3108,USUV,Eurasian Blackbird
+3109,USUV,Magpie
+3110,USUV,Turdus merula
+3111,USUV,Eurasian Jay
+3112,USUV,Garrulus glandarius
+3113,WNV,Carrion Crow
+3114,WNV,Pica pica
+3115,WNV,Corvus corone cornix
+3116,WNV,European Starling
+3117,WNV,Sturnus vulgaris
+3118,WNV,Eurasian Blackbird
+3119,WNV,Magpie
+3120,WNV,Turdus merula
+3121,WNV,Eurasian Jay
+3122,WNV,Garrulus glandarius
+3123,USUV,Carrion Crow
+3124,USUV,Pica pica
+3125,USUV,Corvus corone cornix
+3126,USUV,European Starling
+3127,USUV,Sturnus vulgaris
+3128,USUV,Eurasian Blackbird
+3129,USUV,Magpie
+3130,USUV,Turdus merula
+3131,USUV,Eurasian Jay
+3132,USUV,Garrulus glandarius
+3133,WNV,Carrion Crow
+3134,WNV,Pica pica
+3135,WNV,Corvus corone cornix
+3136,WNV,European Starling
+3137,WNV,Sturnus vulgaris
+3138,WNV,Eurasian Blackbird
+3139,WNV,Magpie
+3140,WNV,Turdus merula
+3141,WNV,Eurasian Jay
+3142,WNV,Garrulus glandarius
+3143,tick  borne encephalitis,roe deer
+3144,USUV,Gallus domesticus
+3145,USUV,chicken
+3146,USUV,Anser anser
+3147,USUV,Gallus domesticus
+3148,USUV,chicken
+3149,USUV,Anser anser
+3150,EIA,human
+3151,EIA,swine
+3152,dengue,human
+3153,dengue,swine
+3154,Japanese encephalitis virus,human
+3155,Japanese encephalitis virus,swine
+3156,TBE,human
+3157,TBE,human
+3158,TBE,human
+3159,TBE virus,A speciosus
+3160,louping ill virus,mice
+3161,louping ill virus,pig
+3162,louping ill virus,sheep
+3163, SSE ,sheep
+3164, SSE ,sheep
+3165, SSE ,goat
+3166, CEEV ,sheep
+3167, CEEV ,sheep
+3168, CEEV ,goat
+3169,CEEV,sheep
+3170,CEEV,sheep
+3171,CEEV,goat
+3172, TSE ,sheep
+3173, TSE ,sheep
+3174, TSE ,goat
+3175,louping ill virus,sheep
+3176,louping ill virus,sheep
+3177,louping ill virus,goat
+3178,TBEV,sheep
+3179,TBEV,sheep
+3180,TBEV,goat
+3181,TBEV,sheep
+3182,TBEV,sheep
+3183,TBEV,goat
+3184, TBEV ,sheep
+3185, TBEV ,sheep
+3186, TBEV ,goat
+3187,tick  borne encephalitis,sheep
+3188,tick  borne encephalitis,sheep
+3189,tick  borne encephalitis,goat
+3190,TBEV,sheep
+3191,TBEV,sheep
+3192,TBEV,goat
+3193,USUV,human
+3194,SINV,Erithacus rubecula
+3195,SINV,robin
+3196,SINV,Erithacus rubecula
+3197,SINV,robin
+3198,USUV,horse
+3199,DEN,human
+3200,SIN,human
+3201,TBE virus,Apodemus
+3202,TBE,Apodemus
+3203,TBE virus,Apodemus
+3204,TBE,Apodemus
+3205,JEV,human
+3206,TBE,horse
+3207,TBE,dog
+3208,West Nile virus,red  legged partridge
+3209,WNV,red fox
+3210,WNV,red fox
+3211,USUV,green monkey
+3212,WNV,green monkey
+3213, CPE ,green monkey
+3214,TBE,human
+3215,TCID,partridge
+3216,TCID,partridge
+3217,BAGV,partridge
+3218,BAGV,partridge
+3219,TCID,partridge
+3220,USUV,Accipiter gentilis
+3221,USUV,Fulica atra
+3222,USUV,Osprey
+3223,USUV,White Stork
+3224,USUV,Grey Heron
+3225,USUV,Mute Swan
+3226,USUV,Columba livia
+3227,USUV,Columba palumbus
+3228,USUV,Circus aeruginosus
+3229,USUV,Pandion haliaetus
+3230,USUV,Cygnus olor
+3231,USUV,Ardea cinerea
+3232,USUV,Ciconia ciconia
+3233,USUV,Common Buzzard
+3234,USUV,Common Kestrel
+3235,USUV,Buteo buteo
+3236,USUV,Northern Goshawk
+3237,USUV,Pigeon
+3238,USUV,Falco tinnunculus
+3239,USUV,Eurasian Coot
+3240,USUV,Common Wood Pigeon
+3241,USUV,Western Marsh Harrier
+3242,USUV,Common Pigeon
+3243,USUV,Accipiter nisus
+3244,WNV,Accipiter gentilis
+3245,WNV,Fulica atra
+3246,WNV,Osprey
+3247,WNV,White Stork
+3248,WNV,Grey Heron
+3249,WNV,Mute Swan
+3250,WNV,Columba livia
+3251,WNV,Columba palumbus
+3252,WNV,Circus aeruginosus
+3253,WNV,Pandion haliaetus
+3254,WNV,Cygnus olor
+3255,WNV,Ardea cinerea
+3256,WNV,Ciconia ciconia
+3257,WNV,Common Buzzard
+3258,WNV,Common Kestrel
+3259,WNV,Buteo buteo
+3260,WNV,Northern Goshawk
+3261,WNV,Pigeon
+3262,WNV,Falco tinnunculus
+3263,WNV,Eurasian Coot
+3264,WNV,Common Wood Pigeon
+3265,WNV,Western Marsh Harrier
+3266,WNV,Common Pigeon
+3267,WNV,Accipiter nisus
+3268,Semliki Forest virus,hog
+3269,TBE virus,dog
+3270,TBE virus,dog
+3271,TBE virus,horse
+3272,TBE,dog
+3273,TBE,dog
+3274,TBE,horse
+3275,TBE,human
+3276,LIV,human
+3277,TBEV,human
+3278,ASFV,human
+3279,West Nile virus,human
+3280,West Nile,human
+3281,West Nile,Human
+3282,JEV,human
+3283,dengue virus,Macaca sinica
+3284,USUTU VIRUS,house sparrow
+3285,ZIKV,human
+3286,WNV,rabbits
+3287,WNV,Oryctolagus cuniculus
+3288, WNV ,Caracara cheriway
+3289, EEEV ,Caracara cheriway
+3290, SLEV ,Caracara cheriway
+3291,West Nile virus,Caracara cheriway
+3292,eastern equine encephalitis virus,Caracara cheriway
+3293,WNV,Carrion crow
+3294,WNV,Carrion crow
+3295,WNV,Magpie
+3296,WNV,Carrion crow
+3297,WNV,Carrion crow
+3298,WNV,Magpie
+3299,WNV,Carrion crow
+3300,WNV,Carrion crow
+3301,WNV,Magpie
+3302,WNV,Carrion crow
+3303,WNV,Carrion crow
+3304,WNV,Magpie
+3305,WNV,Carrion crow
+3306,WNV,Carrion crow
+3307,WNV,Magpie
+3308,WNV,Carrion crow
+3309,WNV,Carrion crow
+3310,WNV,Magpie
+3311,WNV,Carrion crow
+3312,WNV,Carrion crow
+3313,WNV,Magpie
+3314,WNV,Carrion crow
+3315,WNV,Carrion crow
+3316,WNV,Magpie
+3317,WNV,Carrion crow
+3318,WNV,Carrion crow
+3319,WNV,Magpie
+3320,WNV,Carrion crow
+3321,WNV,Carrion crow
+3322,WNV,Magpie
+3323,WNV,Carrion crow
+3324,WNV,Carrion crow
+3325,WNV,Magpie
+3326,WNV,Carrion crow
+3327,WNV,Carrion crow
+3328,WNV,Magpie
+3329,WNV,Carrion crow
+3330,WNV,Carrion crow
+3331,WNV,Magpie
+3332,WNV,Carrion crow
+3333,WNV,Carrion crow
+3334,WNV,Magpie
+3335,WNV,Carrion crow
+3336,WNV,Carrion crow
+3337,WNV,Magpie
+3338,WNV,Carrion crow
+3339,WNV,Carrion crow
+3340,WNV,Magpie
+3341,WNV,Carrion crow
+3342,WNV,Carrion crow
+3343,WNV,Magpie
+3344,WNV,Carrion crow
+3345,WNV,Carrion crow
+3346,WNV,Magpie
+3347,WNV,Carrion crow
+3348,WNV,Carrion crow
+3349,WNV,Magpie
+3350,WNV,Carrion crow
+3351,WNV,Carrion crow
+3352,WNV,Magpie
+3353,WNV,Carrion crow
+3354,WNV,Carrion crow
+3355,WNV,Magpie
+3356,WNV,Carrion crow
+3357,WNV,Carrion crow
+3358,WNV,Magpie
+3359,WNV,Carrion crow
+3360,WNV,Carrion crow
+3361,WNV,Magpie
+3362,WNV,Carrion crow
+3363,WNV,Carrion crow
+3364,WNV,Magpie
+3365,Chikungunya virus,human
+3366,TBE,human
+3367,TBEV,human
+3368,TBEV,human
+3369,TBE,human
+3370,SLEV,Spotted Dove
+3371,SLEV,Java Sparrow
+3372,SLEV,Spotted Dove
+3373,JEV,Spotted Dove
+3374,JEV,Java Sparrow
+3375,JEV,Spotted Dove
+3376,Rio Bravo virus,Chaerephon pumilus
+3377,Rio Bravo virus,little free  tailed bat
+3378,Entebbe bat,Chaerephon pumilus
+3379,Entebbe bat,little free  tailed bat
+3380,Bat virus,Chaerephon pumilus
+3381,Bat virus,little free  tailed bat
+3382,WNV,greater Egyptian gerbil
+3383,WNV,Microtus guentheri
+3384,WNV,Myodes glareolus
+3385,WNV,Tatera indica
+3386,WNV,bank vole
+3387,WNV,Indian gerbil
+3388,WNV,bushy  tailed jird
+3389,WNV,Gerbillus pyramidum
+3390,WNV,Indian desert jird
+3391,WNV,Sekeetamys calurus
+3392,WNV,Microtus arvalis
+3393,WNV,common vole
+3394,WNV,Meriones hurrianae
+3395,Dengue virus,monkeys
+3396,WNV,Crowned Eagle
+3397,JEV,human
+3398,DENV,Human
+3399,JEV,Human
+3400,WNV,European ground squirrel
+3401,WNV,Spermophilus citellus
+3402,WNV,European ground squirrel
+3403,WNV,Spermophilus citellus
+3404,Modoc virus,mice
+3405,JEV,human
+3406,TBE,cattle
+3407,TBE,sheep
+3408,tick  borne encephalitis virus,human
+3409,KFDV,human
+3410,KFD,human
+3411, WNV ,human
+3412,West Nile virus,human
+3413,USUV,human
+3414,WNV,human
+3415,WNV,human
+3416,TBEV,tree pipit
+3417,TBEV,redwing
+3418,TBEV,fieldfare
+3419,TBEV,Eurasian tree sparrow
+3420,TBEV,tree pipit
+3421,TBEV,redwing
+3422,TBEV,fieldfare
+3423,TBE virus,A speciosus
+3424,WNV,monkeys
+3425,WNV,Alouatta caraya
+3426,WNV,black howler
+3427,WNV,monkeys
+3428,WNV,Alouatta caraya
+3429,WNV,black howler
+3430,Modoc,deer mouse
+3431,WNV,R rattus
+3432,WNV,R rattus
+3433,WNV,Red squirrel
+3434,WNV,Western gray squirrel
+3435,WNV,European ground squirrel
+3436,WNV,Eastern gray squirrel
+3437,WNV,Eastern chipmunk
+3438,WNV,Tamiasciurus hudsonicus
+3439,WNV,Brown rat
+3440,WNV,Roof rat
+3441,WNV,Sciurus griseus
+3442,WNV,Tamias striatus
+3443,WNV,Sciurus carolinensis
+3444,WNV,Hispid cotton rat
+3445,WNV,Rattus norvegicus
+3446,WNV,Fox squirrel
+3447,WNV,Rattus norvegicus
+3448,WNV,R rattus
+3449,WNV,Sciurus niger
+3450,WNV,Sigmodon hispidus
+3451,WNV,Rattus rattus
+3452,WNV,Rattus sp
+3453,WNV,R rattus
+3454,West Nile virus,R rattus
+3455,West Nile virus,R rattus
+3456,West Nile virus,Red squirrel
+3457,West Nile virus,Western gray squirrel
+3458,West Nile virus,European ground squirrel
+3459,West Nile virus,Eastern gray squirrel
+3460,West Nile virus,Eastern chipmunk
+3461,West Nile virus,Tamiasciurus hudsonicus
+3462,West Nile virus,Brown rat
+3463,West Nile virus,Roof rat
+3464,West Nile virus,Sciurus griseus
+3465,West Nile virus,Tamias striatus
+3466,West Nile virus,Sciurus carolinensis
+3467,West Nile virus,Hispid cotton rat
+3468,West Nile virus,Rattus norvegicus
+3469,West Nile virus,Fox squirrel
+3470,West Nile virus,Rattus norvegicus
+3471,West Nile virus,R rattus
+3472,West Nile virus,Sciurus niger
+3473,West Nile virus,Sigmodon hispidus
+3474,West Nile virus,Rattus rattus
+3475,West Nile virus,Rattus sp
+3476,West Nile virus,R rattus
+3477,TBEV,cattle
+3478,FBS,mice
+3479,ICR,mice
+3480,Japanese encephalitis virus,human
+3481, JEV ,human
+3482,Murray Valley encephalitis virus,human
+3483, WNV ,human
+3484,Saint Louis encephalitis virus,human
+3485,West Nile virus,human
+3486,JEV,human
+3487,Kyasanur forest disease virus,Suncus murinus
+3488,WNF,white stork
+3489,TBE,dog
+3490,TBE,horse
+3491,TBE,dog
+3492,TBE,horse
+3493,WNV,Lanius collurio
+3494,WNV,Sylvia borin
+3495,WNV,Milvus migrans
+3496,WNV,Phoenicurus phoenicurus
+3497,WNV,Pandion haliaetus
+3498,WNV,Ficedula hypoleuca
+3499,WNV,Ciconia ciconia
+3500,WNV,Erithacus rubecula
+3501,WNV,Motacilla flava
+3502,WNV,Haliaeetus albicilla
+3503,WEEV,horse
+3504,CHIK,monkeys
+3505,CHIK,human
+3506,CHIK,monkeys
+3507,CHIK,human
+3508,West Nile virus,Megascops asio
+3509,DENV,Didelphis marsupialis
+3510,BHK,A speciosus
+3511,TBEV,horse
+3512,WNV,horse
+3513,West Nile virus,chicken
+3514,MVEV,human
+3515,MVEV,horse
+3516,West Nile virus,Gallus gallus domesticus
+3517,WNV,Magpie
+3518,WNV,Magpie
+3519,WNV,Magpie
+3520,WNV,Magpie
+3521,WNV,Magpie
+3522,WNV,Magpie
+3523,WNV,Magpie
+3524,WNV,Magpie
+3525,WNV,Magpie
+3526,WNV,Magpie
+3527,WNV,Magpie
+3528,WNV,Magpie
+3529,WNV,Magpie
+3530,WNV,Magpie
+3531,WNV,Magpie
+3532,WNV,Magpie
+3533,WNV,Magpie
+3534,WNV,Magpie
+3535,Kyasanur forest disease virus,Rattus rattus
+3536,dengue virus,Macaca sinica
+3537,WEEV,mouse
+3538,SLEV,mouse
+3539, TBE ,monkey
+3540, TBE ,Macaca sylvanus
+3541, TBE ,Monkey
+3542, TBE ,Macaca sylvanus
+3543,TBE,monkey
+3544,TBE,Macaca sylvanus
+3545,TBE,Monkey
+3546,TBE,Macaca sylvanus
+3547,TBE,human
+3548,TBE,human
+3549,DENV,monkeys
+3550,Dengue,human
+3551,JEV,human
+3552,Japanese encephalitis,human
+3553,DENV,human
+3554,Chikungunya,human
+3555,NSW,Human
+3556,WNV,Black  headed gull
+3557,WNV,Mute swan
+3558,WNV,Common tern
+3559,WNV,White stork
+3560,WNV,White stork
+3561,WNV,Black  headed gull
+3562,WNV,White stork
+3563,WNV,Common tern
+3564,WNV,White stork
+3565,WNV,White stork
+3566,WNV,Mute swan
+3567,WEST NILE,Black  headed gull
+3568,WEST NILE,Mute swan
+3569,WEST NILE,Common tern
+3570,WEST NILE,White stork
+3571,WEST NILE,White stork
+3572,WEST NILE,Black  headed gull
+3573,WEST NILE,White stork
+3574,WEST NILE,Common tern
+3575,WEST NILE,White stork
+3576,WEST NILE,White stork
+3577,WEST NILE,Mute swan
+3578,USUV,Black  headed gull
+3579,USUV,Mute swan
+3580,USUV,Common tern
+3581,USUV,White stork
+3582,USUV,White stork
+3583,USUV,Black  headed gull
+3584,USUV,White stork
+3585,USUV,Common tern
+3586,USUV,White stork
+3587,USUV,White stork
+3588,USUV,Mute swan
+3589,USUTU,Black  headed gull
+3590,USUTU,Mute swan
+3591,USUTU,Common tern
+3592,USUTU,White stork
+3593,USUTU,White stork
+3594,USUTU,Black  headed gull
+3595,USUTU,White stork
+3596,USUTU,Common tern
+3597,USUTU,White stork
+3598,USUTU,White stork
+3599,USUTU,Mute swan
+3600,ZIKV,human
+3601,West Nile,human
+3602,Sindbis,human
+3603,Usutu virus,Dendrocopos major
+3604,Usutu virus,Pyrrhula pyrrhula
+3605,Usutu virus,great spotted woodpecker
+3606,SPOV,human
+3607,SINV,human
+3608,CEEV,human
+3609,FITC,Rabbit
+3610,FITC,chicken
+3611,Tick  borne encephalitis,goat
+3612,Zika virus,human
+3613,WNV,House Sparrow
+3614,WNV,Passer domesticus
+3615,WNV,Hemignathus virens
+3616,WNV,House Finch
+3617,WNV,Carpodacus mexicanus
+3618,SLEV,House Sparrow
+3619,SLEV,Passer domesticus
+3620,SLEV,Hemignathus virens
+3621,SLEV,House Finch
+3622,SLEV,Carpodacus mexicanus
+3623,TBEV,common redstart
+3624,TBEV,fieldfare
+3625,TBEV,tree pipit
+3626,WNV,white stork
+3627,JEV,human
+3628,DENV,human
+3629,Kyasanur Forest disease,monkeys
+3630,KFD virus,human
+3631, KFDV ,human
+3632,KFD,human
+3633,Tick  Borne Encephalitis Virus,Microtus arvalis
+3634,Dengue,Human
+3635, CHIK ,Human
+3636,Chikungunya,Human
+3637,CHIK,Human
+3638,Japanese Encephalitis,Human
+3639, DHF ,Human
+3640,DHF,Human
+3641,USUV,blackbird
+3642,West Nile virus,Accipiter gentilis
+3643,West Nile virus,Bubo virginianus
+3644,FCS,mice
+3645,FCS,mice
+3646,FCS,mice
+3647,West Nile virus,Sciurus niger
+3648,SLEV,Mourning Dove
+3649,SLEV,Passer domesticus
+3650,SLEV,House Sparrow
+3651,SLEV,House Finch
+3652,WNV,human
+3653,WNV,Milvus migrans
+3654,WNV,Accipiter gentilis
+3655,WNV,Haliaeetus albicilla
+3656,TBEV,red deer
+3657,WNV,common coot
+3658,WNV,garganey
+3659,WNV,Ciconia ciconia
+3660,WNV,white stork
+3661,WNV,Vanellus vanellus
+3662,WNV,lapwing
+3663,WNV,black  headed gull
+3664,WNV,Fulica atra
+3665,WNV,Larus ridibundus
+3666,WNV,turtle dove
+3667,WNV,P haliaetus
+3668,WNV,Phoenicurus phoenicurus
+3669,WNV,C ciconia
+3670,USUV,P haliaetus
+3671,USUV,Phoenicurus phoenicurus
+3672,USUV,C ciconia
+3673,ENTV,little free  tailed bat
+3674,USUV,human
+3675,WNV,Roman mole
+3676,WNV,Talpa romana
+3677,Uganda S virus,mice
+3678,VRL,mice
+3679,Japanese Encephalitis Virus,Macaca nemestrina leonina
+3680,CHIK,Macaca nemestrina leonina
+3681,Dengue Virus,Macaca nemestrina leonina
+3682,Chikungunya Virus,Macaca nemestrina leonina
+3683,Dengue,Macaca nemestrina leonina
+3684,TBE,dog
+3685,WNV,striped skunk
+3686,WNV,Mephitis mephitis
+3687,TBE,human
+3688,TBE,A speciosus
+3689,TBE,R norvegicus
+3690,DENV,Macaca fascicularis
+3691,JEV,Macaca fascicularis
+3692,TBE,human
+3693,USUV,Blackcap
+3694,USUV,Kestrel
+3695,USUV,Lesser whitethroat
+3696,USUV,Jay
+3697,USUV,Chicken
+3698,USUV,Dunnock
+3699,USUV,Linnet
+3700,USUV,Blackbird
+3701,USUV,Duck
+3702,USUV,Green woodpecker
+3703,USUV,Garden warbler
+3704,USUV,Carrion crow
+3705,USUV,Chaffinch
+3706,USUV,Jackdaw
+3707,USUV,Great tit
+3708,USUV,House martin
+3709,SINV,Blackcap
+3710,SINV,Kestrel
+3711,SINV,Lesser whitethroat
+3712,SINV,Jay
+3713,SINV,Chicken
+3714,SINV,Dunnock
+3715,SINV,Linnet
+3716,SINV,Blackbird
+3717,SINV,Duck
+3718,SINV,Green woodpecker
+3719,SINV,Garden warbler
+3720,SINV,Carrion crow
+3721,SINV,Chaffinch
+3722,SINV,Jackdaw
+3723,SINV,Great tit
+3724,SINV,House martin
+3725,LIV,Blackcap
+3726,LIV,Kestrel
+3727,LIV,Lesser whitethroat
+3728,LIV,Jay
+3729,LIV,Chicken
+3730,LIV,Dunnock
+3731,LIV,Linnet
+3732,LIV,Blackbird
+3733,LIV,Duck
+3734,LIV,Green woodpecker
+3735,LIV,Garden warbler
+3736,LIV,Carrion crow
+3737,LIV,Chaffinch
+3738,LIV,Jackdaw
+3739,LIV,Great tit
+3740,LIV,House martin
+3741,Yellow fever,monkeys
+3742,Yellow fever,monkeys
+3743,Yellow fever,mantled howler
+3744,Pixuna,M bonariensis
+3745,TBEV,Microtus arvalis
+3746,DENV,monkey
+3747,WNV,human
+3748,YFV,mice
+3749,YFV,mice
+3750,ENTV,mice
+3751,ENTV,mice
+3752,ENTV,mice
+3753,ENTV,mice
+3754,ENTV,mice
+3755,ENTV,mice
+3756,ENTV,mice
+3757,ENTV,mice
+3758,Entebbe bat virus,mice
+3759,Entebbe bat virus,mice
+3760,Entebbe bat virus,mice
+3761,Entebbe bat virus,mice
+3762,Langat,dog
+3763,Langat,dog
+3764,RSSE,dog
+3765,RSSE,dog
+3766,WNV,Rufous Hornero
+3767,West Nile virus,Spanish imperial eagle
+3768,Tembusu virus,chicken
+3769,DENV,monkey
+3770,DENV,Papio papio
+3771,DENV,Guinea baboon
+3772,DENV,green monkey
+3773,DENV,Chlorocebus sabaeus
+3774,WNV,human
+3775,WNV,blackbird
+3776,WNV,gundi
+3777,WNV,gundi
+3778,SLEV,Great Kiskadee
+3779,SLEV,Picui Ground  Dove
+3780,SLEV,Eared Dove
+3781,WNV,human
+3782,DENV,Marmosa murina
+3783, SLE ,Orcinus orca
+3784, SLE ,killer whale
+3785, SLE ,killer whale
+3786,WNV,Crowned Eagle
+3787,Tembusu,drome
+3788,Tembusu,duck
+3789,BYD,drome
+3790,BYD,duck
+3791,WNV,bananaquit
+3792,WNV,G gallus
+3793,WNV,C flaveola
+3794,WNV,chicken
+3795,WNV,T leucomelas
+3796,WNV,pale  breasted thrush
+3797,SLEV,human
+3798,DENV,human
+3799,Usutu virus,Turdus merula
+3800,WNV,mouse
+3801,TBEV,human
+3802,TBE,human
+3803,Tick  borne encephalitis virus,sheep
+3804,TBE virus,sheep
+3805,WNV,Cyanocitta cristata
+3806,EEEV,Cyanocitta cristata
+3807,Louping Ill,Len
+3808,Louping Ill,Len
+3809,TBEV,M glareolus
+3810,TBEV,human
+3811,louping ill,sheep
+3812,Louping Ill,sheep
+3813,WNV,Passer domesticus
+3814,WNV,P montanus
+3815,NGS,Whitehead
+3816,NGS,Whitehead
+3817,USUV,chicken
+3818, INIA ,INIA
+3819,West Nile Virus,CAT
+3820,GCG,CAT
+3821,KOU virus,CAT
+3822,USUV,Turdus merula
+3823,USUV,Strix nebulosa
+3824,PRN,monkeys
+3825,yellow fever,monkeys
+3826,yellow fever,human
+3827,dengue,human
+3828,Yellow Fever,Monkeys
+3829,yellow fever,monkeys
+3830, WND ,human
+3831,WNV,human
+3832,yellow fever,black rat
+3833,Apoi,black rat
+3834,Modoc,black rat
+3835,PRN,Dasyprocta punctata
+3836,PRN,monkeys
+3837,Mayaro virus,Dasyprocta punctata
+3838,Mayaro virus,monkeys
+3839,Mayaro,Dasyprocta punctata
+3840,Mayaro,monkeys
+3841,YF virus,monkey
+3842,yellow fever,black howler
+3843,yellow fever,monkey
+3844,yellow fever,Alouatta caraya
+3845,yellow fever,Alouatta guariba
+3846,yellow fever,brown howler
+3847,EEE virus,Mesocricetus auratus
+3848,DENV,sheep
+3849,ILH virus,agouti
+3850,YF virus,agouti
+3851,YFV,R rattus
+3852,Mayaro virus,monkeys
+3853,Mayaro virus,D punctata
+3854,dengue,Len
+3855,YF virus,monkey
+3856,USUV,horse
+3857,WNV,horse
+3858,RB virus,T brasiliensis
+3859,RB virus,E fuscus
+3860,yellow fever,monkeys
+3861,yellow fever,human
+3862,YF virus,monkeys
+3863,bat virus,long  fingered bat
+3864,bat virus,Rousettus aegyptiacus
+3865,bat virus,Myotis dasycneme
+3866,bat virus,Rhinolophus ferrumequinum
+3867,bat virus,Myotis mystacinus
+3868,bat virus,greater tube  nosed bat
+3869,bat virus,Miniopterus schreibersii
+3870,bat virus,pond myotis
+3871,bat virus,Egyptian rousette
+3872,bat virus,Eptesicus serotinus
+3873,bat virus,Miniopterus schreibersii
+3874,bat virus,Myotis myotis
+3875,bat virus,whiskered myotis
+3876,bat virus,Myotis blythii
+3877,bat virus,greater horseshoe bat
+3878,bat virus,Myotis nattereri
+3879,bat virus,serotine
+3880,bat virus,mouse  eared myotis
+3881,bat virus,long  fingered bat
+3882,bat virus,lesser mouse  eared myotis
+3883,bat virus,Murina leucogaster
+3884,bat virus,Myotis daubentonii
+3885, ILHV ,human
+3886,Cacipacore virus,human
+3887,Ilheus virus,human
+3888, BSQV ,human
+3889, CPCV ,human
+3890,Yellow fever,human
+3891,yellow fever,human
+3892,yellow fever virus,monkeys
+3893,yellow fever virus,monkeys
+3894,Australian bat lyssavirus,Saccolaimus flaviventris
+3895,Australian bat lyssavirus,Nycteris gambiensis
+3896,Australian bat lyssavirus,Vespertilio murinus
+3897,Australian bat lyssavirus,Micropteropus pusillus
+3898,Australian bat lyssavirus,noctule
+3899,Australian bat lyssavirus,Nyctalus noctula
+3900,Australian bat lyssavirus,Gambian slit  faced bat
+3901,Australian bat lyssavirus,Nycteris thebaica
+3902,Australian bat lyssavirus,yellow  bellied pouched bat
+3903,Australian bat lyssavirus,Eidolon helvum
+3904,Australian bat lyssavirus,Epomops dobsonii
+3905,Australian bat lyssavirus,Egyptian slit  faced bat
+3906,Australian bat lyssavirus,Epomophorus wahlbergi
+3907,WNV,cattle
+3908,WNV,sheep
+3909,ROCV,horse
+3910,Usutu virus,Euro
+3911,SLE virus,monkeys
+3912,yellow fever,brown howler monkey
+3913,TCR,A lituratus
+3914,TCR,A lituratus
+3915,WEE virus,A lituratus
+3916,WEE virus,A lituratus
+3917,ILHV,horse
+3918,YFV,horse
+3919,ROCV,horse
+3920,SLEV,horse
+3921,West Nile virus,Columba livia
+3922, JEV ,Eptesicus fuscus
+3923,Japanese encephalitis virus,Eptesicus fuscus
+3924,ILH,Dasyprocta punctata
+3925,BSQ,Dasyprocta punctata
+3926,ILH virus,Dasyprocta punctata
+3927,YFV,R rattus
+3928,YFV,M musculus
+3929,USUV,human
+3930,yellow fever,monkey
+3931,yellow fever,tufted capuchin
+3932,Bukalasa bat virus,Uroderma bilobatum
+3933,Bukalasa bat virus,tent  making bat
+3934,Bukalasa bat virus,Artibeus phaeotis
+3935,Bukalasa bat virus,vampire bat
+3936,Bukalasa bat virus,pygmy fruit  eating bat
+3937,Bukalasa bat virus,Desmodus rotundus
+3938,Venezuelan equine encephalitis virus,Uroderma bilobatum
+3939,Venezuelan equine encephalitis virus,tent  making bat
+3940,Venezuelan equine encephalitis virus,Artibeus phaeotis
+3941,Venezuelan equine encephalitis virus,vampire bat
+3942,Venezuelan equine encephalitis virus,pygmy fruit  eating bat
+3943,Venezuelan equine encephalitis virus,Desmodus rotundus
+3944,Yellow Fever,Monkey
+3945,Yellow Fever,A caraya
+3946,Yellow Fever,Alouatta guariba
+3947,SLE virus,Carollia perspicillata
+3948,SLE virus,Didelphis marsupialis
+3949,SLE virus,Artibeus jamaicensis
+3950,SLE virus,Metachirus nudicaudatus
+3951,SLE virus,Artibeus lituratus
+3952,ILH,Carollia perspicillata
+3953,ILH,Didelphis marsupialis
+3954,ILH,Artibeus jamaicensis
+3955,ILH,Metachirus nudicaudatus
+3956,ILH,Artibeus lituratus
+3957,BSQ,Carollia perspicillata
+3958,BSQ,Didelphis marsupialis
+3959,BSQ,Artibeus jamaicensis
+3960,BSQ,Metachirus nudicaudatus
+3961,BSQ,Artibeus lituratus
+3962,Mayaro virus,Carollia perspicillata
+3963,Mayaro virus,Didelphis marsupialis
+3964,Mayaro virus,Artibeus jamaicensis
+3965,Mayaro virus,Metachirus nudicaudatus
+3966,Mayaro virus,Artibeus lituratus
+3967,SLE,Carollia perspicillata
+3968,SLE,Didelphis marsupialis
+3969,SLE,Artibeus jamaicensis
+3970,SLE,Metachirus nudicaudatus
+3971,SLE,Artibeus lituratus
+3972,influenza A virus,variable flying fox
+3973,influenza A virus,Rhinolophus sinicus
+3974,influenza A virus,Pteropus conspicillatus
+3975,influenza A virus,Pteropus lylei
+3976,influenza A virus,noctule
+3977,influenza A virus,Egyptian rousette
+3978,influenza A virus,variable flying fox
+3979,influenza A virus,black flying fox
+3980,influenza A virus,Chaerephon pumilus
+3981,influenza A virus,Sturnira lilium
+3982,influenza A virus,Rhinolophus ferrumequinum
+3983,influenza A virus,gray  headed flying fox
+3984,influenza A virus,Pteropus scapulatus
+3985,influenza A virus,Chinese horseshoe bat
+3986,influenza A virus,spectacled flying fox
+3987,influenza A virus,Hipposideros caffer
+3988,influenza A virus,Pteropus vampyrus
+3989,influenza A virus,Rhinolophus macrotis
+3990,influenza A virus,Scotophilus sp 
+3991,influenza A virus,Pteropus poliocephalus
+3992,influenza A virus,little free  tailed bat
+3993,influenza A virus,little red flying fox
+3994,influenza A virus,greater horseshoe bat
+3995,influenza A virus,Pteropus hypomelanus
+3996,influenza A virus,Rhinolophus pearsonii
+3997,influenza A virus,large flying fox
+3998,influenza A virus,Rousettus aegyptiacus
+3999,influenza A virus,Pteropus hypomelanus
+4000,influenza A virus,big  eared horseshoe bat
+4001,influenza A virus,Nyctalus noctula
+4002,influenza A virus,Pteropus poliocephalus
+4003,influenza A virus,gray  headed flying fox
+4004,influenza A virus,Pteropus alecto
+4005,Chikungunya,variable flying fox
+4006,Chikungunya,Rhinolophus sinicus
+4007,Chikungunya,Pteropus conspicillatus
+4008,Chikungunya,Pteropus lylei
+4009,Chikungunya,noctule
+4010,Chikungunya,Egyptian rousette
+4011,Chikungunya,variable flying fox
+4012,Chikungunya,black flying fox
+4013,Chikungunya,Chaerephon pumilus
+4014,Chikungunya,Sturnira lilium
+4015,Chikungunya,Rhinolophus ferrumequinum
+4016,Chikungunya,gray  headed flying fox
+4017,Chikungunya,Pteropus scapulatus
+4018,Chikungunya,Chinese horseshoe bat
+4019,Chikungunya,spectacled flying fox
+4020,Chikungunya,Hipposideros caffer
+4021,Chikungunya,Pteropus vampyrus
+4022,Chikungunya,Rhinolophus macrotis
+4023,Chikungunya,Scotophilus sp 
+4024,Chikungunya,Pteropus poliocephalus
+4025,Chikungunya,little free  tailed bat
+4026,Chikungunya,little red flying fox
+4027,Chikungunya,greater horseshoe bat
+4028,Chikungunya,Pteropus hypomelanus
+4029,Chikungunya,Rhinolophus pearsonii
+4030,Chikungunya,large flying fox
+4031,Chikungunya,Rousettus aegyptiacus
+4032,Chikungunya,Pteropus hypomelanus
+4033,Chikungunya,big  eared horseshoe bat
+4034,Chikungunya,Nyctalus noctula
+4035,Chikungunya,Pteropus poliocephalus
+4036,Chikungunya,gray  headed flying fox
+4037,Chikungunya,Pteropus alecto
+4038,Sindbis virus,variable flying fox
+4039,Sindbis virus,Rhinolophus sinicus
+4040,Sindbis virus,Pteropus conspicillatus
+4041,Sindbis virus,Pteropus lylei
+4042,Sindbis virus,noctule
+4043,Sindbis virus,Egyptian rousette
+4044,Sindbis virus,variable flying fox
+4045,Sindbis virus,black flying fox
+4046,Sindbis virus,Chaerephon pumilus
+4047,Sindbis virus,Sturnira lilium
+4048,Sindbis virus,Rhinolophus ferrumequinum
+4049,Sindbis virus,gray  headed flying fox
+4050,Sindbis virus,Pteropus scapulatus
+4051,Sindbis virus,Chinese horseshoe bat
+4052,Sindbis virus,spectacled flying fox
+4053,Sindbis virus,Hipposideros caffer
+4054,Sindbis virus,Pteropus vampyrus
+4055,Sindbis virus,Rhinolophus macrotis
+4056,Sindbis virus,Scotophilus sp 
+4057,Sindbis virus,Pteropus poliocephalus
+4058,Sindbis virus,little free  tailed bat
+4059,Sindbis virus,little red flying fox
+4060,Sindbis virus,greater horseshoe bat
+4061,Sindbis virus,Pteropus hypomelanus
+4062,Sindbis virus,Rhinolophus pearsonii
+4063,Sindbis virus,large flying fox
+4064,Sindbis virus,Rousettus aegyptiacus
+4065,Sindbis virus,Pteropus hypomelanus
+4066,Sindbis virus,big  eared horseshoe bat
+4067,Sindbis virus,Nyctalus noctula
+4068,Sindbis virus,Pteropus poliocephalus
+4069,Sindbis virus,gray  headed flying fox
+4070,Sindbis virus,Pteropus alecto
+4071,West Nile virus,sheep
+4072,yellow fever,human
+4073,WNV,Human
+4074,bat virus,Yuma myotis
+4075,bat virus,Myotis yumanensis
+4076,WEE,A lituratus
+4077,SLE virus,monkey
+4078,YF virus,monkey
+4079,OPS,monkeys
+4080,OPS,black howler
+4081,yellow fever,monkeys
+4082,yellow fever,black howler
+4083,West Nile virus,human
+4084,YF virus,Saguinus geoffroyi
+4085,YF virus,Aotus trivirgatus
+4086,YF virus,night monkey
+4087,YF virus,monkeys
+4088,YF virus,Saguinus geoffroyi
+4089,YF virus,Aotus trivirgatus
+4090,YF virus,night monkey
+4091,YF virus,monkeys
+4092,PRN,Saguinus geoffroyi
+4093,PRN,Aotus trivirgatus
+4094,PRN,night monkey
+4095,PRN,monkeys
+4096,SLE virus,tropical kingbird
+4097,SLE virus,Tyrannus melancholicus
+4098,Yellow Fever,Monkeys
+4099,WNV,sheep
+4100,ILH virus,Dasyprocta punctata
+4101,ILH,D punctata
+4102,SLE virus,D punctata
+4103,WNV,sheep
+4104,Entebbe bat virus,little free  tailed bat
+4105,Entebbe bat virus,Mops condylurus
+4106,Entebbe bat virus,Taphozous perforatus
+4107,Entebbe bat virus,Chaerephon pumilus
+4108,Entebbe bat virus,Egyptian tomb bat
+4109,Entebbe bat virus,Scotophilus sp 
+4110,Kyasanur Forest disease virus,long  fingered bat
+4111,Kyasanur Forest disease virus,Cynopterus sphinx
+4112,Kyasanur Forest disease virus,little brown bat
+4113,Kyasanur Forest disease virus,little free  tailed bat
+4114,Kyasanur Forest disease virus,Miniopterus schreibersii
+4115,Kyasanur Forest disease virus,lesser short  nosed fruit bat
+4116,Kyasanur Forest disease virus,greater short  nosed fruit bat
+4117,Kyasanur Forest disease virus,Mops condylurus
+4118,Kyasanur Forest disease virus,rufous horseshoe bat
+4119,Kyasanur Forest disease virus,Hipposideros armiger
+4120,Kyasanur Forest disease virus,great roundleaf bat
+4121,Kyasanur Forest disease virus,Chaerephon pumilus
+4122,Kyasanur Forest disease virus,Myotis lucifugus
+4123,Japanese encephalitis virus,long  fingered bat
+4124,Japanese encephalitis virus,Cynopterus sphinx
+4125,Japanese encephalitis virus,little brown bat
+4126,Japanese encephalitis virus,little free  tailed bat
+4127,Japanese encephalitis virus,Miniopterus schreibersii
+4128,Japanese encephalitis virus,lesser short  nosed fruit bat
+4129,Japanese encephalitis virus,greater short  nosed fruit bat
+4130,Japanese encephalitis virus,Mops condylurus
+4131,Japanese encephalitis virus,rufous horseshoe bat
+4132,Japanese encephalitis virus,Hipposideros armiger
+4133,Japanese encephalitis virus,great roundleaf bat
+4134,Japanese encephalitis virus,Chaerephon pumilus
+4135,Japanese encephalitis virus,Myotis lucifugus
+4136,Jugra virus,long  fingered bat
+4137,Jugra virus,Cynopterus sphinx
+4138,Jugra virus,little brown bat
+4139,Jugra virus,little free  tailed bat
+4140,Jugra virus,Miniopterus schreibersii
+4141,Jugra virus,lesser short  nosed fruit bat
+4142,Jugra virus,greater short  nosed fruit bat
+4143,Jugra virus,Mops condylurus
+4144,Jugra virus,rufous horseshoe bat
+4145,Jugra virus,Hipposideros armiger
+4146,Jugra virus,great roundleaf bat
+4147,Jugra virus,Chaerephon pumilus
+4148,Jugra virus,Myotis lucifugus
+4149,bat virus,long  fingered bat
+4150,bat virus,Cynopterus sphinx
+4151,bat virus,little brown bat
+4152,bat virus,little free  tailed bat
+4153,bat virus,Miniopterus schreibersii
+4154,bat virus,lesser short  nosed fruit bat
+4155,bat virus,greater short  nosed fruit bat
+4156,bat virus,Mops condylurus
+4157,bat virus,rufous horseshoe bat
+4158,bat virus,Hipposideros armiger
+4159,bat virus,great roundleaf bat
+4160,bat virus,Chaerephon pumilus
+4161,bat virus,Myotis lucifugus
+4162,bat virus,Tadarida brasiliensis
+4163,bat virus,Mexican free  tailed bat
+4164,bat virus,Pipistrellus pipistrellus
+4165,bat virus,Tadarida brasiliensis
+4166,bat virus,Gambian slit  faced bat
+4167,bat virus,Mexican free  tailed bat
+4168,bat virus,Eptesicus fuscus
+4169,bat virus,big brown bat
+4170,bat virus,common pipistrelle
+4171,bat virus,Nycteris gambiensis
+4172,Saboya virus,Tadarida brasiliensis
+4173,Saboya virus,Mexican free  tailed bat
+4174,Saboya virus,Pipistrellus pipistrellus
+4175,Saboya virus,Tadarida brasiliensis
+4176,Saboya virus,Gambian slit  faced bat
+4177,Saboya virus,Mexican free  tailed bat
+4178,Saboya virus,Eptesicus fuscus
+4179,Saboya virus,big brown bat
+4180,Saboya virus,common pipistrelle
+4181,Saboya virus,Nycteris gambiensis
+4182,Rio Bravo virus,Tadarida brasiliensis
+4183,Rio Bravo virus,Mexican free  tailed bat
+4184,Rio Bravo virus,Pipistrellus pipistrellus
+4185,Rio Bravo virus,Tadarida brasiliensis
+4186,Rio Bravo virus,Gambian slit  faced bat
+4187,Rio Bravo virus,Mexican free  tailed bat
+4188,Rio Bravo virus,Eptesicus fuscus
+4189,Rio Bravo virus,big brown bat
+4190,Rio Bravo virus,common pipistrelle
+4191,Rio Bravo virus,Nycteris gambiensis
+4192,JEV,Tadarida brasiliensis
+4193,JEV,Mexican free  tailed bat
+4194,JEV,Pipistrellus pipistrellus
+4195,JEV,Tadarida brasiliensis
+4196,JEV,Gambian slit  faced bat
+4197,JEV,Mexican free  tailed bat
+4198,JEV,Eptesicus fuscus
+4199,JEV,big brown bat
+4200,JEV,common pipistrelle
+4201,JEV,Nycteris gambiensis
+4202, SLE ,Choloepus hoffmanni
+4203,WNV,Mouse
+4204,WNV,mice
+4205,SLEV,Mouse
+4206,SLEV,mice
+4207,yellow fever,Bradypus variegatus
+4208,yellow fever,monkeys
+4209,yellow fever,Choloepus didactylus
+4210,yellow fever,Choloepus hoffmanni
+4211,YF virus,Bradypus variegatus
+4212,YF virus,monkeys
+4213,YF virus,Choloepus didactylus
+4214,YF virus,Choloepus hoffmanni
+4215,SLEV,human
+4216,SLEV,human
+4217,SLEV,human
+4218,measles morbillivirus,human
+4219,West Nile virus,human
+4220, DENV ,human
+4221, SLEV ,human
+4222,Dengue virus,human
+4223, WNV ,human
+4224,West Nile virus,human
+4225,yellow fever,monkeys
+4226,yellow fever,monkeys
+4227,Modoc,R rattus
+4228,yellow fever,R rattus
+4229,Apoi,R rattus
+4230, SLE ,human
+4231, SLE ,human
+4232,YF virus,human
+4233,YF virus,human
+4234,SLE virus,human
+4235,SLE virus,human
+4236,SLE virus,human
+4237,SLE virus,human
+4238,YF virus,human
+4239,YF virus,human
+4240,SLE virus,human
+4241,SLE virus,human
+4242,hit,monkey
+4243,Carey Island virus,lesser short  nosed fruit bat
+4244,Carey Island virus,little free  tailed bat
+4245,Carey Island virus,lesser long  tongued fruit bat
+4246,Carey Island virus,Tadarida condylura
+4247,Carey Island virus,Macroglossus minimus
+4248,Carey Island virus,Chaerephon pumilus
+4249,VSNJ,A jamaicensis
+4250,yellow fever,monkeys
+4251,WNV,horse
+4252,yellow fever,monkeys
+4253,yellow fever,monkeys
+4254,tick  borne encephalitis virus,dog
+4255,SLE virus,turkey
+4256,WNV,blue tit
+4257,WNV,common kingfisher
+4258,WNV,great reed warbler
+4259, TBE ,mouflon
+4260, TBE ,Ovis ammon
+4261, TBE ,human
+4262,TBE virus,sheep
+4263,West Nile virus,human
+4264,DENV,Carollia sowelli
+4265,DENV,A planirostris
+4266,DENV,Myotis nigricans
+4267,DENV,Carollia sowelli
+4268,DENV,A planirostris
+4269,DENV,Myotis nigricans
+4270,DENV,Carollia sowelli
+4271,DENV,A planirostris
+4272,DENV,Myotis nigricans
+4273,WNV,coot
+4274,Usutu virus,coot
+4275,WNV,coot
+4276,Usutu,coot
+4277,West Nile virus,Columba livia
+4278,MVEV,human
+4279,MVEV,human
+4280,USUV,common coot
+4281,WNV,common coot
+4282,Zika Virus,Monkey
+4283,Zika virus,human
+4284,Zika virus,human
+4285,USUV,Northern Goshawk
+4286,USUV,Ixobrychus minutus
+4287,USUV,Apus apus
+4288,USUV,Fulica atra
+4289,USUV,Garrulus glandarius
+4290,USUV,House Sparrow
+4291,USUV,Delichon urbica
+4292,USUV,Eurasian Woodcock
+4293,USUV,Accipiter gentilis
+4294,USUV,Black Tern
+4295,USUV,Eurasian Scops Owl
+4296,USUV,Common Moorhen
+4297,USUV,Passer domesticus
+4298,USUV,Scolopax rusticola
+4299,USUV,Chlidonias niger
+4300,USUV,Great Spotted Woodpecker
+4301,USUV,Eurasian Skylark
+4302,USUV,Asio otus
+4303,USUV,Otus scops
+4304,USUV,Gallinula chloropus
+4305,USUV,Eurasian Collared  Dove
+4306,USUV,European Serin
+4307,USUV,White Stork
+4308,USUV,Alauda arvensis
+4309,USUV,Common Buzzard
+4310,USUV,Dendrocopos major
+4311,USUV,Nightjar
+4312,USUV,Common Kestrel
+4313,USUV,Eurasian Green Woodpecker
+4314,USUV,Ciconia ciconia
+4315,USUV,Black  winged Stilt
+4316,USUV,Serinus serinus
+4317,USUV,Buteo buteo
+4318,USUV,Streptopelia decaocto
+4319,USUV,Common Teal
+4320,USUV,Little Egret
+4321,USUV,Caprimulgus europaeus
+4322,USUV,Falco tinnunculus
+4323,USUV,Tawny Owl
+4324,USUV,Picus viridis
+4325,USUV,Anas crecca
+4326,USUV,Mallard
+4327,USUV,Himantopus himantopus
+4328,USUV,Egretta garzetta
+4329,USUV,Strix aluco
+4330,USUV,Great Tit
+4331,USUV,Goose
+4332,USUV,Little Owl
+4333,USUV,Anas platyrhynchos
+4334,USUV,Anser anser
+4335,USUV,Parus major
+4336,USUV,Eurasian Blackbird
+4337,USUV,Blackcap
+4338,USUV,European Robin
+4339,USUV,Circus aeruginosus
+4340,USUV,Athene noctua
+4341,USUV,Black  crowned Night Heron
+4342,USUV,European Bee  eater
+4343,USUV,Common Pheasant
+4344,USUV,Pallid Swift
+4345,USUV,Sylvia atricapilla
+4346,USUV,Cattle Egret
+4347,USUV,Turdus merula
+4348,USUV,Erithacus rubecula
+4349,USUV,Common Pigeon
+4350,USUV,Common Wood  Pigeon
+4351,USUV,Merops apiaster
+4352,USUV,Apus pallidus
+4353,USUV,Phasianus colchicus
+4354,USUV,Bubulcus ibis
+4355,USUV,Nycticorax nycticorax
+4356,USUV,Indian Peafowl
+4357,USUV,Hoopoe
+4358,USUV,Columba livia domestica
+4359,USUV,Columba palumbus
+4360,USUV,Squacco Heron
+4361,USUV,Common Starling
+4362,USUV,Eurasian Jackdaw
+4363,USUV,Eurasian Magpie
+4364,USUV,Upupa epops
+4365,USUV,Grey Heron
+4366,USUV,Eurasian Sparrowhawk
+4367,USUV,Pavo cristatus
+4368,USUV,Eurasian Golden Oriole
+4369,USUV,Pica pica
+4370,USUV,Ardeola ralloides
+4371,USUV,Sturnus vulgaris
+4372,USUV,Ardea cinerea
+4373,USUV,Black  headed Gull
+4374,USUV,Corvus monedula
+4375,USUV,Cuckoo
+4376,USUV,Northern Lapwing
+4377,USUV,Accipiter nisus
+4378,USUV,Great Cormorant
+4379,USUV,Oriolus oriolus
+4380,USUV,Cuculus canorus
+4381,USUV,Larus ridibundus
+4382,USUV,Bittern
+4383,USUV,Vanellus vanellus
+4384,USUV,Great Crested Grebe
+4385,USUV,Barn Swallow
+4386,USUV,Phalacrocorax carbo
+4387,USUV,Greater Spotted Eagle
+4388,USUV,Botaurus stellaris
+4389,USUV,Peregrine Falcon
+4390,USUV,Yellow  legged Gull
+4391,USUV,Hirundo rustica
+4392,USUV,Podiceps cristatus
+4393,USUV,Corvus cornix
+4394,USUV,Greater Flamingo
+4395,USUV,Falco peregrinus
+4396,USUV,Larus michahellis
+4397,USUV,Tyto alba
+4398,USUV,European Goldfinch
+4399,USUV,Little Bittern
+4400,USUV,Phoenicopterus ruber
+4401,USUV,Northern House  Martin
+4402,USUV,Eurasian Jay
+4403,USUV,Eurasian Coot
+4404,USUV,Common Swift
+4405,dengue,human
+4406,Zika virus,monkey
+4407,dengue virus,monkeys
+4408,ZIKA VIRUS,MONKEY
+4409,West Nile virus,human
+4410,Zika virus,human
+4411,Zika virus,human
+4412,Apoi,turkey
+4413,Saboya,turkey
+4414,APOI,turkey
+4415,Murray Valley encephalitis virus,horse
+4416,WNV,European Starling
+4417,WNV,Pica pica
+4418,WNV,Pica pica
+4419,tick  borne encephalitis,sheep
+4420,louping ill virus,mouflon
+4421,TBE,mouflon
+4422, TBE ,mouflon
+4423,WNV,Spotted Eagle
+4424,WNV,magpie
+4425,USUV,Spotted Eagle
+4426,USUV,magpie
+4427,SLE virus,turkey
+4428,Koutango,turkey
+4429,CPE,turkey
+4430,Salmonella,swine
+4431,Escherichia,swine
+4432,West Nile virus,human
+4433,dengue,Euro
+4434,Zika virus,Euro
+4435,chikungunya,Euro
+4436,USUTU,Fulica atra
+4437,USUTU,Fulica atra
+4438,WNV,Fulica atra
+4439,WNV,Fulica atra
+4440, WNV ,Fulica atra
+4441, WNV ,Fulica atra
+4442,WNV,Fulica atra
+4443,WNV,Fulica atra
+4444,USUV,Fulica atra
+4445,USUV,Fulica atra
+4446,WEST NILE VIRUS,Fulica atra
+4447,WEST NILE VIRUS,Fulica atra
+4448, USUV ,Fulica atra
+4449, USUV ,Fulica atra
+4450, PFU ,mouse
+4451,WNV,mouse
+4452,FCS,mouse
+4453,DENV,Glossophaga soricina
+4454,DENV,A lituratus
+4455,DENV,A lituratus
+4456,DENV,Artibeus jamaicensis
+4457,USUV,coot
+4458,USUV,coot
+4459,USUV,coot
+4460,USUV,coot
+4461,WNV,coot
+4462,WNV,coot
+4463,WNV,coot
+4464,WNV,coot
+4465,USUV,coot
+4466,USUV,coot
+4467,louping ill virus,mice
+4468,louping ill virus,pig
+4469,louping ill virus,sheep
+4470,WEST NILE VIRUS,Little grebe
+4471,WEST NILE VIRUS,Barred warbler
+4472,WEST NILE VIRUS,mallard
+4473,WEST NILE VIRUS,Hippolais icterina
+4474,WEST NILE VIRUS,Sturnus vulgaris
+4475,WEST NILE VIRUS,Locustella luscinioides
+4476,WEST NILE VIRUS,Common pochard
+4477,WEST NILE VIRUS,Sedge warbler
+4478,WEST NILE VIRUS,Blackbird
+4479,WEST NILE VIRUS,duck
+4480,WEST NILE VIRUS,Swallow
+4481,WEST NILE VIRUS,Red  backed shrike
+4482,WEST NILE VIRUS,Black  headed gull
+4483,WEST NILE VIRUS,Anas platyrhynchos
+4484,WEST NILE VIRUS,Sylvia nisoria
+4485,WEST NILE VIRUS,Tachybaptus ruficollis
+4486,WEST NILE VIRUS,Acrocephalus palustris
+4487,WEST NILE VIRUS,Remiz pendulinus
+4488,WEST NILE VIRUS,Great reed warbler
+4489,WEST NILE VIRUS,Red  crested pochard
+4490,WEST NILE VIRUS,Aythya ferina
+4491,WEST NILE VIRUS,Turdus merula
+4492,WEST NILE VIRUS,Anas platyrhynchos
+4493,WEST NILE VIRUS,Hirundo rustica
+4494,WEST NILE VIRUS,Reed bunting
+4495,WEST NILE VIRUS,goose
+4496,WEST NILE VIRUS,Blackcap
+4497,WEST NILE VIRUS,Acrocephalus schoenobaenus
+4498,WEST NILE VIRUS,Lanius collurio
+4499,WEST NILE VIRUS,Reed warbler
+4500,WEST NILE VIRUS,Larus ridibundus
+4501,WEST NILE VIRUS,Anser anser
+4502,WEST NILE VIRUS,Stonechat
+4503,WEST NILE VIRUS,Gadwall
+4504,WEST NILE VIRUS,Sylvia atricapilla
+4505,WEST NILE VIRUS,Common kingfisher
+4506,WEST NILE VIRUS,Blue tit
+4507,WEST NILE VIRUS,Panurus biarmicus
+4508,WEST NILE VIRUS,Netta rufina
+4509,WEST NILE VIRUS,Common coot
+4510,WEST NILE VIRUS,Emberiza schoeniclus
+4511,WEST NILE VIRUS,Acrocephalus arundinaceus
+4512,WEST NILE VIRUS,Song thrush
+4513,WEST NILE VIRUS,Tufted duck
+4514,WEST NILE VIRUS,Icterine warbler
+4515,WEST NILE VIRUS,Turdus philomelos
+4516,WEST NILE VIRUS,Saxicola torquatus
+4517,WEST NILE VIRUS,Acrocephalus scirpaceus
+4518,WEST NILE VIRUS,parus caeruleus
+4519,WEST NILE VIRUS,Starling
+4520,WEST NILE VIRUS,Fulica atra
+4521,WEST NILE VIRUS,Common sandpiper
+4522,WEST NILE VIRUS,Aythya fuligula
+4523,WEST NILE VIRUS,Marsh warbler
+4524,WNV,Little grebe
+4525,WNV,Barred warbler
+4526,WNV,mallard
+4527,WNV,Hippolais icterina
+4528,WNV,Sturnus vulgaris
+4529,WNV,Locustella luscinioides
+4530,WNV,Common pochard
+4531,WNV,Sedge warbler
+4532,WNV,Blackbird
+4533,WNV,duck
+4534,WNV,Swallow
+4535,WNV,Red  backed shrike
+4536,WNV,Black  headed gull
+4537,WNV,Anas platyrhynchos
+4538,WNV,Sylvia nisoria
+4539,WNV,Tachybaptus ruficollis
+4540,WNV,Acrocephalus palustris
+4541,WNV,Remiz pendulinus
+4542,WNV,Great reed warbler
+4543,WNV,Red  crested pochard
+4544,WNV,Aythya ferina
+4545,WNV,Turdus merula
+4546,WNV,Anas platyrhynchos
+4547,WNV,Hirundo rustica
+4548,WNV,Reed bunting
+4549,WNV,goose
+4550,WNV,Blackcap
+4551,WNV,Acrocephalus schoenobaenus
+4552,WNV,Lanius collurio
+4553,WNV,Reed warbler
+4554,WNV,Larus ridibundus
+4555,WNV,Anser anser
+4556,WNV,Stonechat
+4557,WNV,Gadwall
+4558,WNV,Sylvia atricapilla
+4559,WNV,Common kingfisher
+4560,WNV,Blue tit
+4561,WNV,Panurus biarmicus
+4562,WNV,Netta rufina
+4563,WNV,Common coot
+4564,WNV,Emberiza schoeniclus
+4565,WNV,Acrocephalus arundinaceus
+4566,WNV,Song thrush
+4567,WNV,Tufted duck
+4568,WNV,Icterine warbler
+4569,WNV,Turdus philomelos
+4570,WNV,Saxicola torquatus
+4571,WNV,Acrocephalus scirpaceus
+4572,WNV,parus caeruleus
+4573,WNV,Starling
+4574,WNV,Fulica atra
+4575,WNV,Common sandpiper
+4576,WNV,Aythya fuligula
+4577,WNV,Marsh warbler
+4578,TBEV,mouflon
+4579,TBEV,mouflon
+4580,Entebbe bat,turkey
+4581,Rio Bravo,turkey
+4582,Apoi,turkey
+4583,Dakar bat,turkey
+4584,Bukalasa bat,turkey
+4585,Saboya,turkey
+4586,Koutango,turkey
+4587,louping ill virus,sheep
+4588,USUV,Blackbird
+4589,Zika virus,monkeys
+4590,fam,monkeys
+4591,DENV,A lituratus
+4592,DENV,A jamaicensis
+4593,DENV,G soricina
+4594,DENV,A lituratus
+4595,DENV,A jamaicensis
+4596,DENV,G soricina
+4597,WNV,Panurus biarmicus
+4598,WNV,blue tit
+4599,WNV,Panurus biarmicus
+4600,WNV,blue tit
+4601,MVE virus,Nankeen night heron
+4602,TBEV,sheep
+4603,TBEV,human
+4604,TBEV,goat
+4605,TBEV,sheep
+4606,louping ill virus,sheep
+4607,louping ill virus,human
+4608,louping ill virus,goat
+4609,louping ill virus,sheep
+4610,den,Dendrocygna eytoni
+4611,den,Porphyrio porphyrio
+4612,den,Nycticorax caledonicus
+4613,den,magpie
+4614,den,T spinicollis
+4615,den,Anseranas semipalmata
+4616,TBEV,mouflon
+4617,TBEV,mouflon
+4618,Modoc virus,mice
+4619,Modoc virus,Peromyscus maniculatus
+4620,USUV,Starling
+4621,USUV,Greater Spotted Eagle
+4622,TBE,mouflon
+4623,TBEV,mouflon
+4624,TBEV,mouflon
+4625,louping ill virus,mouflon
+4626,TBEV,mouflon
+4627,TBEV,mouflon
+4628,WNV,reed warbler
+4629,WNV,Acrocephalus melanopogon
+4630,WNV,moustached warbler
+4631,dengue,monkey
+4632,Zika virus,monkey
+4633,DENV,A lituratus
+4634,DENV,G soricina
+4635,Saboya,turkey
+4636,Tembusu virus,monkeys
+4637,Wesselsbron virus,human
+4638,Wesselsbron virus,human
+4639,Murray Valley encephalitis,human
+4640,Murray Valley encephalitis,human
+4641, MVE ,human
+4642, MVE ,human
+4643,Japanese encephalitis,human
+4644,Japanese encephalitis,human
+4645,dengue,human
+4646,dengue,human
+4647,West Nile,human
+4648,West Nile,human
+4649,Koutango,turkey
+4650,FUAS,turkey
+4651,WNV,Starling
+4652,WNV,Magpie
+4653,WN virus,human
+4654,MVE,human
+4655,WNV,human
+4656,TBEV,mouflon
+4657,TBEV,mouflon
+4658,Dengue,human
+4659,Dengue,human
+4660,USUV,common coot
+4661, EDTA ,mouse
+4662,WNV,mouse
+4663,Jutiapa,S hispidus
+4664,Jutiapa,Cow
+4665,Rio Bravo virus,human
+4666,DENV,G soricina
+4667,DENV,S ludovici
+4668,DENV,S bilineata
+4669,DENV,Desmodus rotundus
+4670,DENV,Uroderma bilobatum
+4671,DENV,Artibeus jamaicensis
+4672,DENV,Platyrrhinus helleri
+4673,DENV,A phaeotis
+4674,DENV,A lituratus
+4675,DENV,Glossophaga commissarisi
+4676,DENV,Pteronotus davyi
+4677,DENV,Carollia perspicillata
+4678,DENV,Sturnira lilium
+4679,DENV,Hylonycteris underwoodi
+4680,DENV,C sowelli
+4681,DENV,G soricina
+4682,DENV,S ludovici
+4683,DENV,S bilineata
+4684,DENV,Desmodus rotundus
+4685,DENV,Uroderma bilobatum
+4686,DENV,Artibeus jamaicensis
+4687,DENV,Platyrrhinus helleri
+4688,DENV,A phaeotis
+4689,DENV,A lituratus
+4690,DENV,Glossophaga commissarisi
+4691,DENV,Pteronotus davyi
+4692,DENV,Carollia perspicillata
+4693,DENV,Sturnira lilium
+4694,DENV,Hylonycteris underwoodi
+4695,DENV,C sowelli
+4696,USUV,marsh warbler
+4697,WNV,marsh warbler
+4698,DENV,human
+4699,DENV,Carollia perspicillata
+4700,DENV,human
+4701,DENV,Carollia perspicillata
+4702,DENV,human
+4703,DENV,Carollia perspicillata
+4704,DENV,human
+4705,DENV,Carollia perspicillata
+4706,DENV,human
+4707,DENV,Carollia perspicillata
+4708,DENV,human
+4709,DENV,Carollia perspicillata
+4710,DENV,human
+4711,DENV,Carollia perspicillata
+4712,DENV,human
+4713,DENV,Carollia perspicillata
+4714,dengue,human
+4715,dengue,Carollia perspicillata
+4716,Zika Virus,Monkey
+4717,TBE,human
+4718,TBE,loup
+4719,Rio Bravo virus,monkey
+4720,Entebbe bat,monkey
+4721,SLE,monkey
+4722,West Nile virus,Megascops asio
+4723,FUAS,mice
+4724,WNV,human
+4725,Koutango virus,turkey
+4726,JE virus,Nycticorax nycticorax
+4727,Modoc,turkey
+4728,WNV,human
+4729,SLE virus,turkey
+4730, PFU ,rhesus monkey
+4731, PFU ,green monkey
+4732,Zika virus,human
+4733,Zika virus,monkey
+4734,Zika virus,human
+4735,Zika virus,monkey
+4736,TBE,mouflon
+4737,DENV,human
+4738,den,human
+4739,den,human
+4740,Rio Bravo,turkey
+4741,Bukalasa bat,turkey
+4742,Phnom Penh bat,turkey
+4743,Saboya,turkey
+4744,Jutiapa,turkey
+4745,Apoi,turkey
+4746,Cowbone Ridge,turkey
+4747,Koutango,turkey
+4748,Entebbe bat,turkey
+4749,Carey Island,turkey
+4750,FUAS,mice
+4751,SLE virus,turkey
+4752,Zika virus,monkey
+4753,SLE,pig
+4754,Rio Bravo,pig
+4755, TBEV ,mouflon
+4756,TBEV,mouflon
+4757,TBEV,mouflon
+4758,Koutango,turkey
+4759,DENV,human
+4760,DENV,human
+4761,DENV,monkeys
+4762,DENV,A lituratus
+4763,DENV,A jamaicensis
+4764,DENV,G soricina
+4765,DENV,human
+4766,DENV,human
+4767,DENV,monkeys
+4768,DENV,A lituratus
+4769,DENV,A jamaicensis
+4770,DENV,G soricina
+4771,DENV,human
+4772,DENV,human
+4773,DENV,monkeys
+4774,DENV,A lituratus
+4775,DENV,A jamaicensis
+4776,DENV,G soricina
+4777,WNV,starling
+4778,WNV,blue tit
+4779,Koutango,turkey
+4780,Saboya,turkey
+4781,Entebbe bat,turkey
+4782,MVEV,human
+4783,Dakar bat,Cynopterus brachyotis
+4784,Saboya,Cynopterus brachyotis
+4785,Carey Island,Cynopterus brachyotis
+4786,Phnom Penh bat,Cynopterus brachyotis
+4787,DENV,A lituratus
+4788,DENV,human
+4789,Tembusu virus,human
+4790,Tembusu virus,human
+4791,Zika virus,monkey
+4792,Koutango,turkey
+4793,Koutango,turkey
+4794,TBE,dog
+4795,USUV,Magpie

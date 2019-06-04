@@ -1,0 +1,4664 @@
+id,virus,host,probability_positive
+1,WNV,Rousettus leschenaultii,0.9916422090000001
+2,VRL,Cricetomys gambianus,0.9967150229999999
+3,VRL,giant rat,0.9967150229999999
+4,Usutu virus,Dendrocopos major,0.9778846520000001
+5,Usutu virus,Pyrrhula pyrrhula,0.9778846520000001
+6,Usutu virus,great spotted woodpecker,0.9778846520000001
+7,WNV,human,0.996435718
+8,USUV,human,0.996435718
+9,Tembusu virus,turkey,0.811348455
+10,Bagaza virus,turkey,0.7697305259999999
+11,Tembusu virus,turkey,0.811348455
+12,Tembusu virus,turkey,0.811348455
+13,Ntaya virus,turkey,0.7697305259999999
+14,Bagaza virus,turkey,0.7697305259999999
+15,Ilheus virus,turkey,0.7697305259999999
+16,Dengue,human,0.7697305259999999
+17,Japanese encephalitis,human,0.7697305259999999
+18,DENV,human,0.811348455
+19,JEV,human,0.811348455
+20,Chikungunya,human,0.7697305259999999
+21,West Nile virus,Panthera uncia,0.5
+22,JEV,pig,0.7697305259999999
+23,TBEV,shoveler,0.21137518
+24,TBEV,Vanellus vanellus,0.21137518
+25,TBEV,European pied flycatcher,0.245508239
+26,TBEV,Phylloscopus trochilus,0.5
+27,TBEV,willow tit,0.21137518
+28,TBEV,mallard,0.21137518
+29,TBEV,starling,0.21137518
+30,TBEV,Corvus monedula,0.21137518
+31,TBEV,Phylloscopus proregulus,0.21137518
+32,TBEV,waxwing,0.21137518
+33,TBEV,Ficedula hypoleuca,0.245508239
+34,TBEV,teal,0.21137518
+35,TBEV,Parus montanus,0.21137518
+36,TBEV,Dendrocopos major,0.21137518
+37,TBEV,willow warbler,0.5
+38,TBEV,goldfinch,0.21137518
+39,TBEV,Anas platyrhynchos,0.21137518
+40,TBEV,Sturnus vulgaris,0.21137518
+41,TBEV,Anas crecca,0.21137518
+42,TBEV,coal tit,0.21137518
+43,TBEV,pigeon,0.5
+44,TBEV,Riparia riparia,0.5
+45,TBEV,Carduelis carduelis,0.21137518
+46,TBEV,willow warbler,0.5
+47,TBEV,Phylloscopus collybita,0.5
+48,TBEV,Parus ater,0.21137518
+49,TBEV,Columba livia,0.5
+50,TBEV,Mergus merganser,0.21137518
+51,TBEV,Pyrrhula pyrrhula,0.21137518
+52,Usutu virus,Pyrrhula pyrrhula,0.811348455
+53,Usutu virus,Dendrocopos major,0.7466977290000001
+54,Usutu virus,great spotted woodpecker,0.9166542679999999
+55,Pixuna,Zonotrichia capensis,0.245508239
+56,Pixuna,Coryphistera alaudina,0.7697305259999999
+57,Pixuna,Chloroceryle americana,0.7697305259999999
+58,Pixuna,Pseudoseisura lophotes,0.7697305259999999
+59,Pixuna,Machetornis rixosa,0.7697305259999999
+60,Pixuna,Passer domesticus,0.521006723
+61,Pixuna,Guira guira,0.7697305259999999
+62,Mayaro,Zonotrichia capensis,0.521006723
+63,Mayaro,Coryphistera alaudina,0.7697305259999999
+64,Mayaro,Chloroceryle americana,0.7697305259999999
+65,Mayaro,Pseudoseisura lophotes,0.7697305259999999
+66,Mayaro,Machetornis rixosa,0.7697305259999999
+67,Mayaro,Passer domesticus,0.7697305259999999
+68,Mayaro,Guira guira,0.7697305259999999
+69,Bluetongue,Xerus erythropus,0.21137518
+70,Uganda S,Xerus erythropus,0.811348455
+71,Lebombo,Xerus erythropus,0.21137518
+72,Dakar bat,Xerus erythropus,0.21137518
+73,West Nile,Xerus erythropus,0.811348455
+74,Semliki Forest,Xerus erythropus,0.535475279
+75,TBEV,human,0.92989707
+76,TBE,human,0.911581805
+77,WNV,mouse,0.5
+78,West Nile virus,house sparrow,0.991338518
+79,West Nile virus,Passer domesticus,0.991338518
+80,Powassan virus,Peromyscus leucopus,0.971334661
+81,Powassan virus,mouse,0.971334661
+82,LIV,human,0.7697305259999999
+83,tick  borne encephalitis virus,Clethrionomys glareolus,0.971334661
+84,tick  borne encephalitis virus,Apodemus flavicollis,0.971334661
+85,SINV,redwing,0.7697305259999999
+86,TBEV,M arvalis,0.7697305259999999
+87,KFD virus,human,0.977576962
+88, KFDV ,human,0.991338518
+89,DENV,human,0.92989707
+90,DENV,Marmosa murina,0.9988415759999999
+91,West Nile,human,0.971334661
+92,Una virus,mice,0.5
+93,USUV,human,0.996435718
+94,KFDV,monkeys,0.7697305259999999
+95,Tembusu virus,Chicken,0.971334661
+96,WNV,Elaenia martinica,0.767362572
+97,WNV,Caribbean elaenia,0.767362572
+98,WNV,Elaenia martinica,0.971334661
+99,WNV,Caribbean elaenia,0.971334661
+100,WNV,Ciconia ciconia,0.9116478570000001
+101,WNV,Corvus corone cornix,0.911581805
+102,WNV,mute swan,0.911581805
+103,WNV,Cygnus olor,0.911581805
+104,TBE virus,cattle,0.97136427
+105,JEV,human,0.811348455
+106,BAGV,red  legged partridge,0.963457082
+107,BAGV,common pheasant,0.963457082
+108,West Nile virus,human,0.9778846520000001
+109,USUTU virus,chicken,0.7697305259999999
+110,West Nile,chicken,0.7697305259999999
+111,tick  borne encephalitis,chicken,0.7697305259999999
+112,TBEV,reed warbler,0.978352628
+113,TBEV,reed warbler,0.978352628
+114,Pixuna,M bonariensis,0.7697305259999999
+115,JEV,swine,0.767362572
+116,JEV,swine,0.9102092140000001
+117,Tembusu,drome,0.9116732940000001
+118,Tembusu,duck,0.9116732940000001
+119,BYD,drome,0.9116732940000001
+120,BYD,duck,0.9116732940000001
+121,Powassan virus,monkeys,0.7697305259999999
+122,KFDV,monkeys,0.9916422090000001
+123,DENV,monkey,0.9885914640000001
+124,HIT,mice,0.971150812
+125,HIT,pig,0.992100743
+126,VNT,mice,0.98881111
+127,VNT,pig,0.996976277
+128,CSF,mice,0.992100743
+129,CSF,pig,0.992100743
+130,TBE,cattle,0.7697305259999999
+131,TBE,sheep,0.7697305259999999
+132,WNV,Chaerephon pumilus,0.811348455
+133,WNV,Mops condylurus,0.811348455
+134,WNV,Eidolon helvum,0.535475279
+135,Usutu virus,Pyrrhula pyrrhula,0.7698757970000001
+136,Usutu virus,Dendrocopos major,0.917918825
+137,Usutu virus,great spotted woodpecker,0.9778846520000001
+138,Usutu virus,Pyrrhula pyrrhula,0.9778846520000001
+139,Usutu virus,Dendrocopos major,0.9778846520000001
+140,Usutu virus,great spotted woodpecker,0.917918825
+141,Usutu virus,Pyrrhula pyrrhula,0.9778846520000001
+142,Usutu virus,Dendrocopos major,0.9778846520000001
+143,Usutu virus,great spotted woodpecker,0.733737337
+144,Usutu virus,Pyrrhula pyrrhula,0.733737337
+145,Usutu virus,Dendrocopos major,0.733737337
+146,Usutu virus,great spotted woodpecker,0.9778846520000001
+147,TBEV,M arvalis,0.9035593820000001
+148,TBEV,M arvalis,0.9035593820000001
+149,USUV,common kestrel,0.989716913
+150,WNV,common kestrel,0.9973885570000001
+151,WNV,common kestrel,0.9966426209999999
+152,USUTU,chicken,0.5
+153,USUTU,chicken,0.5
+154,TBEV,chicken,0.9102092140000001
+155,WNV,chicken,0.9102092140000001
+156,TBEV,Microtus arvalis,0.7697305259999999
+157,WNV,osprey,0.811348455
+158,WNV,Pandion haliaetus,0.811348455
+159,SLEV,Mimus polyglottos,0.811348455
+160,SLEV,Northern mockingbird,0.811348455
+161, SLE ,Orcinus orca,0.978352628
+162, SLE ,killer whale,0.978352628
+163, SLE ,killer whale,0.7737268959999999
+164,tick  borne encephalitis virus,human,0.7697305259999999
+165,Tembusu virus,chicken,0.9723201490000001
+166,KFDV,monkey,0.991338518
+167,TBEV,mice,0.8246699590000001
+168,TBEV,mice,0.6417875279999999
+169,TBEV,M musculus,0.918637574
+170,FITC,goat,0.97172553
+171,FITC,Spotted flycatcher,0.7698757970000001
+172,FITC,Saxicola rubetra,0.7698757970000001
+173,FITC,rabbit,0.9914590209999999
+174,FITC,Whinchat,0.7698757970000001
+175,FITC,rabbit,0.97172553
+176,WNV,goat,0.811348455
+177,WNV,Spotted flycatcher,0.7697305259999999
+178,WNV,Saxicola rubetra,0.7697305259999999
+179,WNV,rabbit,0.733737337
+180,WNV,Whinchat,0.7697305259999999
+181,WNV,rabbit,0.922188745
+182,TBEV,sheep,0.21137518
+183,TBEV,sheep,0.21137518
+184,TBEV,goat,0.21137518
+185,TBEV,sheep,0.21137518
+186,TBEV,sheep,0.21137518
+187,TBEV,goat,0.21137518
+188, SSE ,sheep,0.811348455
+189, SSE ,sheep,0.7697305259999999
+190, SSE ,goat,0.811348455
+191, CEEV ,sheep,0.7697305259999999
+192, CEEV ,sheep,0.7697305259999999
+193, CEEV ,goat,0.7697305259999999
+194,CEEV,sheep,0.21137518
+195,CEEV,sheep,0.21137518
+196,CEEV,goat,0.21137518
+197, TSE ,sheep,0.7697305259999999
+198, TSE ,sheep,0.7697305259999999
+199, TSE ,goat,0.811348455
+200,louping ill virus,sheep,0.7697305259999999
+201,louping ill virus,sheep,0.7697305259999999
+202,louping ill virus,goat,0.7697305259999999
+203,TBEV,sheep,0.7697305259999999
+204,TBEV,sheep,0.7697305259999999
+205,TBEV,goat,0.7697305259999999
+206, TBEV ,sheep,0.21137518
+207, TBEV ,sheep,0.21137518
+208, TBEV ,goat,0.21137518
+209,tick  borne encephalitis,sheep,0.21137518
+210,tick  borne encephalitis,sheep,0.21137518
+211,tick  borne encephalitis,goat,0.21137518
+212,JEV,Java Sparrow,0.811348455
+213,JEV,Spotted Dove,0.811348455
+214,JEV,Spotted Dove,0.811348455
+215,SLEV,Java Sparrow,0.811348455
+216,SLEV,Spotted Dove,0.811348455
+217,SLEV,Spotted Dove,0.811348455
+218,DENV,monkey,0.971334661
+219,DENV,Papio papio,0.971334661
+220,DENV,Guinea baboon,0.971334661
+221,DENV,green monkey,0.971334661
+222,DENV,Chlorocebus sabaeus,0.971334661
+223,Tick  borne encephalitis,goat,0.811348455
+224,USUTU virus,Gallus domesticus,0.811348455
+225,USUTU virus,chicken,0.811348455
+226,SINV,carrion crow,0.911581805
+227,SINV,Corvus corone,0.911581805
+228,SINV,magpie,0.911581805
+229,SINV,blackbird,0.911581805
+230,SINV,Pica pica,0.911581805
+231,WNV,Crowned Eagle,0.92989707
+232,TBE,sheep,0.7697305259999999
+233,USUV,chicken,0.811348455
+234,West Nile virus,Buteo lineatus,0.9778846520000001
+235,West Nile virus,Red  shouldered Hawk,0.9778846520000001
+236,WNV,blackbird,0.811348455
+237,KFDV,mice,0.989716913
+238,TBE,monkeys,0.9723201490000001
+239,TBE,monkey,0.919551329
+240,TBE,Macaca sylvanus,0.919551329
+241,TBE,monkey,0.9723201490000001
+242,TBEV,monkeys,0.9916422090000001
+243,TBEV,monkey,0.9723201490000001
+244,TBEV,Macaca sylvanus,0.9723201490000001
+245,TBEV,monkey,0.9723201490000001
+246,TBE,monkeys,0.92374338
+247,TBE,monkey,0.811348455
+248,TBE,Macaca sylvanus,0.811348455
+249,TBE,monkey,0.978352628
+250,BHK,mice,0.92989707
+251,TBEV,mice,0.9927208340000001
+252,Tick  borne encephalitis virus,mice,0.9927208340000001
+253,KFDV,monkeys,0.9905223470000001
+254,KFDV,monkey,0.9905223470000001
+255,Tick  Borne Encephalitis,Apodemus agrarius,0.7379873859999999
+256, TBEV ,Apodemus agrarius,0.811348455
+257,Tick  Borne Encephalitis,Apodemus agrarius,0.7379873859999999
+258,tick  borne encephalitis virus,Apodemus agrarius,0.535475279
+259,YF virus,mice,0.7697305259999999
+260,Semliki Forest virus,hog,0.978352628
+261,TBEV,human,0.992100743
+262,TBEV,human,0.992100743
+263,WNV,chicken,0.780477858
+264,WNV,rabbit,0.780477858
+265,WNV,mouse,0.911581805
+266,WNV,mouse,0.452557473
+267,WNV,chicken,0.911581805
+268,WNV,rabbit,0.452557473
+269,LAN,human,0.9166542679999999
+270,CHIK,human,0.9166542679999999
+271,Tick  borne encephalitis,goat,0.811348455
+272,TBE,human,0.7697305259999999
+273,VEE,white  footed mouse,0.963457082
+274,VEE,Procyon lotor,0.911581805
+275,VEE,rabbit,0.963457082
+276,VEE,white  footed mouse,0.9166542679999999
+277,VEE,Procyon lotor,0.97136427
+278,VEE,rabbit,0.9166542679999999
+279,Usutu virus,human,0.7697305259999999
+280,KFDV,monkey,0.971334661
+281,KFDV,M radiata,0.9916422090000001
+282,KFDV,M radiata,0.9723201490000001
+283,KFDV,monkeys,0.9723201490000001
+284,TBEV,human,0.9916422090000001
+285,TBEV,human,0.8482767240000001
+286,JEV,human,0.811348455
+287,TBE,human,0.7697305259999999
+288,Sapporo,human,0.7697305259999999
+289,duck circovirus,duck,0.7697305259999999
+290,duck circovirus,duck,0.7697305259999999
+291,duck circovirus,Muscovy duck,0.7697305259999999
+292,duck circovirus,goose,0.811348455
+293,duck circovirus,goose,0.7697305259999999
+294,duck circovirus,duck,0.7697305259999999
+295,duck circovirus,goose,0.7697305259999999
+296,duck circovirus,duck,0.7697305259999999
+297,TMUV,duck,0.9116732940000001
+298,SINV,human,0.971334661
+299,SLE,human,0.5
+300,FSME,goat,0.811348455
+301,tick  borne encephalitis,goat,0.811348455
+302,West Nile virus,red  legged partridge,0.9916422090000001
+303, SPF ,chicken,0.978352628
+304,TBE,human,0.7697305259999999
+305,tick  borne encephalitis virus,cow,0.811348455
+306,LIV,human,0.7697305259999999
+307,TBEV,human,0.7697305259999999
+308,ASFV,human,0.7697305259999999
+309,WNV,Eptesicus fuscus,0.92989707
+310,WNV,northern myotis,0.780477858
+311,WNV,Myotis lucifugus,0.92989707
+312,WNV,little brown myotis,0.92989707
+313,WNV,Myotis septentrionalis,0.780477858
+314,West Nile,Agelaius phoeniceus,0.811348455
+315,Japanese encephalitis,Agelaius phoeniceus,0.811348455
+316,USUV,blackbird,0.9885914640000001
+317,ZIKV,human,0.811348455
+318,ZIKV,human,0.811348455
+319,TBEV,pig,0.9916422090000001
+320,TBEV,reed warbler,0.9916422090000001
+321,TBEV,fieldfare,0.9916422090000001
+322,TBEV,Acrocephalus dumetorum,0.9916422090000001
+323,Japanese encephalitis virus,swine,0.92989707
+324,DENV,Carollia perspicillata,0.9988415759999999
+325,TBE virus,dog,0.911581805
+326,tick  borne encephalitis,monkeys,0.811348455
+327,TBE,human,0.7697305259999999
+328,SLEV,human,0.811348455
+329,TMUV,duck,0.7697305259999999
+330,Cherry,duck,0.7697305259999999
+331,Uganda S virus,mice,0.811348455
+332,VRL,mice,0.7697305259999999
+333,JEV,human,0.971334661
+334,TBEV,human,0.989716913
+335,RKI,human,0.7697305259999999
+336,USUV,Chicken,0.5
+337,USUV,Chicken,0.5
+338,USUV,Chicken,0.21137518
+339,USUV,Chicken,0.21137518
+340,USUV,Chicken,0.21137518
+341,USUV,Chicken,0.21137518
+342,USUV,Chicken,0.21137518
+343,USUV,Chicken,0.21137518
+344,USUV,Chicken,0.21137518
+345,USUV,Chicken,0.21137518
+346,USUV,Chicken,0.21137518
+347,USUV,Chicken,0.21137518
+348,USUV,Chicken,0.21137518
+349,USUV,Chicken,0.21137518
+350,USUV,Chicken,0.21137518
+351,USUV,Chicken,0.21137518
+352,USUV,Chicken,0.21137518
+353,USUV,Chicken,0.21137518
+354,USUV,Chicken,0.21137518
+355,USUV,Chicken,0.21137518
+356,TBEV,Chicken,0.245508239
+357,TBEV,Chicken,0.245508239
+358,TBEV,Chicken,0.245508239
+359,TBEV,Chicken,0.245508239
+360,TBEV,Chicken,0.245508239
+361,TBEV,Chicken,0.245508239
+362,TBEV,Chicken,0.245508239
+363,TBEV,Chicken,0.245508239
+364,TBEV,Chicken,0.245508239
+365,TBEV,Chicken,0.245508239
+366,TBEV,Chicken,0.245508239
+367,TBEV,Chicken,0.245508239
+368,TBEV,Chicken,0.245508239
+369,TBEV,Chicken,0.245508239
+370,TBEV,Chicken,0.245508239
+371,TBEV,Chicken,0.245508239
+372,TBEV,Chicken,0.245508239
+373,TBEV,Chicken,0.245508239
+374,TBEV,Chicken,0.245508239
+375,TBEV,Chicken,0.245508239
+376,USUTU virus,Chicken,0.245508239
+377,USUTU virus,Chicken,0.245508239
+378,USUTU virus,Chicken,0.245508239
+379,USUTU virus,Chicken,0.245508239
+380,USUTU virus,Chicken,0.245508239
+381,USUTU virus,Chicken,0.245508239
+382,USUTU virus,Chicken,0.245508239
+383,USUTU virus,Chicken,0.245508239
+384,USUTU virus,Chicken,0.245508239
+385,USUTU virus,Chicken,0.245508239
+386,USUTU virus,Chicken,0.245508239
+387,USUTU virus,Chicken,0.245508239
+388,USUTU virus,Chicken,0.245508239
+389,USUTU virus,Chicken,0.245508239
+390,USUTU virus,Chicken,0.245508239
+391,USUTU virus,Chicken,0.245508239
+392,USUTU virus,Chicken,0.245508239
+393,USUTU virus,Chicken,0.245508239
+394,USUTU virus,Chicken,0.245508239
+395,USUTU virus,Chicken,0.245508239
+396,USUV,Chicken,0.5
+397,USUV,Chicken,0.5
+398,USUV,Chicken,0.21137518
+399,USUV,Chicken,0.5
+400,USUV,Chicken,0.21137518
+401,USUV,Chicken,0.21137518
+402,USUV,Chicken,0.21137518
+403,USUV,Chicken,0.21137518
+404,USUV,Chicken,0.21137518
+405,USUV,Chicken,0.21137518
+406,USUV,Chicken,0.21137518
+407,USUV,Chicken,0.21137518
+408,USUV,Chicken,0.21137518
+409,USUV,Chicken,0.21137518
+410,USUV,Chicken,0.21137518
+411,USUV,Chicken,0.21137518
+412,USUV,Chicken,0.21137518
+413,USUV,Chicken,0.21137518
+414,USUV,Chicken,0.21137518
+415,USUV,Chicken,0.21137518
+416,TBEV,Chicken,0.5
+417,TBEV,Chicken,0.21137518
+418,TBEV,Chicken,0.21137518
+419,TBEV,Chicken,0.21137518
+420,TBEV,Chicken,0.21137518
+421,TBEV,Chicken,0.21137518
+422,TBEV,Chicken,0.21137518
+423,TBEV,Chicken,0.21137518
+424,TBEV,Chicken,0.21137518
+425,TBEV,Chicken,0.21137518
+426,TBEV,Chicken,0.21137518
+427,TBEV,Chicken,0.21137518
+428,TBEV,Chicken,0.21137518
+429,TBEV,Chicken,0.21137518
+430,TBEV,Chicken,0.21137518
+431,TBEV,Chicken,0.21137518
+432,TBEV,Chicken,0.21137518
+433,TBEV,Chicken,0.21137518
+434,TBEV,Chicken,0.21137518
+435,TBEV,Chicken,0.21137518
+436,TBEV,Chicken,0.5
+437,TBEV,Chicken,0.5
+438,TBEV,Chicken,0.21137518
+439,TBEV,Chicken,0.21137518
+440,TBEV,Chicken,0.21137518
+441,TBEV,Chicken,0.21137518
+442,TBEV,Chicken,0.21137518
+443,TBEV,Chicken,0.21137518
+444,TBEV,Chicken,0.21137518
+445,TBEV,Chicken,0.21137518
+446,TBEV,Chicken,0.21137518
+447,TBEV,Chicken,0.21137518
+448,TBEV,Chicken,0.21137518
+449,TBEV,Chicken,0.21137518
+450,TBEV,Chicken,0.21137518
+451,TBEV,Chicken,0.21137518
+452,TBEV,Chicken,0.21137518
+453,TBEV,Chicken,0.21137518
+454,TBEV,Chicken,0.21137518
+455,TBEV,Chicken,0.21137518
+456,tick  borne encephalitis virus,Chicken,0.245508239
+457,tick  borne encephalitis virus,Chicken,0.245508239
+458,tick  borne encephalitis virus,Chicken,0.245508239
+459,tick  borne encephalitis virus,Chicken,0.245508239
+460,tick  borne encephalitis virus,Chicken,0.245508239
+461,tick  borne encephalitis virus,Chicken,0.245508239
+462,tick  borne encephalitis virus,Chicken,0.245508239
+463,tick  borne encephalitis virus,Chicken,0.245508239
+464,tick  borne encephalitis virus,Chicken,0.245508239
+465,tick  borne encephalitis virus,Chicken,0.245508239
+466,tick  borne encephalitis virus,Chicken,0.245508239
+467,tick  borne encephalitis virus,Chicken,0.245508239
+468,tick  borne encephalitis virus,Chicken,0.245508239
+469,tick  borne encephalitis virus,Chicken,0.245508239
+470,tick  borne encephalitis virus,Chicken,0.245508239
+471,tick  borne encephalitis virus,Chicken,0.245508239
+472,tick  borne encephalitis virus,Chicken,0.245508239
+473,tick  borne encephalitis virus,Chicken,0.245508239
+474,tick  borne encephalitis virus,Chicken,0.245508239
+475,tick  borne encephalitis virus,Chicken,0.245508239
+476,WNV,Chicken,0.5
+477,WNV,Chicken,0.21137518
+478,WNV,Chicken,0.21137518
+479,WNV,Chicken,0.21137518
+480,WNV,Chicken,0.21137518
+481,WNV,Chicken,0.21137518
+482,WNV,Chicken,0.21137518
+483,WNV,Chicken,0.21137518
+484,WNV,Chicken,0.21137518
+485,WNV,Chicken,0.21137518
+486,WNV,Chicken,0.21137518
+487,WNV,Chicken,0.21137518
+488,WNV,Chicken,0.21137518
+489,WNV,Chicken,0.21137518
+490,WNV,Chicken,0.21137518
+491,WNV,Chicken,0.21137518
+492,WNV,Chicken,0.21137518
+493,WNV,Chicken,0.21137518
+494,WNV,Chicken,0.21137518
+495,WNV,Chicken,0.21137518
+496,TBEV,Chicken,0.5
+497,TBEV,Chicken,0.5
+498,TBEV,Chicken,0.21137518
+499,TBEV,Chicken,0.5
+500,TBEV,Chicken,0.21137518
+501,TBEV,Chicken,0.21137518
+502,TBEV,Chicken,0.21137518
+503,TBEV,Chicken,0.21137518
+504,TBEV,Chicken,0.21137518
+505,TBEV,Chicken,0.21137518
+506,TBEV,Chicken,0.21137518
+507,TBEV,Chicken,0.21137518
+508,TBEV,Chicken,0.21137518
+509,TBEV,Chicken,0.21137518
+510,TBEV,Chicken,0.21137518
+511,TBEV,Chicken,0.21137518
+512,TBEV,Chicken,0.21137518
+513,TBEV,Chicken,0.21137518
+514,TBEV,Chicken,0.21137518
+515,TBEV,Chicken,0.21137518
+516,WNV,Chicken,0.5
+517,WNV,Chicken,0.5
+518,WNV,Chicken,0.21137518
+519,WNV,Chicken,0.21137518
+520,WNV,Chicken,0.21137518
+521,WNV,Chicken,0.21137518
+522,WNV,Chicken,0.21137518
+523,WNV,Chicken,0.21137518
+524,WNV,Chicken,0.21137518
+525,WNV,Chicken,0.21137518
+526,WNV,Chicken,0.21137518
+527,WNV,Chicken,0.21137518
+528,WNV,Chicken,0.21137518
+529,WNV,Chicken,0.21137518
+530,WNV,Chicken,0.21137518
+531,WNV,Chicken,0.21137518
+532,WNV,Chicken,0.21137518
+533,WNV,Chicken,0.21137518
+534,WNV,Chicken,0.21137518
+535,WNV,Chicken,0.21137518
+536,USUV,Chicken,0.5
+537,USUV,Chicken,0.21137518
+538,USUV,Chicken,0.21137518
+539,USUV,Chicken,0.21137518
+540,USUV,Chicken,0.21137518
+541,USUV,Chicken,0.21137518
+542,USUV,Chicken,0.21137518
+543,USUV,Chicken,0.21137518
+544,USUV,Chicken,0.21137518
+545,USUV,Chicken,0.21137518
+546,USUV,Chicken,0.21137518
+547,USUV,Chicken,0.21137518
+548,USUV,Chicken,0.21137518
+549,USUV,Chicken,0.21137518
+550,USUV,Chicken,0.21137518
+551,USUV,Chicken,0.21137518
+552,USUV,Chicken,0.21137518
+553,USUV,Chicken,0.21137518
+554,USUV,Chicken,0.21137518
+555,USUV,Chicken,0.21137518
+556,WNV,Chicken,0.5
+557,WNV,Chicken,0.5
+558,WNV,Chicken,0.21137518
+559,WNV,Chicken,0.5
+560,WNV,Chicken,0.21137518
+561,WNV,Chicken,0.21137518
+562,WNV,Chicken,0.21137518
+563,WNV,Chicken,0.21137518
+564,WNV,Chicken,0.21137518
+565,WNV,Chicken,0.21137518
+566,WNV,Chicken,0.21137518
+567,WNV,Chicken,0.21137518
+568,WNV,Chicken,0.21137518
+569,WNV,Chicken,0.21137518
+570,WNV,Chicken,0.21137518
+571,WNV,Chicken,0.21137518
+572,WNV,Chicken,0.21137518
+573,WNV,Chicken,0.21137518
+574,WNV,Chicken,0.21137518
+575,WNV,Chicken,0.21137518
+576,USUV,Chicken,0.5
+577,USUV,Chicken,0.5
+578,USUV,Chicken,0.21137518
+579,USUV,Chicken,0.21137518
+580,USUV,Chicken,0.21137518
+581,USUV,Chicken,0.21137518
+582,USUV,Chicken,0.21137518
+583,USUV,Chicken,0.21137518
+584,USUV,Chicken,0.21137518
+585,USUV,Chicken,0.21137518
+586,USUV,Chicken,0.21137518
+587,USUV,Chicken,0.21137518
+588,USUV,Chicken,0.21137518
+589,USUV,Chicken,0.21137518
+590,USUV,Chicken,0.21137518
+591,USUV,Chicken,0.21137518
+592,USUV,Chicken,0.21137518
+593,USUV,Chicken,0.21137518
+594,USUV,Chicken,0.21137518
+595,USUV,Chicken,0.21137518
+596,WNV,Chicken,0.245508239
+597,WNV,Chicken,0.245508239
+598,WNV,Chicken,0.245508239
+599,WNV,Chicken,0.245508239
+600,WNV,Chicken,0.245508239
+601,WNV,Chicken,0.245508239
+602,WNV,Chicken,0.245508239
+603,WNV,Chicken,0.245508239
+604,WNV,Chicken,0.245508239
+605,WNV,Chicken,0.245508239
+606,WNV,Chicken,0.245508239
+607,WNV,Chicken,0.245508239
+608,WNV,Chicken,0.245508239
+609,WNV,Chicken,0.245508239
+610,WNV,Chicken,0.245508239
+611,WNV,Chicken,0.245508239
+612,WNV,Chicken,0.245508239
+613,WNV,Chicken,0.245508239
+614,WNV,Chicken,0.245508239
+615,WNV,Chicken,0.245508239
+616,USUV,Chicken,0.5
+617,USUV,Chicken,0.5
+618,USUV,Chicken,0.21137518
+619,USUV,Chicken,0.5
+620,USUV,Chicken,0.21137518
+621,USUV,Chicken,0.21137518
+622,USUV,Chicken,0.21137518
+623,USUV,Chicken,0.21137518
+624,USUV,Chicken,0.21137518
+625,USUV,Chicken,0.21137518
+626,USUV,Chicken,0.21137518
+627,USUV,Chicken,0.21137518
+628,USUV,Chicken,0.21137518
+629,USUV,Chicken,0.21137518
+630,USUV,Chicken,0.21137518
+631,USUV,Chicken,0.21137518
+632,USUV,Chicken,0.21137518
+633,USUV,Chicken,0.21137518
+634,USUV,Chicken,0.21137518
+635,USUV,Chicken,0.21137518
+636,TBEV,Chicken,0.5
+637,TBEV,Chicken,0.21137518
+638,TBEV,Chicken,0.21137518
+639,TBEV,Chicken,0.21137518
+640,TBEV,Chicken,0.21137518
+641,TBEV,Chicken,0.21137518
+642,TBEV,Chicken,0.21137518
+643,TBEV,Chicken,0.21137518
+644,TBEV,Chicken,0.21137518
+645,TBEV,Chicken,0.21137518
+646,TBEV,Chicken,0.21137518
+647,TBEV,Chicken,0.21137518
+648,TBEV,Chicken,0.21137518
+649,TBEV,Chicken,0.21137518
+650,TBEV,Chicken,0.21137518
+651,TBEV,Chicken,0.21137518
+652,TBEV,Chicken,0.21137518
+653,TBEV,Chicken,0.21137518
+654,TBEV,Chicken,0.21137518
+655,TBEV,Chicken,0.21137518
+656,West Nile virus,Chicken,0.245508239
+657,West Nile virus,Chicken,0.245508239
+658,West Nile virus,Chicken,0.245508239
+659,West Nile virus,Chicken,0.245508239
+660,West Nile virus,Chicken,0.245508239
+661,West Nile virus,Chicken,0.245508239
+662,West Nile virus,Chicken,0.245508239
+663,West Nile virus,Chicken,0.245508239
+664,West Nile virus,Chicken,0.245508239
+665,West Nile virus,Chicken,0.245508239
+666,West Nile virus,Chicken,0.245508239
+667,West Nile virus,Chicken,0.245508239
+668,West Nile virus,Chicken,0.245508239
+669,West Nile virus,Chicken,0.245508239
+670,West Nile virus,Chicken,0.245508239
+671,West Nile virus,Chicken,0.245508239
+672,West Nile virus,Chicken,0.245508239
+673,West Nile virus,Chicken,0.245508239
+674,West Nile virus,Chicken,0.245508239
+675,West Nile virus,Chicken,0.245508239
+676,TBEV,Chicken,0.5
+677,TBEV,Chicken,0.5
+678,TBEV,Chicken,0.21137518
+679,TBEV,Chicken,0.21137518
+680,TBEV,Chicken,0.21137518
+681,TBEV,Chicken,0.21137518
+682,TBEV,Chicken,0.21137518
+683,TBEV,Chicken,0.21137518
+684,TBEV,Chicken,0.21137518
+685,TBEV,Chicken,0.21137518
+686,TBEV,Chicken,0.21137518
+687,TBEV,Chicken,0.21137518
+688,TBEV,Chicken,0.21137518
+689,TBEV,Chicken,0.21137518
+690,TBEV,Chicken,0.21137518
+691,TBEV,Chicken,0.21137518
+692,TBEV,Chicken,0.21137518
+693,TBEV,Chicken,0.21137518
+694,TBEV,Chicken,0.21137518
+695,TBEV,Chicken,0.21137518
+696,WNV,Chicken,0.5
+697,WNV,Chicken,0.5
+698,WNV,Chicken,0.21137518
+699,WNV,Chicken,0.21137518
+700,WNV,Chicken,0.21137518
+701,WNV,Chicken,0.21137518
+702,WNV,Chicken,0.21137518
+703,WNV,Chicken,0.21137518
+704,WNV,Chicken,0.21137518
+705,WNV,Chicken,0.21137518
+706,WNV,Chicken,0.21137518
+707,WNV,Chicken,0.21137518
+708,WNV,Chicken,0.21137518
+709,WNV,Chicken,0.21137518
+710,WNV,Chicken,0.21137518
+711,WNV,Chicken,0.21137518
+712,WNV,Chicken,0.21137518
+713,WNV,Chicken,0.21137518
+714,WNV,Chicken,0.21137518
+715,WNV,Chicken,0.21137518
+716,USUV,Chicken,0.245508239
+717,USUV,Chicken,0.245508239
+718,USUV,Chicken,0.245508239
+719,USUV,Chicken,0.245508239
+720,USUV,Chicken,0.245508239
+721,USUV,Chicken,0.245508239
+722,USUV,Chicken,0.245508239
+723,USUV,Chicken,0.245508239
+724,USUV,Chicken,0.245508239
+725,USUV,Chicken,0.245508239
+726,USUV,Chicken,0.245508239
+727,USUV,Chicken,0.245508239
+728,USUV,Chicken,0.245508239
+729,USUV,Chicken,0.245508239
+730,USUV,Chicken,0.245508239
+731,USUV,Chicken,0.245508239
+732,USUV,Chicken,0.245508239
+733,USUV,Chicken,0.245508239
+734,USUV,Chicken,0.245508239
+735,USUV,Chicken,0.245508239
+736,WNV,Chicken,0.5
+737,WNV,Chicken,0.5
+738,WNV,Chicken,0.21137518
+739,WNV,Chicken,0.21137518
+740,WNV,Chicken,0.21137518
+741,WNV,Chicken,0.21137518
+742,WNV,Chicken,0.21137518
+743,WNV,Chicken,0.21137518
+744,WNV,Chicken,0.21137518
+745,WNV,Chicken,0.21137518
+746,WNV,Chicken,0.21137518
+747,WNV,Chicken,0.21137518
+748,WNV,Chicken,0.21137518
+749,WNV,Chicken,0.21137518
+750,WNV,Chicken,0.21137518
+751,WNV,Chicken,0.21137518
+752,WNV,Chicken,0.21137518
+753,WNV,Chicken,0.21137518
+754,WNV,Chicken,0.21137518
+755,WNV,Chicken,0.21137518
+756,WNV,Black  faced grassquit,0.21137518
+757,WNV,Northern mockingbird,0.21137518
+758,WNV,Common ground  dove,0.21137518
+759,WNV,Jamaican elaenia,0.5
+760,WNV,White  eyed thrush,0.21137518
+761,WNV,Jamaican vireo,0.21137518
+762,WNV,Jamaican elaenia,0.21137518
+763,WNV,Bananaquit,0.5
+764,WNV,Jamaican oriole,0.21137518
+765,WNV,Bananaquit,0.21137518
+766,WNV,White  chinned thrush,0.5
+767,WNV,White  chinned thrush,0.21137518
+768,WNV,Black  faced grassquit,0.21137518
+769,WNV,White  chinned thrush,0.21137518
+770,WNV,White  chinned thrush,0.5
+771,WNV,Caribbean dove,0.21137518
+772,WNV,Bananaquit,0.21137518
+773,WNV,Greater Antillean grackle,0.21137518
+774,WNV,Loggerhead kingbird,0.21137518
+775,WNV,Orangequit,0.21137518
+776,WNV,Golden warbler,0.21137518
+777,WNV,Bananaquit,0.5
+778,WNV,Loggerhead kingbird,0.5
+779,WNV,Jamaican elaenia,0.21137518
+780,WNV,Caribbean dove,0.21137518
+781,WNV,Dendroica petechia,0.21137518
+782,WNV,Caribbean dove,0.21137518
+783,SLEV,Black  faced grassquit,0.21137518
+784,SLEV,Northern mockingbird,0.21137518
+785,SLEV,Common ground  dove,0.21137518
+786,SLEV,Jamaican elaenia,0.5
+787,SLEV,White  eyed thrush,0.21137518
+788,SLEV,Jamaican vireo,0.21137518
+789,SLEV,Jamaican elaenia,0.21137518
+790,SLEV,Bananaquit,0.5
+791,SLEV,Jamaican oriole,0.21137518
+792,SLEV,Bananaquit,0.21137518
+793,SLEV,White  chinned thrush,0.5
+794,SLEV,White  chinned thrush,0.21137518
+795,SLEV,Black  faced grassquit,0.21137518
+796,SLEV,White  chinned thrush,0.21137518
+797,SLEV,White  chinned thrush,0.5
+798,SLEV,Caribbean dove,0.21137518
+799,SLEV,Bananaquit,0.21137518
+800,SLEV,Greater Antillean grackle,0.21137518
+801,SLEV,Loggerhead kingbird,0.21137518
+802,SLEV,Orangequit,0.21137518
+803,SLEV,Golden warbler,0.21137518
+804,SLEV,Bananaquit,0.21137518
+805,SLEV,Loggerhead kingbird,0.21137518
+806,SLEV,Jamaican elaenia,0.21137518
+807,SLEV,Caribbean dove,0.21137518
+808,SLEV,Dendroica petechia,0.21137518
+809,SLEV,Caribbean dove,0.21137518
+810,WNV,Black  faced grassquit,0.245508239
+811,WNV,Northern mockingbird,0.245508239
+812,WNV,Common ground  dove,0.245508239
+813,WNV,Jamaican elaenia,0.245508239
+814,WNV,White  eyed thrush,0.5
+815,WNV,Jamaican vireo,0.245508239
+816,WNV,Jamaican elaenia,0.245508239
+817,WNV,Bananaquit,0.245508239
+818,WNV,Jamaican oriole,0.5
+819,WNV,Bananaquit,0.245508239
+820,WNV,White  chinned thrush,0.245508239
+821,WNV,White  chinned thrush,0.245508239
+822,WNV,Black  faced grassquit,0.5
+823,WNV,White  chinned thrush,0.245508239
+824,WNV,White  chinned thrush,0.245508239
+825,WNV,Caribbean dove,0.5
+826,WNV,Bananaquit,0.245508239
+827,WNV,Greater Antillean grackle,0.5
+828,WNV,Loggerhead kingbird,0.21137518
+829,WNV,Orangequit,0.5
+830,WNV,Golden warbler,0.21137518
+831,WNV,Bananaquit,0.245508239
+832,WNV,Loggerhead kingbird,0.245508239
+833,WNV,Jamaican elaenia,0.245508239
+834,WNV,Caribbean dove,0.245508239
+835,WNV,Dendroica petechia,0.21137518
+836,WNV,Caribbean dove,0.245508239
+837,WNV,Black  faced grassquit,0.21137518
+838,WNV,Northern mockingbird,0.21137518
+839,WNV,Common ground  dove,0.21137518
+840,WNV,Jamaican elaenia,0.5
+841,WNV,White  eyed thrush,0.21137518
+842,WNV,Jamaican vireo,0.21137518
+843,WNV,Jamaican elaenia,0.21137518
+844,WNV,Bananaquit,0.5
+845,WNV,Jamaican oriole,0.21137518
+846,WNV,Bananaquit,0.21137518
+847,WNV,White  chinned thrush,0.5
+848,WNV,White  chinned thrush,0.21137518
+849,WNV,Black  faced grassquit,0.21137518
+850,WNV,White  chinned thrush,0.21137518
+851,WNV,White  chinned thrush,0.5
+852,WNV,Caribbean dove,0.21137518
+853,WNV,Bananaquit,0.21137518
+854,WNV,Greater Antillean grackle,0.21137518
+855,WNV,Loggerhead kingbird,0.21137518
+856,WNV,Orangequit,0.21137518
+857,WNV,Golden warbler,0.21137518
+858,WNV,Bananaquit,0.21137518
+859,WNV,Loggerhead kingbird,0.21137518
+860,WNV,Jamaican elaenia,0.21137518
+861,WNV,Caribbean dove,0.21137518
+862,WNV,Dendroica petechia,0.21137518
+863,WNV,Caribbean dove,0.21137518
+864,WNV,Black  faced grassquit,0.5
+865,WNV,Northern mockingbird,0.245508239
+866,WNV,Common ground  dove,0.5
+867,WNV,Jamaican elaenia,0.245508239
+868,WNV,White  eyed thrush,0.21137518
+869,WNV,Jamaican vireo,0.21137518
+870,WNV,Jamaican elaenia,0.5
+871,WNV,Bananaquit,0.245508239
+872,WNV,Jamaican oriole,0.21137518
+873,WNV,Bananaquit,0.245508239
+874,WNV,White  chinned thrush,0.245508239
+875,WNV,White  chinned thrush,0.5
+876,WNV,Black  faced grassquit,0.21137518
+877,WNV,White  chinned thrush,0.245508239
+878,WNV,White  chinned thrush,0.245508239
+879,WNV,Caribbean dove,0.21137518
+880,WNV,Bananaquit,0.5
+881,WNV,Greater Antillean grackle,0.21137518
+882,WNV,Loggerhead kingbird,0.21137518
+883,WNV,Orangequit,0.21137518
+884,WNV,Golden warbler,0.21137518
+885,WNV,Bananaquit,0.245508239
+886,WNV,Loggerhead kingbird,0.245508239
+887,WNV,Jamaican elaenia,0.5
+888,WNV,Caribbean dove,0.5
+889,WNV,Dendroica petechia,0.21137518
+890,WNV,Caribbean dove,0.5
+891,WNV,Black  faced grassquit,0.245508239
+892,WNV,Northern mockingbird,0.245508239
+893,WNV,Common ground  dove,0.245508239
+894,WNV,Jamaican elaenia,0.245508239
+895,WNV,White  eyed thrush,0.5
+896,WNV,Jamaican vireo,0.5
+897,WNV,Jamaican elaenia,0.245508239
+898,WNV,Bananaquit,0.245508239
+899,WNV,Jamaican oriole,0.5
+900,WNV,Bananaquit,0.245508239
+901,WNV,White  chinned thrush,0.245508239
+902,WNV,White  chinned thrush,0.245508239
+903,WNV,Black  faced grassquit,0.5
+904,WNV,White  chinned thrush,0.245508239
+905,WNV,White  chinned thrush,0.245508239
+906,WNV,Caribbean dove,0.5
+907,WNV,Bananaquit,0.245508239
+908,WNV,Greater Antillean grackle,0.21137518
+909,WNV,Loggerhead kingbird,0.21137518
+910,WNV,Orangequit,0.5
+911,WNV,Golden warbler,0.21137518
+912,WNV,Bananaquit,0.245508239
+913,WNV,Loggerhead kingbird,0.245508239
+914,WNV,Jamaican elaenia,0.245508239
+915,WNV,Caribbean dove,0.245508239
+916,WNV,Dendroica petechia,0.21137518
+917,WNV,Caribbean dove,0.245508239
+918,WNV,Black  faced grassquit,0.21137518
+919,WNV,Northern mockingbird,0.21137518
+920,WNV,Common ground  dove,0.21137518
+921,WNV,Jamaican elaenia,0.5
+922,WNV,White  eyed thrush,0.21137518
+923,WNV,Jamaican vireo,0.21137518
+924,WNV,Jamaican elaenia,0.21137518
+925,WNV,Bananaquit,0.5
+926,WNV,Jamaican oriole,0.21137518
+927,WNV,Bananaquit,0.21137518
+928,WNV,White  chinned thrush,0.5
+929,WNV,White  chinned thrush,0.21137518
+930,WNV,Black  faced grassquit,0.21137518
+931,WNV,White  chinned thrush,0.21137518
+932,WNV,White  chinned thrush,0.5
+933,WNV,Caribbean dove,0.21137518
+934,WNV,Bananaquit,0.21137518
+935,WNV,Greater Antillean grackle,0.21137518
+936,WNV,Loggerhead kingbird,0.21137518
+937,WNV,Orangequit,0.21137518
+938,WNV,Golden warbler,0.21137518
+939,WNV,Bananaquit,0.21137518
+940,WNV,Loggerhead kingbird,0.5
+941,WNV,Jamaican elaenia,0.21137518
+942,WNV,Caribbean dove,0.21137518
+943,WNV,Dendroica petechia,0.21137518
+944,WNV,Caribbean dove,0.21137518
+945,WNV,Black  faced grassquit,0.21137518
+946,WNV,Northern mockingbird,0.5
+947,WNV,Common ground  dove,0.21137518
+948,WNV,Jamaican elaenia,0.245508239
+949,WNV,White  eyed thrush,0.21137518
+950,WNV,Jamaican vireo,0.21137518
+951,WNV,Jamaican elaenia,0.21137518
+952,WNV,Bananaquit,0.245508239
+953,WNV,Jamaican oriole,0.21137518
+954,WNV,Bananaquit,0.5
+955,WNV,White  chinned thrush,0.245508239
+956,WNV,White  chinned thrush,0.21137518
+957,WNV,Black  faced grassquit,0.21137518
+958,WNV,White  chinned thrush,0.5
+959,WNV,White  chinned thrush,0.245508239
+960,WNV,Caribbean dove,0.21137518
+961,WNV,Bananaquit,0.21137518
+962,WNV,Greater Antillean grackle,0.21137518
+963,WNV,Loggerhead kingbird,0.21137518
+964,WNV,Orangequit,0.21137518
+965,WNV,Golden warbler,0.21137518
+966,WNV,Bananaquit,0.5
+967,WNV,Loggerhead kingbird,0.5
+968,WNV,Jamaican elaenia,0.5
+969,WNV,Caribbean dove,0.5
+970,WNV,Dendroica petechia,0.21137518
+971,WNV,Caribbean dove,0.21137518
+972,WNV,Black  faced grassquit,0.5
+973,WNV,Northern mockingbird,0.245508239
+974,WNV,Common ground  dove,0.245508239
+975,WNV,Jamaican elaenia,0.245508239
+976,WNV,White  eyed thrush,0.5
+977,WNV,Jamaican vireo,0.5
+978,WNV,Jamaican elaenia,0.245508239
+979,WNV,Bananaquit,0.245508239
+980,WNV,Jamaican oriole,0.5
+981,WNV,Bananaquit,0.245508239
+982,WNV,White  chinned thrush,0.245508239
+983,WNV,White  chinned thrush,0.245508239
+984,WNV,Black  faced grassquit,0.5
+985,WNV,White  chinned thrush,0.245508239
+986,WNV,White  chinned thrush,0.245508239
+987,WNV,Caribbean dove,0.5
+988,WNV,Bananaquit,0.245508239
+989,WNV,Greater Antillean grackle,0.21137518
+990,WNV,Loggerhead kingbird,0.21137518
+991,WNV,Orangequit,0.21137518
+992,WNV,Golden warbler,0.21137518
+993,WNV,Bananaquit,0.245508239
+994,WNV,Loggerhead kingbird,0.245508239
+995,WNV,Jamaican elaenia,0.245508239
+996,WNV,Caribbean dove,0.245508239
+997,WNV,Dendroica petechia,0.21137518
+998,WNV,Caribbean dove,0.245508239
+999,WNV,Black  faced grassquit,0.21137518
+1000,WNV,Northern mockingbird,0.5
+1001,WNV,Common ground  dove,0.21137518
+1002,WNV,Jamaican elaenia,0.5
+1003,WNV,White  eyed thrush,0.21137518
+1004,WNV,Jamaican vireo,0.21137518
+1005,WNV,Jamaican elaenia,0.21137518
+1006,WNV,Bananaquit,0.5
+1007,WNV,Jamaican oriole,0.21137518
+1008,WNV,Bananaquit,0.5
+1009,WNV,White  chinned thrush,0.245508239
+1010,WNV,White  chinned thrush,0.21137518
+1011,WNV,Black  faced grassquit,0.21137518
+1012,WNV,White  chinned thrush,0.5
+1013,WNV,White  chinned thrush,0.245508239
+1014,WNV,Caribbean dove,0.21137518
+1015,WNV,Bananaquit,0.21137518
+1016,WNV,Greater Antillean grackle,0.21137518
+1017,WNV,Loggerhead kingbird,0.21137518
+1018,WNV,Orangequit,0.21137518
+1019,WNV,Golden warbler,0.21137518
+1020,WNV,Bananaquit,0.5
+1021,WNV,Loggerhead kingbird,0.5
+1022,WNV,Jamaican elaenia,0.21137518
+1023,WNV,Caribbean dove,0.5
+1024,WNV,Dendroica petechia,0.21137518
+1025,WNV,Caribbean dove,0.21137518
+1026,WNV,Black  faced grassquit,0.21137518
+1027,WNV,Northern mockingbird,0.5
+1028,WNV,Common ground  dove,0.5
+1029,WNV,Jamaican elaenia,0.245508239
+1030,WNV,White  eyed thrush,0.21137518
+1031,WNV,Jamaican vireo,0.21137518
+1032,WNV,Jamaican elaenia,0.5
+1033,WNV,Bananaquit,0.245508239
+1034,WNV,Jamaican oriole,0.21137518
+1035,WNV,Bananaquit,0.5
+1036,WNV,White  chinned thrush,0.245508239
+1037,WNV,White  chinned thrush,0.5
+1038,WNV,Black  faced grassquit,0.21137518
+1039,WNV,White  chinned thrush,0.245508239
+1040,WNV,White  chinned thrush,0.245508239
+1041,WNV,Caribbean dove,0.21137518
+1042,WNV,Bananaquit,0.5
+1043,WNV,Greater Antillean grackle,0.21137518
+1044,WNV,Loggerhead kingbird,0.21137518
+1045,WNV,Orangequit,0.21137518
+1046,WNV,Golden warbler,0.21137518
+1047,WNV,Bananaquit,0.245508239
+1048,WNV,Loggerhead kingbird,0.245508239
+1049,WNV,Jamaican elaenia,0.5
+1050,WNV,Caribbean dove,0.5
+1051,WNV,Dendroica petechia,0.21137518
+1052,WNV,Caribbean dove,0.21137518
+1053,WNV,Black  faced grassquit,0.21137518
+1054,WNV,Northern mockingbird,0.5
+1055,WNV,Common ground  dove,0.21137518
+1056,WNV,Jamaican elaenia,0.5
+1057,WNV,White  eyed thrush,0.21137518
+1058,WNV,Jamaican vireo,0.21137518
+1059,WNV,Jamaican elaenia,0.21137518
+1060,WNV,Bananaquit,0.5
+1061,WNV,Jamaican oriole,0.21137518
+1062,WNV,Bananaquit,0.5
+1063,WNV,White  chinned thrush,0.5
+1064,WNV,White  chinned thrush,0.21137518
+1065,WNV,Black  faced grassquit,0.21137518
+1066,WNV,White  chinned thrush,0.5
+1067,WNV,White  chinned thrush,0.245508239
+1068,WNV,Caribbean dove,0.21137518
+1069,WNV,Bananaquit,0.21137518
+1070,WNV,Greater Antillean grackle,0.21137518
+1071,WNV,Loggerhead kingbird,0.21137518
+1072,WNV,Orangequit,0.21137518
+1073,WNV,Golden warbler,0.21137518
+1074,WNV,Bananaquit,0.5
+1075,WNV,Loggerhead kingbird,0.5
+1076,WNV,Jamaican elaenia,0.21137518
+1077,WNV,Caribbean dove,0.21137518
+1078,WNV,Dendroica petechia,0.21137518
+1079,WNV,Caribbean dove,0.21137518
+1080,WNV,Black  faced grassquit,0.5
+1081,WNV,Northern mockingbird,0.245508239
+1082,WNV,Common ground  dove,0.5
+1083,WNV,Jamaican elaenia,0.245508239
+1084,WNV,White  eyed thrush,0.21137518
+1085,WNV,Jamaican vireo,0.5
+1086,WNV,Jamaican elaenia,0.245508239
+1087,WNV,Bananaquit,0.245508239
+1088,WNV,Jamaican oriole,0.21137518
+1089,WNV,Bananaquit,0.245508239
+1090,WNV,White  chinned thrush,0.245508239
+1091,WNV,White  chinned thrush,0.245508239
+1092,WNV,Black  faced grassquit,0.5
+1093,WNV,White  chinned thrush,0.245508239
+1094,WNV,White  chinned thrush,0.245508239
+1095,WNV,Caribbean dove,0.5
+1096,WNV,Bananaquit,0.245508239
+1097,WNV,Greater Antillean grackle,0.21137518
+1098,WNV,Loggerhead kingbird,0.21137518
+1099,WNV,Orangequit,0.21137518
+1100,WNV,Golden warbler,0.21137518
+1101,WNV,Bananaquit,0.245508239
+1102,WNV,Loggerhead kingbird,0.245508239
+1103,WNV,Jamaican elaenia,0.245508239
+1104,WNV,Caribbean dove,0.245508239
+1105,WNV,Dendroica petechia,0.21137518
+1106,WNV,Caribbean dove,0.5
+1107,SLEV,Black  faced grassquit,0.21137518
+1108,SLEV,Northern mockingbird,0.5
+1109,SLEV,Common ground  dove,0.21137518
+1110,SLEV,Jamaican elaenia,0.245508239
+1111,SLEV,White  eyed thrush,0.21137518
+1112,SLEV,Jamaican vireo,0.21137518
+1113,SLEV,Jamaican elaenia,0.5
+1114,SLEV,Bananaquit,0.245508239
+1115,SLEV,Jamaican oriole,0.21137518
+1116,SLEV,Bananaquit,0.5
+1117,SLEV,White  chinned thrush,0.245508239
+1118,SLEV,White  chinned thrush,0.5
+1119,SLEV,Black  faced grassquit,0.21137518
+1120,SLEV,White  chinned thrush,0.5
+1121,SLEV,White  chinned thrush,0.245508239
+1122,SLEV,Caribbean dove,0.21137518
+1123,SLEV,Bananaquit,0.5
+1124,SLEV,Greater Antillean grackle,0.21137518
+1125,SLEV,Loggerhead kingbird,0.21137518
+1126,SLEV,Orangequit,0.21137518
+1127,SLEV,Golden warbler,0.21137518
+1128,SLEV,Bananaquit,0.245508239
+1129,SLEV,Loggerhead kingbird,0.245508239
+1130,SLEV,Jamaican elaenia,0.5
+1131,SLEV,Caribbean dove,0.5
+1132,SLEV,Dendroica petechia,0.21137518
+1133,SLEV,Caribbean dove,0.21137518
+1134,West Nile virus,Black  faced grassquit,0.21137518
+1135,West Nile virus,Northern mockingbird,0.21137518
+1136,West Nile virus,Common ground  dove,0.21137518
+1137,West Nile virus,Jamaican elaenia,0.21137518
+1138,West Nile virus,White  eyed thrush,0.21137518
+1139,West Nile virus,Jamaican vireo,0.21137518
+1140,West Nile virus,Jamaican elaenia,0.21137518
+1141,West Nile virus,Bananaquit,0.21137518
+1142,West Nile virus,Jamaican oriole,0.21137518
+1143,West Nile virus,Bananaquit,0.21137518
+1144,West Nile virus,White  chinned thrush,0.21137518
+1145,West Nile virus,White  chinned thrush,0.21137518
+1146,West Nile virus,Black  faced grassquit,0.21137518
+1147,West Nile virus,White  chinned thrush,0.21137518
+1148,West Nile virus,White  chinned thrush,0.5
+1149,West Nile virus,Caribbean dove,0.21137518
+1150,West Nile virus,Bananaquit,0.21137518
+1151,West Nile virus,Greater Antillean grackle,0.21137518
+1152,West Nile virus,Loggerhead kingbird,0.21137518
+1153,West Nile virus,Orangequit,0.21137518
+1154,West Nile virus,Golden warbler,0.21137518
+1155,West Nile virus,Bananaquit,0.21137518
+1156,West Nile virus,Loggerhead kingbird,0.21137518
+1157,West Nile virus,Jamaican elaenia,0.21137518
+1158,West Nile virus,Caribbean dove,0.21137518
+1159,West Nile virus,Dendroica petechia,0.21137518
+1160,West Nile virus,Caribbean dove,0.21137518
+1161,WNV,Black  faced grassquit,0.21137518
+1162,WNV,Northern mockingbird,0.5
+1163,WNV,Common ground  dove,0.21137518
+1164,WNV,Jamaican elaenia,0.245508239
+1165,WNV,White  eyed thrush,0.21137518
+1166,WNV,Jamaican vireo,0.21137518
+1167,WNV,Jamaican elaenia,0.21137518
+1168,WNV,Bananaquit,0.245508239
+1169,WNV,Jamaican oriole,0.21137518
+1170,WNV,Bananaquit,0.5
+1171,WNV,White  chinned thrush,0.245508239
+1172,WNV,White  chinned thrush,0.5
+1173,WNV,Black  faced grassquit,0.21137518
+1174,WNV,White  chinned thrush,0.5
+1175,WNV,White  chinned thrush,0.245508239
+1176,WNV,Caribbean dove,0.21137518
+1177,WNV,Bananaquit,0.5
+1178,WNV,Greater Antillean grackle,0.21137518
+1179,WNV,Loggerhead kingbird,0.21137518
+1180,WNV,Orangequit,0.21137518
+1181,WNV,Golden warbler,0.21137518
+1182,WNV,Bananaquit,0.5
+1183,WNV,Loggerhead kingbird,0.245508239
+1184,WNV,Jamaican elaenia,0.5
+1185,WNV,Caribbean dove,0.5
+1186,WNV,Dendroica petechia,0.21137518
+1187,WNV,Caribbean dove,0.21137518
+1188,WNV,Black  faced grassquit,0.21137518
+1189,WNV,Northern mockingbird,0.21137518
+1190,WNV,Common ground  dove,0.21137518
+1191,WNV,Jamaican elaenia,0.5
+1192,WNV,White  eyed thrush,0.21137518
+1193,WNV,Jamaican vireo,0.21137518
+1194,WNV,Jamaican elaenia,0.21137518
+1195,WNV,Bananaquit,0.5
+1196,WNV,Jamaican oriole,0.21137518
+1197,WNV,Bananaquit,0.21137518
+1198,WNV,White  chinned thrush,0.5
+1199,WNV,White  chinned thrush,0.21137518
+1200,WNV,Black  faced grassquit,0.21137518
+1201,WNV,White  chinned thrush,0.5
+1202,WNV,White  chinned thrush,0.5
+1203,WNV,Caribbean dove,0.21137518
+1204,WNV,Bananaquit,0.21137518
+1205,WNV,Greater Antillean grackle,0.21137518
+1206,WNV,Loggerhead kingbird,0.21137518
+1207,WNV,Orangequit,0.21137518
+1208,WNV,Golden warbler,0.21137518
+1209,WNV,Bananaquit,0.5
+1210,WNV,Loggerhead kingbird,0.5
+1211,WNV,Jamaican elaenia,0.21137518
+1212,WNV,Caribbean dove,0.21137518
+1213,WNV,Dendroica petechia,0.21137518
+1214,WNV,Caribbean dove,0.21137518
+1215,WNV,Black  faced grassquit,0.5
+1216,WNV,Northern mockingbird,0.245508239
+1217,WNV,Common ground  dove,0.5
+1218,WNV,Jamaican elaenia,0.245508239
+1219,WNV,White  eyed thrush,0.21137518
+1220,WNV,Jamaican vireo,0.5
+1221,WNV,Jamaican elaenia,0.5
+1222,WNV,Bananaquit,0.245508239
+1223,WNV,Jamaican oriole,0.21137518
+1224,WNV,Bananaquit,0.245508239
+1225,WNV,White  chinned thrush,0.245508239
+1226,WNV,White  chinned thrush,0.5
+1227,WNV,Black  faced grassquit,0.21137518
+1228,WNV,White  chinned thrush,0.245508239
+1229,WNV,White  chinned thrush,0.245508239
+1230,WNV,Caribbean dove,0.21137518
+1231,WNV,Bananaquit,0.5
+1232,WNV,Greater Antillean grackle,0.21137518
+1233,WNV,Loggerhead kingbird,0.21137518
+1234,WNV,Orangequit,0.21137518
+1235,WNV,Golden warbler,0.21137518
+1236,WNV,Bananaquit,0.245508239
+1237,WNV,Loggerhead kingbird,0.245508239
+1238,WNV,Jamaican elaenia,0.245508239
+1239,WNV,Caribbean dove,0.245508239
+1240,WNV,Dendroica petechia,0.21137518
+1241,WNV,Caribbean dove,0.5
+1242,WNV,Black  faced grassquit,0.21137518
+1243,WNV,Northern mockingbird,0.5
+1244,WNV,Common ground  dove,0.21137518
+1245,WNV,Jamaican elaenia,0.245508239
+1246,WNV,White  eyed thrush,0.21137518
+1247,WNV,Jamaican vireo,0.21137518
+1248,WNV,Jamaican elaenia,0.21137518
+1249,WNV,Bananaquit,0.245508239
+1250,WNV,Jamaican oriole,0.21137518
+1251,WNV,Bananaquit,0.5
+1252,WNV,White  chinned thrush,0.245508239
+1253,WNV,White  chinned thrush,0.21137518
+1254,WNV,Black  faced grassquit,0.21137518
+1255,WNV,White  chinned thrush,0.5
+1256,WNV,White  chinned thrush,0.245508239
+1257,WNV,Caribbean dove,0.21137518
+1258,WNV,Bananaquit,0.5
+1259,WNV,Greater Antillean grackle,0.21137518
+1260,WNV,Loggerhead kingbird,0.21137518
+1261,WNV,Orangequit,0.21137518
+1262,WNV,Golden warbler,0.21137518
+1263,WNV,Bananaquit,0.5
+1264,WNV,Loggerhead kingbird,0.5
+1265,WNV,Jamaican elaenia,0.5
+1266,WNV,Caribbean dove,0.5
+1267,WNV,Dendroica petechia,0.21137518
+1268,WNV,Caribbean dove,0.21137518
+1269,WNV,Black  faced grassquit,0.5
+1270,WNV,Northern mockingbird,0.245508239
+1271,WNV,Common ground  dove,0.245508239
+1272,WNV,Jamaican elaenia,0.245508239
+1273,WNV,White  eyed thrush,0.21137518
+1274,WNV,Jamaican vireo,0.5
+1275,WNV,Jamaican elaenia,0.245508239
+1276,WNV,Bananaquit,0.245508239
+1277,WNV,Jamaican oriole,0.5
+1278,WNV,Bananaquit,0.245508239
+1279,WNV,White  chinned thrush,0.245508239
+1280,WNV,White  chinned thrush,0.245508239
+1281,WNV,Black  faced grassquit,0.5
+1282,WNV,White  chinned thrush,0.245508239
+1283,WNV,White  chinned thrush,0.245508239
+1284,WNV,Caribbean dove,0.5
+1285,WNV,Bananaquit,0.245508239
+1286,WNV,Greater Antillean grackle,0.21137518
+1287,WNV,Loggerhead kingbird,0.21137518
+1288,WNV,Orangequit,0.21137518
+1289,WNV,Golden warbler,0.21137518
+1290,WNV,Bananaquit,0.245508239
+1291,WNV,Loggerhead kingbird,0.245508239
+1292,WNV,Jamaican elaenia,0.245508239
+1293,WNV,Caribbean dove,0.245508239
+1294,WNV,Dendroica petechia,0.21137518
+1295,WNV,Caribbean dove,0.5
+1296,SLEV,Black  faced grassquit,0.5
+1297,SLEV,Northern mockingbird,0.245508239
+1298,SLEV,Common ground  dove,0.5
+1299,SLEV,Jamaican elaenia,0.245508239
+1300,SLEV,White  eyed thrush,0.21137518
+1301,SLEV,Jamaican vireo,0.21137518
+1302,SLEV,Jamaican elaenia,0.5
+1303,SLEV,Bananaquit,0.245508239
+1304,SLEV,Jamaican oriole,0.21137518
+1305,SLEV,Bananaquit,0.245508239
+1306,SLEV,White  chinned thrush,0.245508239
+1307,SLEV,White  chinned thrush,0.5
+1308,SLEV,Black  faced grassquit,0.21137518
+1309,SLEV,White  chinned thrush,0.245508239
+1310,SLEV,White  chinned thrush,0.245508239
+1311,SLEV,Caribbean dove,0.21137518
+1312,SLEV,Bananaquit,0.5
+1313,SLEV,Greater Antillean grackle,0.21137518
+1314,SLEV,Loggerhead kingbird,0.21137518
+1315,SLEV,Orangequit,0.21137518
+1316,SLEV,Golden warbler,0.21137518
+1317,SLEV,Bananaquit,0.245508239
+1318,SLEV,Loggerhead kingbird,0.245508239
+1319,SLEV,Jamaican elaenia,0.5
+1320,SLEV,Caribbean dove,0.245508239
+1321,SLEV,Dendroica petechia,0.21137518
+1322,SLEV,Caribbean dove,0.5
+1323,WNV,Black  faced grassquit,0.245508239
+1324,WNV,Northern mockingbird,0.245508239
+1325,WNV,Common ground  dove,0.245508239
+1326,WNV,Jamaican elaenia,0.245508239
+1327,WNV,White  eyed thrush,0.5
+1328,WNV,Jamaican vireo,0.245508239
+1329,WNV,Jamaican elaenia,0.245508239
+1330,WNV,Bananaquit,0.245508239
+1331,WNV,Jamaican oriole,0.5
+1332,WNV,Bananaquit,0.245508239
+1333,WNV,White  chinned thrush,0.245508239
+1334,WNV,White  chinned thrush,0.245508239
+1335,WNV,Black  faced grassquit,0.5
+1336,WNV,White  chinned thrush,0.245508239
+1337,WNV,White  chinned thrush,0.245508239
+1338,WNV,Caribbean dove,0.245508239
+1339,WNV,Bananaquit,0.245508239
+1340,WNV,Greater Antillean grackle,0.5
+1341,WNV,Loggerhead kingbird,0.5
+1342,WNV,Orangequit,0.5
+1343,WNV,Golden warbler,0.21137518
+1344,WNV,Bananaquit,0.245508239
+1345,WNV,Loggerhead kingbird,0.245508239
+1346,WNV,Jamaican elaenia,0.245508239
+1347,WNV,Caribbean dove,0.245508239
+1348,WNV,Dendroica petechia,0.21137518
+1349,WNV,Caribbean dove,0.245508239
+1350,ILHV,Black  faced grassquit,0.21137518
+1351,ILHV,Northern mockingbird,0.21137518
+1352,ILHV,Common ground  dove,0.21137518
+1353,ILHV,Jamaican elaenia,0.5
+1354,ILHV,White  eyed thrush,0.21137518
+1355,ILHV,Jamaican vireo,0.21137518
+1356,ILHV,Jamaican elaenia,0.21137518
+1357,ILHV,Bananaquit,0.5
+1358,ILHV,Jamaican oriole,0.21137518
+1359,ILHV,Bananaquit,0.21137518
+1360,ILHV,White  chinned thrush,0.5
+1361,ILHV,White  chinned thrush,0.21137518
+1362,ILHV,Black  faced grassquit,0.21137518
+1363,ILHV,White  chinned thrush,0.21137518
+1364,ILHV,White  chinned thrush,0.5
+1365,ILHV,Caribbean dove,0.21137518
+1366,ILHV,Bananaquit,0.21137518
+1367,ILHV,Greater Antillean grackle,0.21137518
+1368,ILHV,Loggerhead kingbird,0.21137518
+1369,ILHV,Orangequit,0.21137518
+1370,ILHV,Golden warbler,0.21137518
+1371,ILHV,Bananaquit,0.21137518
+1372,ILHV,Loggerhead kingbird,0.21137518
+1373,ILHV,Jamaican elaenia,0.21137518
+1374,ILHV,Caribbean dove,0.21137518
+1375,ILHV,Dendroica petechia,0.21137518
+1376,ILHV,Caribbean dove,0.21137518
+1377,WRC,Common tern,0.21137518
+1378,WRC,White stork,0.5
+1379,WRC,White stork,0.5
+1380,WRC,Mute swan,0.5
+1381,WRC,Black  headed gull,0.21137518
+1382,WRC,Mute swan,0.5
+1383,WRC,Common tern,0.5
+1384,WRC,White stork,0.5
+1385,WRC,White stork,0.5
+1386,WRC,Black  headed gull,0.21137518
+1387,WRC,White stork,0.5
+1388,USUV,Common tern,0.21137518
+1389,USUV,White stork,0.21137518
+1390,USUV,White stork,0.5
+1391,USUV,Mute swan,0.21137518
+1392,USUV,Black  headed gull,0.21137518
+1393,USUV,Mute swan,0.21137518
+1394,USUV,Common tern,0.21137518
+1395,USUV,White stork,0.5
+1396,USUV,White stork,0.5
+1397,USUV,Black  headed gull,0.21137518
+1398,USUV,White stork,0.5
+1399,WRC,Common tern,0.5
+1400,WRC,White stork,0.5
+1401,WRC,White stork,0.245508239
+1402,WRC,Mute swan,0.5
+1403,WRC,Black  headed gull,0.21137518
+1404,WRC,Mute swan,0.5
+1405,WRC,Common tern,0.5
+1406,WRC,White stork,0.5
+1407,WRC,White stork,0.5
+1408,WRC,Black  headed gull,0.21137518
+1409,WRC,White stork,0.5
+1410,WNV,Common tern,0.21137518
+1411,WNV,White stork,0.21137518
+1412,WNV,White stork,0.5
+1413,WNV,Mute swan,0.21137518
+1414,WNV,Black  headed gull,0.21137518
+1415,WNV,Mute swan,0.21137518
+1416,WNV,Common tern,0.21137518
+1417,WNV,White stork,0.5
+1418,WNV,White stork,0.5
+1419,WNV,Black  headed gull,0.21137518
+1420,WNV,White stork,0.5
+1421,USUTU,Common tern,0.21137518
+1422,USUTU,White stork,0.21137518
+1423,USUTU,White stork,0.5
+1424,USUTU,Mute swan,0.21137518
+1425,USUTU,Black  headed gull,0.21137518
+1426,USUTU,Mute swan,0.21137518
+1427,USUTU,Common tern,0.21137518
+1428,USUTU,White stork,0.5
+1429,USUTU,White stork,0.5
+1430,USUTU,Black  headed gull,0.21137518
+1431,USUTU,White stork,0.21137518
+1432,WRC,Common tern,0.21137518
+1433,WRC,White stork,0.5
+1434,WRC,White stork,0.5
+1435,WRC,Mute swan,0.5
+1436,WRC,Black  headed gull,0.21137518
+1437,WRC,Mute swan,0.21137518
+1438,WRC,Common tern,0.21137518
+1439,WRC,White stork,0.5
+1440,WRC,White stork,0.5
+1441,WRC,Black  headed gull,0.21137518
+1442,WRC,White stork,0.5
+1443,WRC,Common tern,0.21137518
+1444,WRC,White stork,0.5
+1445,WRC,White stork,0.5
+1446,WRC,Mute swan,0.5
+1447,WRC,Black  headed gull,0.21137518
+1448,WRC,Mute swan,0.5
+1449,WRC,Common tern,0.21137518
+1450,WRC,White stork,0.5
+1451,WRC,White stork,0.5
+1452,WRC,Black  headed gull,0.21137518
+1453,WRC,White stork,0.5
+1454,WEST NILE,Common tern,0.21137518
+1455,WEST NILE,White stork,0.21137518
+1456,WEST NILE,White stork,0.5
+1457,WEST NILE,Mute swan,0.21137518
+1458,WEST NILE,Black  headed gull,0.21137518
+1459,WEST NILE,Mute swan,0.21137518
+1460,WEST NILE,Common tern,0.21137518
+1461,WEST NILE,White stork,0.5
+1462,WEST NILE,White stork,0.5
+1463,WEST NILE,Black  headed gull,0.21137518
+1464,WEST NILE,White stork,0.21137518
+1465,TBEV,M arvalis,0.99869619
+1466,West Nile,human,0.9916422090000001
+1467,West Nile virus,human,0.978352628
+1468,WNV,Rufous Hornero,0.811348455
+1469,USUV,human,0.811348455
+1470,WRC,Jackdaw,0.7697305259999999
+1471,WRC,Black  headed gull,0.245508239
+1472,WRC,Rook,0.7697305259999999
+1473,WRC,Black  headed gull,0.521006723
+1474,WRC,Black  headed gull,0.245508239
+1475,WRC,Jackdaw,0.7697305259999999
+1476,WRC,Black  headed gull,0.245508239
+1477,WRC,Rook,0.7697305259999999
+1478,WRC,Black  headed gull,0.521006723
+1479,WRC,Black  headed gull,0.245508239
+1480,WRC,Jackdaw,0.811348455
+1481,WRC,Black  headed gull,0.521006723
+1482,WRC,Rook,0.811348455
+1483,WRC,Black  headed gull,0.7697305259999999
+1484,WRC,Black  headed gull,0.7697305259999999
+1485,WRC,Jackdaw,0.811348455
+1486,WRC,Black  headed gull,0.7697305259999999
+1487,WRC,Rook,0.811348455
+1488,WRC,Black  headed gull,0.7697305259999999
+1489,WRC,Black  headed gull,0.7697305259999999
+1490,WRC,Jackdaw,0.7697305259999999
+1491,WRC,Black  headed gull,0.245508239
+1492,WRC,Rook,0.811348455
+1493,WRC,Black  headed gull,0.7697305259999999
+1494,WRC,Black  headed gull,0.521006723
+1495,TBEV,Apodemus agrarius,0.9166542679999999
+1496,TBEV,Apodemus agrarius,0.9166542679999999
+1497,EEE,cattle,0.911581805
+1498,TBEV,human,0.7697305259999999
+1499,Zika,rhesus monkey,0.9723201490000001
+1500,Zika virus,rhesus monkey,0.9916422090000001
+1501,MVE,human,0.978352628
+1502,KUN,human,0.978352628
+1503,SLE virus,human,0.9916422090000001
+1504,Ntaya virus,turkey,0.92989707
+1505,Bagaza virus,turkey,0.911581805
+1506,Tembusu virus,turkey,0.92989707
+1507,Ilheus virus,turkey,0.911581805
+1508,DENV,Proechimys cuvieri,0.911581805
+1509,DENV,Proechimys cuvieri,0.911581805
+1510,KFD,monkeys,0.811348455
+1511,KFD,Semnopithecus entellus,0.535475279
+1512,KFD,monkey,0.21137518
+1513,KFD,Macaca radiata,0.21137518
+1514,WEEV,horse,0.9916422090000001
+1515,WNV,horse,0.97172553
+1516,WNV,human,0.97172553
+1517,SLEV,human,0.811348455
+1518,SLEV,human,0.7697305259999999
+1519,SLEV,human,0.7697305259999999
+1520,USUV,blackbird,0.97136427
+1521,USUV,magpie,0.97136427
+1522,West Nile,human,0.7697305259999999
+1523,DENV,human,0.535475279
+1524,WNV,Magpie,0.7697305259999999
+1525,WNV,Duck,0.21137518
+1526,WNV,Chicken,0.811348455
+1527,WNV,Turkey,0.21137518
+1528,WNV,Green woodpecker,0.7697305259999999
+1529,WNV,Magpie,0.245508239
+1530,WNV,Duck,0.7697305259999999
+1531,WNV,Chicken,0.245508239
+1532,WNV,Turkey,0.811348455
+1533,WNV,Green woodpecker,0.245508239
+1534,WNV,Magpie,0.7697305259999999
+1535,WNV,Duck,0.21137518
+1536,WNV,Chicken,0.811348455
+1537,WNV,Turkey,0.21137518
+1538,WNV,Green woodpecker,0.7697305259999999
+1539,WNV,Magpie,0.245508239
+1540,WNV,Duck,0.7697305259999999
+1541,WNV,Chicken,0.521006723
+1542,WNV,Turkey,0.811348455
+1543,WNV,Green woodpecker,0.245508239
+1544,WNV,Magpie,0.245508239
+1545,WNV,Duck,0.7697305259999999
+1546,WNV,Chicken,0.245508239
+1547,WNV,Turkey,0.7697305259999999
+1548,WNV,Green woodpecker,0.245508239
+1549,WNV,Magpie,0.811348455
+1550,WNV,Duck,0.21137518
+1551,WNV,Chicken,0.21137518
+1552,WNV,Turkey,0.21137518
+1553,WNV,Green woodpecker,0.811348455
+1554,WNV,Magpie,0.245508239
+1555,WNV,Duck,0.521006723
+1556,WNV,Chicken,0.245508239
+1557,WNV,Turkey,0.7697305259999999
+1558,WNV,Green woodpecker,0.245508239
+1559,WNV,Magpie,0.7697305259999999
+1560,WNV,Duck,0.21137518
+1561,WNV,Chicken,0.21137518
+1562,WNV,Turkey,0.21137518
+1563,WNV,Green woodpecker,0.811348455
+1564,WNV,Magpie,0.245508239
+1565,WNV,Duck,0.811348455
+1566,WNV,Chicken,0.7697305259999999
+1567,WNV,Turkey,0.21137518
+1568,WNV,Green woodpecker,0.7697305259999999
+1569,WNV,Magpie,0.245508239
+1570,WNV,Duck,0.7697305259999999
+1571,WNV,Chicken,0.245508239
+1572,WNV,Turkey,0.7697305259999999
+1573,WNV,Green woodpecker,0.245508239
+1574,WNV,Magpie,0.7697305259999999
+1575,WNV,Duck,0.21137518
+1576,WNV,Chicken,0.811348455
+1577,WNV,Turkey,0.21137518
+1578,WNV,Green woodpecker,0.811348455
+1579,WNV,Magpie,0.245508239
+1580,WNV,Duck,0.811348455
+1581,WNV,Chicken,0.7697305259999999
+1582,WNV,Turkey,0.811348455
+1583,WNV,Green woodpecker,0.245508239
+1584,WNV,Magpie,0.245508239
+1585,WNV,Duck,0.7697305259999999
+1586,WNV,Chicken,0.7697305259999999
+1587,WNV,Turkey,0.811348455
+1588,WNV,Green woodpecker,0.245508239
+1589,WNV,Magpie,0.245508239
+1590,WNV,Duck,0.811348455
+1591,WNV,Chicken,0.7697305259999999
+1592,WNV,Turkey,0.21137518
+1593,WNV,Green woodpecker,0.7697305259999999
+1594,WNV,Magpie,0.521006723
+1595,WNV,Duck,0.535475279
+1596,WNV,Chicken,0.811348455
+1597,WNV,Turkey,0.21137518
+1598,WNV,Green woodpecker,0.7697305259999999
+1599,WNV,Magpie,0.811348455
+1600,WNV,Duck,0.21137518
+1601,WNV,Chicken,0.21137518
+1602,WNV,Turkey,0.21137518
+1603,WNV,Green woodpecker,0.535475279
+1604,WNV,Magpie,0.7697305259999999
+1605,WNV,Duck,0.21137518
+1606,WNV,Chicken,0.535475279
+1607,WNV,Turkey,0.21137518
+1608,WNV,Green woodpecker,0.811348455
+1609,WNV,Magpie,0.245508239
+1610,WNV,Duck,0.811348455
+1611,WNV,Chicken,0.7697305259999999
+1612,WNV,Turkey,0.535475279
+1613,WNV,Green woodpecker,0.521006723
+1614, BAGV ,Alectoris rufa,0.7697305259999999
+1615,Bagaza virus,Alectoris rufa,0.7697305259999999
+1616,BAGV,Alectoris rufa,0.7697305259999999
+1617,WNV,human,0.811348455
+1618,USUV,human,0.811348455
+1619,IFA,Blue tit,0.452557473
+1620,IFA,Red  backed shrike,0.452557473
+1621,IFA,Tawny owl,0.452557473
+1622,IFA,Marsh harrier,0.21137518
+1623,IFA,Marsh tit,0.452557473
+1624,IFA,Sand martin,0.452557473
+1625,IFA,Great spotted woodpecker,0.452557473
+1626,IFA,White stork,0.535475279
+1627,IFA,Pandion haliaetus,0.21137518
+1628,IFA,Anser fabalis,0.811348455
+1629,IFA,Milvus migrans,0.452557473
+1630,IFA,Peregrine falcon,0.452557473
+1631,IFA,Crested tit,0.452557473
+1632,IFA,House martin,0.452557473
+1633,IFA,magpie,0.452557473
+1634,IFA,Carrion crow,0.452557473
+1635,IFA,Aegithalos caudatus,0.452557473
+1636,IFA,Pink  footed goose,0.811348455
+1637,IFA,Strix aluco,0.452557473
+1638,IFA,Pica pica,0.452557473
+1639,IFA,Parus caeruleus,0.452557473
+1640,IFA,Parus palustris,0.452557473
+1641,IFA,Common buzzard,0.452557473
+1642,IFA,Otus scops,0.452557473
+1643,IFA,European sparrowhawk,0.21137518
+1644,IFA,Riparia riparia,0.452557473
+1645,IFA,Ciconia ciconia,0.535475279
+1646,IFA,Circus aeruginosus,0.21137518
+1647,IFA,Lanius collurio,0.452557473
+1648,IFA,Parus cristatus,0.452557473
+1649,IFA,Delichon urbicum,0.452557473
+1650,IFA,Falco peregrinus,0.452557473
+1651,IFA,Tyto alba,0.452557473
+1652,IFA,Wood warbler,0.452557473
+1653,IFA,Mute swan,0.811348455
+1654,IFA,Corvus corone,0.452557473
+1655,IFA,Phylloscopus trochilus,0.452557473
+1656,IFA,Dendrocopos major,0.452557473
+1657,IFA,Jay,0.452557473
+1658,IFA,Green woodpecker,0.452557473
+1659,IFA,White  fronted goose,0.811348455
+1660,IFA,Buteo buteo,0.452557473
+1661,IFA,Honey buzzard,0.21137518
+1662,IFA,Anser brachyrhynchus,0.811348455
+1663,IFA,Grasshopper warbler,0.452557473
+1664,IFA,Cuckoo,0.452557473
+1665,IFA,Cygnus olor,0.811348455
+1666,IFA,Willow warbler,0.452557473
+1667,IFA,Willow tit,0.452557473
+1668,IFA,Accipiter nisus,0.21137518
+1669,IFA,Great tit,0.452557473
+1670,IFA,Rook,0.452557473
+1671,IFA,Coal tit,0.452557473
+1672,IFA,Garrulus glandarius,0.452557473
+1673,IFA,Little owl,0.452557473
+1674,IFA,Raven,0.452557473
+1675,IFA,Swallow,0.452557473
+1676,IFA,Goshawk,0.21137518
+1677,IFA,Phylloscopus sibilatrix,0.452557473
+1678,IFA,Picus viridis,0.452557473
+1679,IFA,Long  tailed tit,0.452557473
+1680,IFA,Kingfisher,0.452557473
+1681,IFA,Cuculus canorus,0.452557473
+1682,IFA,Common kestrel,0.452557473
+1683,IFA,Pernis apivorus,0.21137518
+1684,IFA,Parus major,0.452557473
+1685,IFA,Parus ater,0.452557473
+1686,IFA,Anser albifrons,0.811348455
+1687,IFA,Asio otus,0.452557473
+1688,IFA,Corvus frugilegus,0.452557473
+1689,IFA,Corvus corax,0.452557473
+1690,IFA,Parus montanus,0.452557473
+1691,IFA,Hirundo rustica,0.452557473
+1692,IFA,Athene noctua,0.452557473
+1693,IFA,Locustella naevia,0.452557473
+1694,IFA,Accipiter gentilis,0.21137518
+1695,IFA,Haliaeetus albicilla,0.452557473
+1696,IFA,Osprey,0.21137518
+1697,IFA,Alcedo atthis,0.452557473
+1698,IFA,Bean goose,0.811348455
+1699,IFA,Black kite,0.452557473
+1700,IFA,Falco tinnunculus,0.452557473
+1701,IFA,Phylloscopus collybita,0.452557473
+1702,West Nile,human,0.7697305259999999
+1703,Sindbis,human,0.7697305259999999
+1704,TBEV,sheep,0.971334661
+1705,WNV,Rufous Hornero,0.7697305259999999
+1706,USUV,green monkey,0.811348455
+1707,WNV,green monkey,0.811348455
+1708, CPE ,green monkey,0.811348455
+1709,Zika virus,monkeys,0.811348455
+1710,Zika virus,human,0.811348455
+1711,Omsk hemorrhagic fever,sheep,0.7697305259999999
+1712,Omsk hemorrhagic fever,sheep,0.7697305259999999
+1713,Kyasanur Forest disease,sheep,0.7697305259999999
+1714,Kyasanur Forest disease,sheep,0.7697305259999999
+1715,TBE,sheep,0.92989707
+1716,TBE,sheep,0.780477858
+1717,tick  borne encephalitis,sheep,0.7697305259999999
+1718,tick  borne encephalitis,sheep,0.7697305259999999
+1719,Langat,sheep,0.7697305259999999
+1720,Langat,sheep,0.7697305259999999
+1721,Louping ill,sheep,0.92989707
+1722,Louping ill,sheep,0.92989707
+1723,Powassan,sheep,0.7697305259999999
+1724,Powassan,sheep,0.7697305259999999
+1725,tick  borne encephalitis,sheep,0.92989707
+1726,tick  borne encephalitis,sheep,0.92989707
+1727,ZIKV,human,0.811348455
+1728,TBE,red fox,0.811348455
+1729,TBE,red fox,0.7697305259999999
+1730,TBEV,red fox,0.811348455
+1731,TBEV,red fox,0.7697305259999999
+1732,TBE virus,human,0.811348455
+1733,yellow fever virus,human,0.811348455
+1734,dengue virus,human,0.811348455
+1735,Japanese encephalitis virus,human,0.811348455
+1736,JEV,human,0.811348455
+1737,JEV,human,0.918637574
+1738,dengue,Human,0.9885914640000001
+1739,TBEV,mouse,0.7697305259999999
+1740,Tick  borne encephalitis,drome,0.811348455
+1741,West Nile virus,Caracara cheriway,0.7697305259999999
+1742,West Nile virus,Crested Caracara,0.7697305259999999
+1743,TBE virus,sheep,0.9166542679999999
+1744,TBEV,sheep,0.9166542679999999
+1745,USUV,human,0.92989707
+1746,West Nile virus,human,0.811348455
+1747,tick  borne encephalitis virus,mouse,0.9916422090000001
+1748,Tick  Borne Encephalitis Virus,house mouse,0.874184298
+1749,Tick  Borne Encephalitis Virus,Apodemus sylvaticus,0.874184298
+1750,Tick  Borne Encephalitis Virus,field vole,0.874184298
+1751,Tick  Borne Encephalitis Virus,Microtus agrestis,0.874184298
+1752,Tick  Borne Encephalitis Virus,Microtus arvalis,0.874184298
+1753,Tick  Borne Encephalitis Virus,Mus musculus,0.874184298
+1754,Tick  Borne Encephalitis Virus,bank vole,0.874184298
+1755,Tick  Borne Encephalitis Virus,Myodes glareolus,0.874184298
+1756,Tick  Borne Encephalitis Virus,Apodemus agrarius,0.962856983
+1757,Tick  Borne Encephalitis Virus,long  tailed field mouse,0.874184298
+1758,Tick  Borne Encephalitis Virus,mouse,0.874184298
+1759,Tick  Borne Encephalitis Virus,wood mouse,0.874184298
+1760,Tick  Borne Encephalitis Virus,common vole,0.874184298
+1761,Tick  Borne Encephalitis Virus,Apodemus flavicollis,0.962856983
+1762,Tick  Borne Encephalitis Virus,striped field mouse,0.962856983
+1763,KFD,Macaca radiata,0.7697305259999999
+1764,KFDV,Macaca radiata,0.7697305259999999
+1765,TBEV,A agrarius,0.97172553
+1766,TBEV,A agrarius,0.9778846520000001
+1767,WEEV,mouse,0.911581805
+1768,SLEV,mouse,0.911581805
+1769,dengue,human,0.324421657
+1770,dengue virus,human,0.811348455
+1771,dengue virus,human,0.811348455
+1772,TAHV,Clethrionomys glareolus,0.8952688259999999
+1773,TAHV,Apodemus sylvaticus,0.8952688259999999
+1774,TAHV,wood mouse,0.8952688259999999
+1775,TAHV,bank vole,0.8952688259999999
+1776,WNV,human,0.917261627
+1777,KFD,monkeys,0.811348455
+1778,KFD,human,0.811348455
+1779,KFD,monkeys,0.7697305259999999
+1780,KFD,human,0.7697305259999999
+1781,KFDV,Mus platythrix,0.406677151
+1782,KFDV,petaurista philippensis,0.406677151
+1783,KFDV,Hipposideros lankadiva,0.406677151
+1784,KFDV,Cynopterus sphinx,0.406677151
+1785,KFDV,Hipposideros speoris,0.406677151
+1786,KFDV,Petaurista petaurista,0.406677151
+1787,KFDV,Rattus rattus,0.406677151
+1788,KFDV,northern palm squirrel,0.406677151
+1789,KFDV,Golunda ellioti,0.406677151
+1790,KFDV,Vandeleuria oleracea,0.406677151
+1791,KFDV,Mus booduga,0.406677151
+1792,KFDV,Lepus nigricollis,0.406677151
+1793,KFDV,Rattus rattus,0.406677151
+1794,KFDV,Eonycteris spelaea,0.406677151
+1795,KFDV,Chalcophaps indica,0.874184298
+1796,KFDV,black  naped hare,0.406677151
+1797,KFDV,Treron pompadora,0.874184298
+1798,KFDV,mouse,0.406677151
+1799,KFDV,Indian gerbil,0.406677151
+1800,KFDV,Suncus murinus,0.9166542679999999
+1801,KFDV,Mus platythrix,0.406677151
+1802,KFDV,petaurista philippensis,0.406677151
+1803,KFDV,Hipposideros lankadiva,0.406677151
+1804,KFDV,Cynopterus sphinx,0.406677151
+1805,KFDV,Hipposideros speoris,0.406677151
+1806,KFDV,Petaurista petaurista,0.406677151
+1807,KFDV,Rattus rattus,0.406677151
+1808,KFDV,northern palm squirrel,0.406677151
+1809,KFDV,Golunda ellioti,0.406677151
+1810,KFDV,Vandeleuria oleracea,0.406677151
+1811,KFDV,Mus booduga,0.406677151
+1812,KFDV,Lepus nigricollis,0.406677151
+1813,KFDV,Rattus rattus,0.406677151
+1814,KFDV,Eonycteris spelaea,0.406677151
+1815,KFDV,Chalcophaps indica,0.874184298
+1816,KFDV,black  naped hare,0.406677151
+1817,KFDV,Treron pompadora,0.874184298
+1818,KFDV,mouse,0.406677151
+1819,KFDV,Indian gerbil,0.406677151
+1820,KFDV,Suncus murinus,0.9166542679999999
+1821,DENV,monkeys,0.991338518
+1822,KFDV,human,0.997274792
+1823,KFD,human,0.992877153
+1824,WNV,mice,0.9166542679999999
+1825,TBEV,mice,0.7697305259999999
+1826,TBEV,Apodemus,0.7697305259999999
+1827,TBEV,mice,0.7697305259999999
+1828,Tembusu virus,human,0.811348455
+1829,DENV,human,0.900911198
+1830,DENV,human,0.9166542679999999
+1831,West Nile virus,human,0.977576962
+1832,IHC,Canis latrans,0.5
+1833,IHC,Snow leopard,0.21137518
+1834,IHC,Cougar,0.21137518
+1835,IHC,Jaguar,0.21137518
+1836,IHC,Vulpes vulpes,0.5
+1837,IHC,Lion,0.100442185
+1838,IHC,Coyote,0.5
+1839,IHC,Puma,0.21137518
+1840,IHC,Phoca vitulina,0.100442185
+1841,IHC,Red fox,0.5
+1842,IHC,Panthera onca,0.21137518
+1843,IHC,Harbor seal,0.100442185
+1844,IHC,Tiger,0.100442185
+1845,IHC,Canis lupus,0.5
+1846,IHC,Canis latrans,0.5
+1847,IHC,Snow leopard,0.21137518
+1848,IHC,Cougar,0.21137518
+1849,IHC,Jaguar,0.21137518
+1850,IHC,Vulpes vulpes,0.5
+1851,IHC,Lion,0.100442185
+1852,IHC,Coyote,0.5
+1853,IHC,Puma,0.21137518
+1854,IHC,Phoca vitulina,0.100442185
+1855,IHC,Red fox,0.5
+1856,IHC,Panthera onca,0.21137518
+1857,IHC,Harbor seal,0.100442185
+1858,IHC,Tiger,0.100442185
+1859,IHC,Canis lupus,0.5
+1860,West Nile virus,mouse,0.92989707
+1861,TBEV,human,0.808536266
+1862,SLE,human,0.5
+1863,yellow fever,human,0.5
+1864,KFD,human,0.811348455
+1865,TBE virus,dog,0.9916422090000001
+1866,CNS,Human,0.245508239
+1867,TBEV,Human,0.7697305259999999
+1868,yellow fever,Alouatta sp,0.7697305259999999
+1869,yellow fever,monkeys,0.7697305259999999
+1870,YFV,mice,0.539882364
+1871,YFV,mice,0.7379873859999999
+1872,ENTV,mice,0.539882364
+1873,ENTV,mice,0.7379873859999999
+1874,ENTV,mice,0.539882364
+1875,ENTV,mice,0.7379873859999999
+1876,ENTV,mice,0.294076903
+1877,ENTV,mice,0.5
+1878,ENTV,mice,0.539882364
+1879,ENTV,mice,0.7379873859999999
+1880,Entebbe bat virus,mice,0.539882364
+1881,Entebbe bat virus,mice,0.7379873859999999
+1882,Entebbe bat virus,mice,0.539882364
+1883,Entebbe bat virus,mice,0.7379873859999999
+1884,TBE,human,0.911581805
+1885,TBE,human,0.911581805
+1886,CGLV,Choloepus hoffmanni,0.911581805
+1887,CGLV,Bradypus variegatus,0.911581805
+1888,TBE,human,0.911581805
+1889,TBEV,human,0.92989707
+1890, BHAV ,swine,0.535475279
+1891, BHAV ,Puffin,0.7697305259999999
+1892,DHOV,swine,0.811348455
+1893,DHOV,Puffin,0.245508239
+1894, MEAV ,swine,0.21137518
+1895, MEAV ,Puffin,0.535475279
+1896, OKHV ,swine,0.811348455
+1897, OKHV ,Puffin,0.7697305259999999
+1898, SOLV ,swine,0.21137518
+1899, SOLV ,Puffin,0.811348455
+1900, TBEV ,swine,0.733737337
+1901, TBEV ,Puffin,0.733737337
+1902, ZTV ,swine,0.21137518
+1903, ZTV ,Puffin,0.811348455
+1904, BAUV ,swine,0.811348455
+1905, BAUV ,Puffin,0.245508239
+1906,Meaban,swine,0.21137518
+1907,Meaban,Puffin,0.535475279
+1908,Eyach,swine,0.535475279
+1909,Eyach,Puffin,0.7697305259999999
+1910, GAV ,swine,0.21137518
+1911, GAV ,Puffin,0.811348455
+1912, EYAV ,swine,0.811348455
+1913, EYAV ,Puffin,0.7697305259999999
+1914, CWV ,swine,0.811348455
+1915, CWV ,Puffin,0.7697305259999999
+1916, PIV ,swine,0.21137518
+1917, PIV ,Puffin,0.7697305259999999
+1918, LIV ,swine,0.733737337
+1919, LIV ,Puffin,0.922188745
+1920, BAHV ,swine,0.21137518
+1921, BAHV ,Puffin,0.811348455
+1922,African swine fever virus,swine,0.811348455
+1923,African swine fever virus,Puffin,0.245508239
+1924, PTVV ,swine,0.21137518
+1925, PTVV ,Puffin,0.811348455
+1926,Tyuleniy,swine,0.733737337
+1927,Tyuleniy,Puffin,0.922188745
+1928, MYKV ,swine,0.811348455
+1929, MYKV ,Puffin,0.521006723
+1930, SAHV ,swine,0.21137518
+1931, SAHV ,Puffin,0.811348455
+1932, AVAV ,swine,0.21137518
+1933, AVAV ,Puffin,0.7697305259999999
+1934, TYUV ,swine,0.21137518
+1935, TYUV ,Puffin,0.535475279
+1936, MTRV ,swine,0.21137518
+1937, MTRV ,Puffin,0.811348455
+1938, TRBV ,swine,0.811348455
+1939, TRBV ,Puffin,0.7697305259999999
+1940,THOV,swine,0.811348455
+1941,THOV,Puffin,0.245508239
+1942,ASFV,swine,0.7697305259999999
+1943,ASFV,Puffin,0.245508239
+1944, UUKV ,swine,0.21137518
+1945, UUKV ,Puffin,0.811348455
+1946, TDMV ,swine,0.811348455
+1947, TDMV ,Puffin,0.521006723
+1948, CMV ,swine,0.21137518
+1949, CMV ,Puffin,0.7697305259999999
+1950,BHK,green monkey,0.811348455
+1951,BHK,Human,0.7697305259999999
+1952,BHK,Human,0.7697305259999999
+1953,BHK,mouse,0.811348455
+1954,BHK,Human,0.5
+1955,Zika,rhesus monkey,0.7697305259999999
+1956, BTS ,Choloepus hoffmanni,0.7697305259999999
+1957, BTS ,brown  throated sloth,0.7697305259999999
+1958, HTS ,Choloepus hoffmanni,0.7697305259999999
+1959, HTS ,brown  throated sloth,0.811348455
+1960,TBE,Apodemus,0.989716913
+1961,TBE,human,0.996933375
+1962,TBE,Apodemus,0.9035593820000001
+1963,TBE,human,0.991989221
+1964,TBE virus,Apodemus,0.9723201490000001
+1965,TBE virus,human,0.996933375
+1966,ZIKV,human,0.971334661
+1967,TBE,red fox,0.7697305259999999
+1968,TBE,V vulpes,0.7697305259999999
+1969,West Nile,human,0.7697305259999999
+1970,USUV,Blackbird,0.811348455
+1971,Kyasanur Forest disease,human,0.811348455
+1972,EEE virus,cattle,0.5
+1973,EEE virus,cattle,0.5
+1974,DENV,human,0.811348455
+1975,SINV,human,0.7697305259999999
+1976,WNV,Prairie warbler,0.5
+1977,WNV,Dendroica petechia,0.21137518
+1978,WNV,Caribbean dove,0.5
+1979,WNV,Golden warbler,0.5
+1980,WNV,Yellow warbler,0.5
+1981,WNV,Caribbean elaenia,0.21137518
+1982,WNV,Pearly  eyed thrasher,0.21137518
+1983,WNV,Northern waterthrush,0.5
+1984,SLEV,Prairie warbler,0.21137518
+1985,SLEV,Dendroica petechia,0.21137518
+1986,SLEV,Caribbean dove,0.5
+1987,SLEV,Golden warbler,0.21137518
+1988,SLEV,Yellow warbler,0.5
+1989,SLEV,Caribbean elaenia,0.21137518
+1990,SLEV,Pearly  eyed thrasher,0.21137518
+1991,SLEV,Northern waterthrush,0.5
+1992,WNV,Prairie warbler,0.5
+1993,WNV,Dendroica petechia,0.5
+1994,WNV,Caribbean dove,0.5
+1995,WNV,Golden warbler,0.5
+1996,WNV,Yellow warbler,0.5
+1997,WNV,Caribbean elaenia,0.5
+1998,WNV,Pearly  eyed thrasher,0.5
+1999,WNV,Northern waterthrush,0.5
+2000,SLEV,Prairie warbler,0.245508239
+2001,SLEV,Dendroica petechia,0.5
+2002,SLEV,Caribbean dove,0.245508239
+2003,SLEV,Golden warbler,0.5
+2004,SLEV,Yellow warbler,0.245508239
+2005,SLEV,Caribbean elaenia,0.5
+2006,SLEV,Pearly  eyed thrasher,0.5
+2007,SLEV,Northern waterthrush,0.245508239
+2008,West Nile virus,Prairie warbler,0.245508239
+2009,West Nile virus,Dendroica petechia,0.245508239
+2010,West Nile virus,Caribbean dove,0.245508239
+2011,West Nile virus,Golden warbler,0.245508239
+2012,West Nile virus,Yellow warbler,0.245508239
+2013,West Nile virus,Caribbean elaenia,0.245508239
+2014,West Nile virus,Pearly  eyed thrasher,0.245508239
+2015,West Nile virus,Northern waterthrush,0.245508239
+2016,SLEV,Prairie warbler,0.245508239
+2017,SLEV,Dendroica petechia,0.245508239
+2018,SLEV,Caribbean dove,0.245508239
+2019,SLEV,Golden warbler,0.245508239
+2020,SLEV,Yellow warbler,0.245508239
+2021,SLEV,Caribbean elaenia,0.5
+2022,SLEV,Pearly  eyed thrasher,0.245508239
+2023,SLEV,Northern waterthrush,0.245508239
+2024,SLEV,Prairie warbler,0.5
+2025,SLEV,Dendroica petechia,0.5
+2026,SLEV,Caribbean dove,0.5
+2027,SLEV,Golden warbler,0.5
+2028,SLEV,Yellow warbler,0.5
+2029,SLEV,Caribbean elaenia,0.21137518
+2030,SLEV,Pearly  eyed thrasher,0.5
+2031,SLEV,Northern waterthrush,0.5
+2032,WNV,Prairie warbler,0.245508239
+2033,WNV,Dendroica petechia,0.245508239
+2034,WNV,Caribbean dove,0.245508239
+2035,WNV,Golden warbler,0.245508239
+2036,WNV,Yellow warbler,0.245508239
+2037,WNV,Caribbean elaenia,0.5
+2038,WNV,Pearly  eyed thrasher,0.245508239
+2039,WNV,Northern waterthrush,0.245508239
+2040,WNV,Prairie warbler,0.245508239
+2041,WNV,Dendroica petechia,0.245508239
+2042,WNV,Caribbean dove,0.245508239
+2043,WNV,Golden warbler,0.245508239
+2044,WNV,Yellow warbler,0.245508239
+2045,WNV,Caribbean elaenia,0.5
+2046,WNV,Pearly  eyed thrasher,0.5
+2047,WNV,Northern waterthrush,0.245508239
+2048,tick  borne encephalitis virus,human,0.7697305259999999
+2049,tick  borne encephalitis,sheep,0.7697305259999999
+2050,TBE,human,0.7697305259999999
+2051,West Nile Virus,human,0.9778846520000001
+2052,WNV,brown bear,0.996435718
+2053,WNV,Ursus arctos,0.996435718
+2054,West Nile virus,Sciurus niger,0.971334661
+2055,TBE virus,red deer,0.7697305259999999
+2056,TBE virus,Vulpes vulpes,0.7697305259999999
+2057,TBE virus,Cervus elaphus,0.7697305259999999
+2058,TBE virus,red fox,0.7697305259999999
+2059,TBE virus,red deer,0.811348455
+2060,TBE virus,Vulpes vulpes,0.811348455
+2061,TBE virus,Cervus elaphus,0.811348455
+2062,TBE virus,red fox,0.811348455
+2063,TBEV,Apodemus,0.294076903
+2064,TBEV,A pallipes,0.5
+2065,TBEV,mice,0.5
+2066, WNV ,human,0.7697305259999999
+2067,West Nile virus,human,0.7697305259999999
+2068,USUV,human,0.811348455
+2069,TBEV,Turkey,0.811348455
+2070,WNV,Lepus californicus,0.911581805
+2071,WNV,black  tailed jackrabbit,0.911581805
+2072,PAP,mouse,0.7697305259999999
+2073,PAP,goat,0.7697305259999999
+2074,PAP,mouse,0.7697305259999999
+2075,PAP,mouse,0.7697305259999999
+2076,BHK,mouse,0.811348455
+2077,BHK,goat,0.811348455
+2078,BHK,mouse,0.811348455
+2079,BHK,mouse,0.811348455
+2080, PAP ,mouse,0.811348455
+2081, PAP ,goat,0.811348455
+2082, PAP ,mouse,0.811348455
+2083, PAP ,mouse,0.811348455
+2084,Lan,mouse,0.811348455
+2085,Lan,goat,0.811348455
+2086,Lan,mouse,0.7697305259999999
+2087,Lan,mouse,0.811348455
+2088,WNV,gundi,0.997214713
+2089,WNV,gundi,0.9927208340000001
+2090,Kyasanur Forest disease virus,Macaca radiata,0.811348455
+2091,tick  borne encephalitis virus,Spermophilus undulatus,0.9916422090000001
+2092,tick  borne encephalitis virus,long  tailed ground squirrel,0.9916422090000001
+2093,tick  borne encephalitis virus,human,0.9916422090000001
+2094,IFA,Luscinia megarhynchos,0.5
+2095,IFA,Passer domesticus,0.21137518
+2096,IFA,Siskin,0.21137518
+2097,IFA,Thrush nightingale,0.5
+2098,IFA,White wagtail,0.21137518
+2099,IFA,Loxia curvirostra,0.21137518
+2100,IFA,Anthus trivialis,0.21137518
+2101,IFA,Emberiza schoeniclus,0.21137518
+2102,IFA,Dunnock,0.21137518
+2103,IFA,Phoenicurus ochruros,0.21137518
+2104,IFA,Carduelis spinus,0.21137518
+2105,IFA,Ortolan bunting,0.21137518
+2106,IFA,Motacilla alba,0.21137518
+2107,IFA,Black redstart,0.5
+2108,IFA,Bluethroat,0.5
+2109,IFA,Prunella modularis,0.21137518
+2110,IFA,Luscinia luscinia,0.5
+2111,IFA,Tree sparrow,0.21137518
+2112,IFA,Pyrrhula pyrrhula,0.21137518
+2113,IFA,Robin,0.5
+2114,IFA,Greenfinch,0.21137518
+2115,IFA,Yellow wagtail,0.21137518
+2116,IFA,Emberiza hortulana,0.21137518
+2117,IFA,Redstart,0.21137518
+2118,IFA,Luscinia svecica,0.5
+2119,IFA,Passer montanus,0.21137518
+2120,IFA,Yellowhammer,0.21137518
+2121,IFA,Erithacus rubecula,0.5
+2122,IFA,Chaffinch,0.21137518
+2123,IFA,Carduelis chloris,0.21137518
+2124,IFA,Nightingale,0.5
+2125,IFA,Motacilla flava,0.21137518
+2126,IFA,House sparrow,0.21137518
+2127,IFA,Phoenicurus phoenicurus,0.21137518
+2128,IFA,Common crossbill,0.21137518
+2129,IFA,Fringilla coelebs,0.21137518
+2130,IFA,Emberiza citrinella,0.21137518
+2131,IFA,Reed bunting,0.21137518
+2132,IFA,Tree pipit,0.21137518
+2133,IFA,Luscinia megarhynchos,0.245508239
+2134,IFA,Passer domesticus,0.245508239
+2135,IFA,Siskin,0.245508239
+2136,IFA,Thrush nightingale,0.245508239
+2137,IFA,White wagtail,0.245508239
+2138,IFA,Loxia curvirostra,0.245508239
+2139,IFA,Anthus trivialis,0.245508239
+2140,IFA,Emberiza schoeniclus,0.245508239
+2141,IFA,Dunnock,0.245508239
+2142,IFA,Phoenicurus ochruros,0.245508239
+2143,IFA,Carduelis spinus,0.245508239
+2144,IFA,Ortolan bunting,0.245508239
+2145,IFA,Motacilla alba,0.245508239
+2146,IFA,Black redstart,0.245508239
+2147,IFA,Bluethroat,0.245508239
+2148,IFA,Prunella modularis,0.245508239
+2149,IFA,Luscinia luscinia,0.245508239
+2150,IFA,Tree sparrow,0.245508239
+2151,IFA,Pyrrhula pyrrhula,0.245508239
+2152,IFA,Robin,0.245508239
+2153,IFA,Greenfinch,0.245508239
+2154,IFA,Yellow wagtail,0.245508239
+2155,IFA,Emberiza hortulana,0.245508239
+2156,IFA,Redstart,0.245508239
+2157,IFA,Luscinia svecica,0.245508239
+2158,IFA,Passer montanus,0.245508239
+2159,IFA,Yellowhammer,0.245508239
+2160,IFA,Erithacus rubecula,0.245508239
+2161,IFA,Chaffinch,0.245508239
+2162,IFA,Carduelis chloris,0.245508239
+2163,IFA,Nightingale,0.245508239
+2164,IFA,Motacilla flava,0.245508239
+2165,IFA,House sparrow,0.245508239
+2166,IFA,Phoenicurus phoenicurus,0.245508239
+2167,IFA,Common crossbill,0.245508239
+2168,IFA,Fringilla coelebs,0.245508239
+2169,IFA,Emberiza citrinella,0.245508239
+2170,IFA,Reed bunting,0.245508239
+2171,IFA,Tree pipit,0.245508239
+2172,IFA,Luscinia megarhynchos,0.245508239
+2173,IFA,Passer domesticus,0.245508239
+2174,IFA,Siskin,0.5
+2175,IFA,Thrush nightingale,0.245508239
+2176,IFA,White wagtail,0.245508239
+2177,IFA,Loxia curvirostra,0.245508239
+2178,IFA,Anthus trivialis,0.245508239
+2179,IFA,Emberiza schoeniclus,0.5
+2180,IFA,Dunnock,0.245508239
+2181,IFA,Phoenicurus ochruros,0.245508239
+2182,IFA,Carduelis spinus,0.5
+2183,IFA,Ortolan bunting,0.5
+2184,IFA,Motacilla alba,0.245508239
+2185,IFA,Black redstart,0.245508239
+2186,IFA,Bluethroat,0.245508239
+2187,IFA,Prunella modularis,0.245508239
+2188,IFA,Luscinia luscinia,0.245508239
+2189,IFA,Tree sparrow,0.245508239
+2190,IFA,Pyrrhula pyrrhula,0.245508239
+2191,IFA,Robin,0.245508239
+2192,IFA,Greenfinch,0.245508239
+2193,IFA,Yellow wagtail,0.245508239
+2194,IFA,Emberiza hortulana,0.5
+2195,IFA,Redstart,0.245508239
+2196,IFA,Luscinia svecica,0.245508239
+2197,IFA,Passer montanus,0.245508239
+2198,IFA,Yellowhammer,0.5
+2199,IFA,Erithacus rubecula,0.245508239
+2200,IFA,Chaffinch,0.245508239
+2201,IFA,Carduelis chloris,0.5
+2202,IFA,Nightingale,0.245508239
+2203,IFA,Motacilla flava,0.245508239
+2204,IFA,House sparrow,0.245508239
+2205,IFA,Phoenicurus phoenicurus,0.245508239
+2206,IFA,Common crossbill,0.245508239
+2207,IFA,Fringilla coelebs,0.245508239
+2208,IFA,Emberiza citrinella,0.5
+2209,IFA,Reed bunting,0.5
+2210,IFA,Tree pipit,0.245508239
+2211,Louping ill Virus,sheep,0.21137518
+2212,Louping ill Virus,cattle,0.21137518
+2213,LOUPING ill,sheep,0.811348455
+2214,LOUPING ill,cattle,0.811348455
+2215,TBEV,A pallipes,0.811348455
+2216,TBEV,mice,0.811348455
+2217,SINV,magpie,0.5
+2218,WNV,magpie,0.5
+2219,USUV,magpie,0.5
+2220,WNV,magpie,0.5
+2221,USUV,magpie,0.5
+2222,USUV,magpie,0.5
+2223,WNV,magpie,0.5
+2224,TBEV,H inermis,0.7697305259999999
+2225,TBEV,human,0.811348455
+2226,WEE,Horse,0.5
+2227,ZIKV,human,0.971334661
+2228,ZIKV,human,0.971334661
+2229,WNV,Lepus europaeus,0.811348455
+2230,TBEV,monkey,0.97172553
+2231,TBEV,monkey,0.97172553
+2232,USUV,Blackbird,0.911581805
+2233,Usutu virus,Turdus merula,0.960888849
+2234,TBEV,A pallipes,0.92989707
+2235,TBEV,mice,0.92989707
+2236,JEV,human,0.911581805
+2237,JEV,human,0.7697305259999999
+2238,TBEV,MICE,0.997425108
+2239,TBEV,MICE,0.996689577
+2240,IFA,MICE,0.996689577
+2241,TBE,monkey,0.7697305259999999
+2242,West Nile virus,human,0.971334661
+2243,SINV,capercaillie,0.811348455
+2244,SINV,black grouse,0.811348455
+2245,TBEV,cattle,0.971334661
+2246,TBEV,sheep,0.971334661
+2247,TBEV,A pallipes,0.911581805
+2248,TBEV,mice,0.911581805
+2249,TBEV,A pallipes,0.92989707
+2250,TBEV,mice,0.92989707
+2251,Zika virus,Human,0.245508239
+2252,Zika Virus,Human,0.21137518
+2253,Dengue,Human,0.245508239
+2254, ZIKV ,Human,0.245508239
+2255,TBE virus,A speciosus,0.9916422090000001
+2256,Dengue virus,monkeys,0.811348455
+2257,KFDV,human,0.97172553
+2258,KFDV,human,0.97172553
+2259,TBE,human,0.811348455
+2260,tick  borne encephalitis,human,0.7697305259999999
+2261,FITC,rabbit,0.7697305259999999
+2262,FITC,rabbit,0.811348455
+2263,FITC,goat,0.811348455
+2264,TBEV,rabbit,0.7697305259999999
+2265,TBEV,rabbit,0.811348455
+2266,TBEV,goat,0.811348455
+2267,ILHEUS VIRUS,HUMAN,0.978352628
+2268,West Nile,Human,0.7379873859999999
+2269,West Nile,Phoenicopterus chilensis,0.92374338
+2270,West Nile,Chilean flamingo,0.7379873859999999
+2271,West Nile,Goose,0.7379873859999999
+2272,TBEV,mice,0.9778846520000001
+2273,TBEV,mice,0.9906540979999999
+2274,Powassan virus,Peromyscus leucopus,0.991338518
+2275,CHIK,Macaca nemestrina leonina,0.911581805
+2276,Dengue Virus,Macaca nemestrina leonina,0.92989707
+2277,Chikungunya Virus,Macaca nemestrina leonina,0.92989707
+2278,Dengue,Macaca nemestrina leonina,0.911581805
+2279,Japanese Encephalitis Virus,Macaca nemestrina leonina,0.92989707
+2280,DENV,human,0.92989707
+2281,DENV,human,0.92989707
+2282,DENV,human,0.92989707
+2283,DENV,human,0.811348455
+2284,DHF,Human,0.7697305259999999
+2285,Dengue,Human,0.7697305259999999
+2286, CHIK ,Human,0.7697305259999999
+2287,Chikungunya,Human,0.7697305259999999
+2288,CHIK,Human,0.7697305259999999
+2289,Japanese Encephalitis,Human,0.7697305259999999
+2290, DHF ,Human,0.7697305259999999
+2291,PHA,horse,0.811348455
+2292,WNV,rabbit,0.911581805
+2293,WNV,hare,0.911581805
+2294,WNV,rabbits,0.972085335
+2295,WNV,rabbit,0.911581805
+2296,WNV,hare,0.911581805
+2297,WNV,rabbits,0.972085335
+2298,JEV,pig,0.971334661
+2299,JEV,pig,0.977576962
+2300,USUV,great spotted woodpecker,0.971334661
+2301,WNV,House Sparrow,0.92989707
+2302,WNV,Rufous Hornero,0.92989707
+2303,WNV,Great Kiskadee,0.92989707
+2304,WNV,American Kestrel,0.92989707
+2305,WNV,Falco sparverius,0.92989707
+2306,JEV,chicken,0.811348455
+2307,BHK,chicken,0.811348455
+2308,JEV,chicken,0.811348455
+2309,EEE,horse,0.294076903
+2310,WEE,horse,0.294076903
+2311,KFDV,human,0.99637263
+2312,USUV,great spotted woodpecker,0.97172553
+2313, NSP ,great spotted woodpecker,0.917918825
+2314,ZIKV,mouse,0.535475279
+2315,ZIKV,mice,0.811348455
+2316,ZIKV,mouse,0.811348455
+2317,SLEV,Crowned Eagle,0.7697305259999999
+2318,TBE,human,0.7697305259999999
+2319,TBEV,human,0.811348455
+2320,TBEV,human,0.7697305259999999
+2321,TBE,human,0.7697305259999999
+2322,VEE,Cathartes aura,0.811348455
+2323,VEE,Callipepla squamata,0.535475279
+2324,VEE,Charadrius vociferus,0.811348455
+2325,VEE,Cathartes aura,0.811348455
+2326,VEE,Callipepla squamata,0.535475279
+2327,VEE,Charadrius vociferus,0.811348455
+2328,West Nile virus,white  tailed deer,0.917918825
+2329,West Nile virus,Odocoileus virginianus,0.917918825
+2330,West Nile virus,Tadarida pumila,0.811348455
+2331,West Nile virus,Tadarida condylura,0.811348455
+2332,WNV,white  tailed deer,0.9778846520000001
+2333,WNV,Odocoileus virginianus,0.9778846520000001
+2334,WNV,Tadarida pumila,0.733737337
+2335,WNV,Tadarida condylura,0.733737337
+2336,WNV,Ursus americanus,0.811348455
+2337,WNV,American black bear,0.811348455
+2338,SINV,robin,0.977576962
+2339,SINV,Erithacus rubecula,0.977576962
+2340,SINV,robin,0.977576962
+2341,SINV,Erithacus rubecula,0.977576962
+2342,tick  borne encephalitis,roe deer,0.7697305259999999
+2343,West Nile,human,0.7697305259999999
+2344,Usutu,human,0.7697305259999999
+2345,WN virus,human,0.521006723
+2346,Japanese encephalitis,human,0.811348455
+2347,West Nile,human,0.7697305259999999
+2348,Murray Valley encephalitis,human,0.7697305259999999
+2349, MVE ,human,0.7697305259999999
+2350,SLE virus,human,0.811348455
+2351,ZIKV,human,0.7697305259999999
+2352,Japanese encephalitis,human,0.811348455
+2353,TBE,cattle,0.811348455
+2354,West Nile virus,Columba livia,0.991338518
+2355,dengue,human,0.9116732940000001
+2356,dengue,human,0.918637574
+2357,TBEV,red deer,0.9916422090000001
+2358,TICK  BORNE ENCEPHALITIS VIRUS,SHEEP,0.5
+2359,TICK  BORNE ENCEPHALITIS VIRUS,sheep,0.21137518
+2360, TBEV ,SHEEP,0.245508239
+2361, TBEV ,sheep,0.5
+2362, TBEV ,SHEEP,0.5
+2363, TBEV ,sheep,0.21137518
+2364,Langat,pig,0.811348455
+2365,WNV,European ground squirrel,0.9778846520000001
+2366,WNV,Spermophilus citellus,0.9778846520000001
+2367,WNV,European ground squirrel,0.9778846520000001
+2368,WNV,Spermophilus citellus,0.922188745
+2369,TBEV,cattle,0.9166542679999999
+2370,JEV,human,0.7697305259999999
+2371, SLEV ,Caracara cheriway,0.245508239
+2372,West Nile Virus,Caracara cheriway,0.811348455
+2373,eastern equine encephalitis virus,Caracara cheriway,0.245508239
+2374, WNV ,Caracara cheriway,0.245508239
+2375, EEEV ,Caracara cheriway,0.245508239
+2376,West Nile virus,Caracara cheriway,0.245508239
+2377,WNV,mouse,0.5
+2378,WNV,mouse,0.5
+2379,ZIKV,Human,0.7697305259999999
+2380,WNV,white stork,0.5
+2381,WNV,Tamias striatus,0.811348455
+2382,JEV,human,0.5
+2383,TBE,human,0.811348455
+2384,TBEV,human,0.811348455
+2385,PFU,Human,0.245508239
+2386,PFU,mice,0.245508239
+2387,PFU,mice,0.5
+2388,PFU,Passer domesticus,0.245508239
+2389,PFU,mice,0.767362572
+2390,PFU,house sparrow,0.245508239
+2391,PFU,mice,0.245508239
+2392,PFU,mice,0.245508239
+2393,PFU,Duck,0.245508239
+2394,PFU,mice,0.245508239
+2395,PFU,chicken,0.245508239
+2396,PFU,mice,0.767362572
+2397,PFU,Human,0.730967357
+2398,PFU,mice,0.9102092140000001
+2399,PFU,mice,0.730967357
+2400,PFU,Passer domesticus,0.9102092140000001
+2401,PFU,mice,0.9102092140000001
+2402,PFU,house sparrow,0.730967357
+2403,PFU,mice,0.9102092140000001
+2404,PFU,mice,0.9102092140000001
+2405,PFU,Duck,0.730967357
+2406,PFU,mice,0.9102092140000001
+2407,PFU,chicken,0.9102092140000001
+2408,PFU,mice,0.9102092140000001
+2409,BHK,Human,0.5
+2410,BHK,mice,0.245508239
+2411,BHK,mice,0.21137518
+2412,BHK,Passer domesticus,0.5
+2413,BHK,mice,0.767362572
+2414,BHK,house sparrow,0.5
+2415,BHK,mice,0.245508239
+2416,BHK,mice,0.245508239
+2417,BHK,Duck,0.5
+2418,BHK,mice,0.245508239
+2419,BHK,chicken,0.5
+2420,BHK,mice,0.767362572
+2421, SMRV ,monkey,0.7697305259999999
+2422,Squirrel monkey retrovirus,monkey,0.811348455
+2423,IFA,Accipiter gentilis,0.7697305259999999
+2424,IFA,Cygnus olor,0.7697305259999999
+2425,dengue virus,human,0.7697305259999999
+2426, DENV ,human,0.7697305259999999
+2427,ZIKV,monkeys,0.7697305259999999
+2428,ZIKV,monkeys,0.7697305259999999
+2429,LIV,roe deer,0.9916422090000001
+2430,Changuinola virus,human,0.811348455
+2431,Kyasanur forest disease virus,Suncus murinus,0.7697305259999999
+2432,FBS,mice,0.7697305259999999
+2433,ICR,mice,0.7697305259999999
+2434,WNV,chicken,0.9905223470000001
+2435,WNV,Magpie,0.21137518
+2436,WNV,Magpie,0.535475279
+2437,WNV,Magpie,0.245508239
+2438,WNV,Magpie,0.811348455
+2439,WNV,Magpie,0.7697305259999999
+2440,WNV,Magpie,0.7697305259999999
+2441,WNV,Magpie,0.521006723
+2442,WNV,Magpie,0.811348455
+2443,WNV,Magpie,0.521006723
+2444,WNV,Magpie,0.21137518
+2445,WNV,Magpie,0.7697305259999999
+2446,WNV,Magpie,0.21137518
+2447,WNV,Magpie,0.811348455
+2448,WNV,Magpie,0.535475279
+2449,WNV,Magpie,0.7697305259999999
+2450,WNV,Magpie,0.811348455
+2451,WNV,Magpie,0.7697305259999999
+2452,WNV,Magpie,0.21137518
+2453,SLE,human,0.92989707
+2454,SLE,cattle,0.92989707
+2455,KFD,human,0.7697305259999999
+2456,West Nile virus,Megascops asio,0.811348455
+2457,dengue,human,0.911581805
+2458,PHA,horse,0.811348455
+2459,ZIKV,human,0.9166542679999999
+2460,ZIKV,human,0.9166542679999999
+2461,JEV,chicken,0.7697305259999999
+2462,SLEV,human,0.811348455
+2463,JEV,Spotted Dove,0.7697305259999999
+2464,JEV,Java Sparrow,0.7697305259999999
+2465,SLEV,Spotted Dove,0.7697305259999999
+2466,SLEV,Java Sparrow,0.7697305259999999
+2467,KEDV,human,0.811348455
+2468,West Nile Virus,human,0.9778846520000001
+2469,WNV,Equus caballus,0.996435718
+2470,USUV,chicken,0.991338518
+2471,USUV,chicken,0.971334661
+2472,Israel turkey meningoencephalomyelitis virus,Alectoris rufa,0.984059985
+2473,Israel turkey meningoencephalomyelitis virus,Phasianus colchicus,0.984059985
+2474,Israel turkey meningoencephalomyelitis virus,turkey,0.992877153
+2475,BAGV,Alectoris rufa,0.9885169859999999
+2476,BAGV,Phasianus colchicus,0.9885169859999999
+2477,BAGV,turkey,0.986833121
+2478,TMEV,Alectoris rufa,0.9524176120000001
+2479,TMEV,Phasianus colchicus,0.9524176120000001
+2480,TMEV,turkey,0.998702867
+2481,BAGV,Alectoris rufa,0.984059985
+2482,BAGV,Phasianus colchicus,0.984059985
+2483,BAGV,turkey,0.92989707
+2484,West Nile,Human,0.811348455
+2485,West Nile Virus,CAT,0.978352628
+2486,GCG,CAT,0.978352628
+2487,KOU virus,CAT,0.9723201490000001
+2488,Kyasanur forest disease virus,Rattus rattus,0.7697305259999999
+2489,TBEV,M arvalis,0.991338518
+2490,WNV,P montanus,0.9490762220000001
+2491,WNV,Passer domesticus,0.9490762220000001
+2492, HIT ,P montanus,0.97172553
+2493, HIT ,Passer domesticus,0.97172553
+2494,WNV,P montanus,0.979970991
+2495,WNV,Passer domesticus,0.979970991
+2496,JEV,human,0.971334661
+2497,WNV,Procyon lotor,0.7697305259999999
+2498,FSME,chicken,0.811348455
+2499,WNV,human,0.977576962
+2500,TBEV,mice,0.9814597190000001
+2501,TBEV,mice,0.9814597190000001
+2502,West Nile Virus,Caracara cheriway,0.811348455
+2503,Zika Virus,monkey,0.808536266
+2504,ZIKV,monkey,0.808536266
+2505,Zika,monkey,0.808536266
+2506,WNV,white stork,0.5
+2507,Chikungunya,human,0.7697305259999999
+2508,tick  borne encephalitis virus,sheep,0.7697305259999999
+2509,tick  borne encephalitis,sheep,0.7697305259999999
+2510, TBEV ,sheep,0.521006723
+2511, TBE ,sheep,0.7697305259999999
+2512,TBEV,human,0.808536266
+2513,TBEV,goat,0.9637842809999999
+2514,TBEV,cow,0.9637842809999999
+2515,TBEV,sheep,0.9637842809999999
+2516,CPE,human,0.808536266
+2517,CPE,goat,0.730967357
+2518,CPE,cow,0.730967357
+2519,CPE,sheep,0.730967357
+2520,NGS,Whitehead,0.92989707
+2521,NGS,Whitehead,0.92989707
+2522,SLEV,human,0.9916422090000001
+2523,TBEV,tree pipit,0.97136427
+2524,TBEV,redwing,0.97136427
+2525,TBEV,fieldfare,0.97136427
+2526,TBEV,tree pipit,0.900911198
+2527,TBEV,redwing,0.97136427
+2528,TBEV,fieldfare,0.97136427
+2529,TBEV,Eurasian tree sparrow,0.97136427
+2530,ZIKV,human,0.9905223470000001
+2531,MVEV,human,0.978352628
+2532,WNV,Magpie,0.245508239
+2533,WNV,Carrion crow,0.7697305259999999
+2534,WNV,Carrion crow,0.245508239
+2535,WNV,Magpie,0.811348455
+2536,WNV,Carrion crow,0.21137518
+2537,WNV,Carrion crow,0.521006723
+2538,WNV,Magpie,0.21137518
+2539,WNV,Carrion crow,0.21137518
+2540,WNV,Carrion crow,0.811348455
+2541,WNV,Magpie,0.7697305259999999
+2542,WNV,Carrion crow,0.535475279
+2543,WNV,Carrion crow,0.245508239
+2544,WNV,Magpie,0.811348455
+2545,WNV,Carrion crow,0.21137518
+2546,WNV,Carrion crow,0.7697305259999999
+2547,WNV,Magpie,0.245508239
+2548,WNV,Carrion crow,0.245508239
+2549,WNV,Carrion crow,0.245508239
+2550,WNV,Magpie,0.245508239
+2551,WNV,Carrion crow,0.811348455
+2552,WNV,Carrion crow,0.245508239
+2553,WNV,Magpie,0.245508239
+2554,WNV,Carrion crow,0.521006723
+2555,WNV,Carrion crow,0.245508239
+2556,WNV,Magpie,0.245508239
+2557,WNV,Carrion crow,0.7697305259999999
+2558,WNV,Carrion crow,0.245508239
+2559,WNV,Magpie,0.7697305259999999
+2560,WNV,Carrion crow,0.811348455
+2561,WNV,Carrion crow,0.245508239
+2562,WNV,Magpie,0.811348455
+2563,WNV,Carrion crow,0.21137518
+2564,WNV,Carrion crow,0.7697305259999999
+2565,WNV,Magpie,0.7697305259999999
+2566,WNV,Carrion crow,0.21137518
+2567,WNV,Carrion crow,0.245508239
+2568,WNV,Magpie,0.245508239
+2569,WNV,Carrion crow,0.245508239
+2570,WNV,Carrion crow,0.245508239
+2571,WNV,Magpie,0.535475279
+2572,WNV,Carrion crow,0.21137518
+2573,WNV,Carrion crow,0.7697305259999999
+2574,WNV,Magpie,0.245508239
+2575,WNV,Carrion crow,0.7697305259999999
+2576,WNV,Carrion crow,0.245508239
+2577,WNV,Magpie,0.521006723
+2578,WNV,Carrion crow,0.811348455
+2579,WNV,Carrion crow,0.245508239
+2580,WNV,Magpie,0.245508239
+2581,WNV,Carrion crow,0.7697305259999999
+2582,WNV,Carrion crow,0.245508239
+2583,WNV,Magpie,0.7697305259999999
+2584,WNV,Carrion crow,0.811348455
+2585,WNV,Carrion crow,0.245508239
+2586,WNV,Magpie,0.811348455
+2587,WNV,Carrion crow,0.21137518
+2588,WNV,Carrion crow,0.7697305259999999
+2589,WNV,Magpie,0.7697305259999999
+2590,WNV,Carrion crow,0.21137518
+2591,WNV,Carrion crow,0.245508239
+2592,WNV,Magpie,0.245508239
+2593,WNV,Carrion crow,0.521006723
+2594,WNV,Carrion crow,0.245508239
+2595,WNV,Magpie,0.535475279
+2596,WNV,Carrion crow,0.21137518
+2597,WNV,Carrion crow,0.7697305259999999
+2598,WNV,Magpie,0.245508239
+2599,WNV,Carrion crow,0.7697305259999999
+2600,WNV,Carrion crow,0.245508239
+2601,WNV,Magpie,0.521006723
+2602,WNV,Carrion crow,0.811348455
+2603,WNV,Carrion crow,0.245508239
+2604,VEE,Dipodomys merriami,0.97136427
+2605,VEE,striped skunk,0.97136427
+2606,VEE,white  tailed deer,0.97136427
+2607,VEE,woodrat,0.97136427
+2608,TBE,A speciosus,0.7697305259999999
+2609,TBE,R norvegicus,0.7697305259999999
+2610,West Nile virus,Lobo,0.7697305259999999
+2611,WNV,Crowned Eagle,0.911581805
+2612,SLEV,Great Kiskadee,0.911581805
+2613,SLEV,Picui Ground  Dove,0.911581805
+2614,SLEV,Eared Dove,0.911581805
+2615,tick  borne encephalitis,Sheep,0.7697305259999999
+2616,WNV,Pandion haliaetus,0.7697305259999999
+2617,WNV,Lanius collurio,0.92989707
+2618,WNV,Sylvia borin,0.92989707
+2619,WNV,Milvus migrans,0.452557473
+2620,WNV,Phoenicurus phoenicurus,0.92989707
+2621,WNV,Pandion haliaetus,0.780477858
+2622,WNV,Ficedula hypoleuca,0.92989707
+2623,WNV,Ciconia ciconia,0.780477858
+2624,WNV,Erithacus rubecula,0.92989707
+2625,WNV,Motacilla flava,0.92989707
+2626,WNV,Haliaeetus albicilla,0.452557473
+2627,WNV,Great Tit,0.92989707
+2628,WNV,Great Spotted Woodpecker,0.92989707
+2629,WNV,Northern Goshawk,0.92989707
+2630,WNV,human,0.5
+2631,WNV,human,0.705877051
+2632,TBE virus,A speciosus,0.7697305259999999
+2633,INIA,INIA,0.811348455
+2634,JEV,human,0.811348455
+2635,JEV,human,0.811348455
+2636,West Nile virus,Spanish imperial eagle,0.811348455
+2637,TBEV,cow,0.978352628
+2638,SLEV,House Sparrow,0.7697305259999999
+2639,SLEV,House Finch,0.7697305259999999
+2640,SLEV,Mourning Dove,0.811348455
+2641,SLEV,Passer domesticus,0.7697305259999999
+2642,BAGV,partridge,0.997274792
+2643,TCID,partridge,0.9898597459999999
+2644,TCID,partridge,0.992877153
+2645,TCID,partridge,0.997274792
+2646,BAGV,partridge,0.9898597459999999
+2647,TBEV,common redstart,0.97136427
+2648,TBEV,fieldfare,0.97136427
+2649,TBEV,tree pipit,0.97136427
+2650,ZIKV,water buffalo,0.9914590209999999
+2651,ZIKV,sheep,0.922188745
+2652,ZIKV,impala,0.9914590209999999
+2653,ZIKV,monkey,0.9778846520000001
+2654,Japanese encephalitis virus,swine,0.9927208340000001
+2655,Japanese encephalitis virus,human,0.9927208340000001
+2656,EIA,swine,0.9927208340000001
+2657,EIA,human,0.9927208340000001
+2658,dengue,swine,0.9927208340000001
+2659,dengue,human,0.9927208340000001
+2660,USUV,Vulpes vulpes,0.811348455
+2661,USUV,cat,0.811348455
+2662,USUV,red fox,0.811348455
+2663,TYUV,monkey,0.811348455
+2664,TBEV,cow,0.7697305259999999
+2665,yellow fever virus,monkeys,0.9102092140000001
+2666,Zika,monkeys,0.9637842809999999
+2667,ZIKV,monkeys,0.984584063
+2668,yellow fever virus,monkeys,0.9102092140000001
+2669,WNV,Magpie,0.7697305259999999
+2670,USUV,Magpie,0.21137518
+2671,WNV,Magpie,0.21137518
+2672,WNV,Magpie,0.811348455
+2673,WNV,Magpie,0.811348455
+2674,WNV,Magpie,0.811348455
+2675,WNV,Magpie,0.811348455
+2676,SINV,Magpie,0.21137518
+2677,WNV,Magpie,0.7697305259999999
+2678,WNV,Magpie,0.21137518
+2679,WNV,Magpie,0.535475279
+2680,WNV,Magpie,0.811348455
+2681,LIV,Magpie,0.21137518
+2682, TBE ,human,0.811348455
+2683,Tick  borne encephalitis,human,0.811348455
+2684,dengue virus,Macaca sinica,0.92989707
+2685,WNV,Blackbird,0.811348455
+2686,WNV,Blackbird,0.811348455
+2687,WNV,Blackbird,0.535475279
+2688,WNV,Blackbird,0.21137518
+2689,WNV,Blackbird,0.21137518
+2690,WNV,Blackbird,0.811348455
+2691,WNV,Blackbird,0.811348455
+2692,WNV,Blackbird,0.21137518
+2693,WNV,Blackbird,0.7697305259999999
+2694,WNV,Blackbird,0.535475279
+2695,TBE virus,horse,0.245508239
+2696,TBE virus,A speciosus,0.7697305259999999
+2697,TBE virus,dog,0.245508239
+2698,KOU,Human,0.7697305259999999
+2699,JEV,Spotted Dove,0.535475279
+2700,JEV,Padda oryzivora,0.811348455
+2701,JEV,Spotted Dove,0.811348455
+2702,JEV,Java Sparrow,0.811348455
+2703,SLEV,Spotted Dove,0.811348455
+2704,SLEV,Padda oryzivora,0.811348455
+2705,SLEV,Spotted Dove,0.811348455
+2706,SLEV,Java Sparrow,0.811348455
+2707,TBEV,mice,0.49994455
+2708,WNV,Urocyon cinereoargenteus,0.5
+2709,WNV,gray fox,0.5
+2710,TBEV,mice,0.978352628
+2711,TBEV,human,0.9166542679999999
+2712,TBE,human,0.7697305259999999
+2713,TBE,human,0.9166542679999999
+2714,JE virus,bearded pig,0.7697305259999999
+2715,JE virus,bearded pig,0.811348455
+2716,JEV,Murina aurata,0.978352628
+2717,JEV,little tube  nosed bat,0.978352628
+2718,USUV,horse,0.811348455
+2719,TBEV,mice,0.7697305259999999
+2720,yellow fever,Robin,0.7697305259999999
+2721,Omsk hemorrhagic fever virus,human,0.811348455
+2722,dengue virus,human,0.7697305259999999
+2723, YFV ,human,0.7697305259999999
+2724, WNV ,human,0.7697305259999999
+2725,Japanese encephalitis virus,human,0.7697305259999999
+2726,yellow fever virus,human,0.7697305259999999
+2727,West Nile virus,human,0.7697305259999999
+2728,tick  borne encephalitis virus,human,0.811348455
+2729, DENV ,human,0.7697305259999999
+2730,TBEV,human,0.294076903
+2731,WNV,horse,0.92989707
+2732,WNV,robin,0.5
+2733,WNV,turkey,0.5
+2734,LIV,robin,0.5
+2735,LIV,turkey,0.5
+2736,WNV,robin,0.5
+2737,WNV,turkey,0.5
+2738,MVEV,horse,0.7697305259999999
+2739,MVEV,horse,0.780477858
+2740,TBE virus,dog,0.9916422090000001
+2741,TBE virus,dog,0.9723201490000001
+2742,TBE virus,horse,0.9723201490000001
+2743,TBE,dog,0.978352628
+2744,TBE,dog,0.978352628
+2745,TBE,horse,0.978352628
+2746,TBEV,red deer,0.9914590209999999
+2747,TBE,human,0.7697305259999999
+2748, SLE ,mice,0.7697305259999999
+2749, SLE ,mouse,0.971334661
+2750,USUV,Turdus merula,0.8952688259999999
+2751,Japanese encephalitis,human,0.811348455
+2752,JEV,human,0.978352628
+2753,SEPV,human,0.977576962
+2754,SEPV,sheep,0.977576962
+2755,WNV,red fox,0.92989707
+2756,WNV,red fox,0.92989707
+2757,WNF,human,0.811348455
+2758,Tick  borne encephalitis virus,mice,0.811348455
+2759,Tick  borne encephalitis virus,sheep,0.9166542679999999
+2760,TBE virus,sheep,0.9166542679999999
+2761,WNV,Sylvia borin,0.452557473
+2762,WNV,Motacilla flava,0.452557473
+2763,WNV,Lanius collurio,0.452557473
+2764,WNV,Phoenicurus phoenicurus,0.452557473
+2765,WNV,osprey,0.92989707
+2766,WNV,Ficedula hypoleuca,0.452557473
+2767,WNV,Haliaeetus albicilla,0.452557473
+2768,WNV,Erithacus rubecula,0.452557473
+2769,WNV,Pandion haliaetus,0.452557473
+2770,WNV,Ciconia ciconia,0.452557473
+2771,IFA,Sylvia borin,0.452557473
+2772,IFA,Motacilla flava,0.452557473
+2773,IFA,Lanius collurio,0.452557473
+2774,IFA,Phoenicurus phoenicurus,0.452557473
+2775,IFA,osprey,0.911581805
+2776,IFA,Ficedula hypoleuca,0.452557473
+2777,IFA,Haliaeetus albicilla,0.92989707
+2778,IFA,Erithacus rubecula,0.452557473
+2779,IFA,Pandion haliaetus,0.92989707
+2780,IFA,Ciconia ciconia,0.92989707
+2781,IFA,Sylvia borin,0.452557473
+2782,IFA,Motacilla flava,0.452557473
+2783,IFA,Lanius collurio,0.452557473
+2784,IFA,Phoenicurus phoenicurus,0.452557473
+2785,IFA,osprey,0.911581805
+2786,IFA,Ficedula hypoleuca,0.452557473
+2787,IFA,Haliaeetus albicilla,0.92989707
+2788,IFA,Erithacus rubecula,0.452557473
+2789,IFA,Pandion haliaetus,0.92989707
+2790,IFA,Ciconia ciconia,0.92989707
+2791,West Nile virus,Sylvia borin,0.452557473
+2792,West Nile virus,Motacilla flava,0.452557473
+2793,West Nile virus,Lanius collurio,0.452557473
+2794,West Nile virus,Phoenicurus phoenicurus,0.452557473
+2795,West Nile virus,osprey,0.911581805
+2796,West Nile virus,Ficedula hypoleuca,0.452557473
+2797,West Nile virus,Haliaeetus albicilla,0.92989707
+2798,West Nile virus,Erithacus rubecula,0.452557473
+2799,West Nile virus,Pandion haliaetus,0.92989707
+2800,West Nile virus,Ciconia ciconia,0.92989707
+2801,West Nile virus,mice,0.811348455
+2802, WNV ,human,0.811348455
+2803,West Nile virus,human,0.811348455
+2804, SLEV ,human,0.811348455
+2805,JEV,mice,0.9166542679999999
+2806,West Nile virus,mice,0.92989707
+2807,USUV,Pyrrhula pyrrhula,0.8952688259999999
+2808,USUV,great spotted woodpecker,0.8952688259999999
+2809,USUV,Dendrocopos major,0.8952688259999999
+2810,TBE,Passer domesticus,0.92989707
+2811,TBE,C flammea,0.92989707
+2812,TBE,F atra,0.780477858
+2813,TBE,Passer domesticus,0.92989707
+2814,TBE,C flammea,0.92989707
+2815,TBE,F atra,0.780477858
+2816,TBEV,Passer domesticus,0.780477858
+2817,TBEV,C flammea,0.92989707
+2818,TBEV,F atra,0.780477858
+2819,TBEV,sheep,0.9166542679999999
+2820,USUV,Turdus merula,0.92989707
+2821,USUV,Strix nebulosa,0.780477858
+2822,WNV,human,0.811348455
+2823,WNV,Human,0.7697305259999999
+2824,WNV,Canis latrans,0.996435718
+2825,West Nile,cattle,0.911357504
+2826,West Nile,cattle,0.911357504
+2827,Langat,cattle,0.911357504
+2828,Langat,cattle,0.911357504
+2829,NEP,Desert cottontail,0.911581805
+2830,SLEV,Eared Dove,0.535475279
+2831,SLEV,Picui Ground  Dove,0.21137518
+2832,SLEV,Green  barred Woodpecker,0.21137518
+2833,SLEV,American Kestrel,0.811348455
+2834,SLEV,Falco sparverius,0.811348455
+2835,WNV,Eared Dove,0.535475279
+2836,WNV,Picui Ground  Dove,0.21137518
+2837,WNV,Green  barred Woodpecker,0.21137518
+2838,WNV,American Kestrel,0.811348455
+2839,WNV,Falco sparverius,0.811348455
+2840,LI virus,Horse,0.990854391
+2841,MVE,human,0.933845455
+2842,MVE,human,0.947812966
+2843,FCS,mice,0.7697305259999999
+2844,FCS,mice,0.7697305259999999
+2845,WNV,chicken,0.911581805
+2846,WNV,chicken,0.92989707
+2847,WNV,chicken,0.92989707
+2848,WNV,chicken,0.780477858
+2849,BHK,A speciosus,0.9723201490000001
+2850,MVEV,human,0.9102092140000001
+2851,MVEV,horse,0.808536266
+2852,TBEV,M glareolus,0.9987720459999999
+2853,TBEV,M arvalis,0.9987720459999999
+2854,TBEV,A agrarius,0.9987720459999999
+2855,TBE,human,0.7697305259999999
+2856,SLEV,Common Quail,0.5
+2857,SLEV,Coturnix coturnix,0.5
+2858,WNV,Common Quail,0.5
+2859,WNV,Coturnix coturnix,0.5
+2860,SLEV,Common Quail,0.5
+2861,SLEV,Coturnix coturnix,0.5
+2862,WNV,Common Quail,0.5
+2863,WNV,Coturnix coturnix,0.5
+2864,TBE virus,human,0.7697305259999999
+2865,ZIKV,monkeys,0.294076903
+2866,WNV,human,0.9116732940000001
+2867,ZIKV,mice,0.811348455
+2868,ZIKV,monkeys,0.811348455
+2869,VSV,Didelphis virginiana,0.7697305259999999
+2870,TBE,horse,0.97136427
+2871,TBE,dog,0.97136427
+2872,Kyasanur Forest disease,monkeys,0.811348455
+2873,WNV,mute swan,0.5
+2874,USUV,mute swan,0.5
+2875,USUV,mute swan,0.5
+2876,WNV,mute swan,0.5
+2877,USUV,Blackbird,0.99869619
+2878,TBEV,Apodemus flavicollis,0.9778846520000001
+2879,TBEV,Apodemus,0.9778846520000001
+2880,TBEV,Microtus agrestis,0.9778846520000001
+2881,TBEV,M arvalis,0.9778846520000001
+2882,TBEV,Apodemus agrarius,0.9778846520000001
+2883,TBEV,Myodes glareolus,0.9778846520000001
+2884,Zika virus,mice,0.9723201490000001
+2885,Zika virus,mouse,0.9916422090000001
+2886,WNF,white stork,0.5158127220000001
+2887,Pasteurella,Cynomys mexicanus,0.7697305259999999
+2888,Usutu virus,blackbird,0.92989707
+2889,Usutu virus,blackbird,0.911581805
+2890,TBEV,monkey,0.991338518
+2891,CEEV,pig,0.991338518
+2892,CEEV,sheep,0.991338518
+2893,Tick  borne encephalitis,goat,0.811348455
+2894,Japanese encephalitis virus,human,0.811348455
+2895, JEV ,human,0.811348455
+2896,Murray Valley encephalitis virus,human,0.7697305259999999
+2897, WNV ,human,0.7697305259999999
+2898,Saint Louis encephalitis virus,human,0.811348455
+2899,West Nile virus,human,0.7697305259999999
+2900,JEV,human,0.7697305259999999
+2901,Chikungunya virus,human,0.9723201490000001
+2902,IFA,Phoenicurus phoenicurus,0.452557473
+2903,IFA,Accipiter gentilis,0.452557473
+2904,IFA,Ciconia ciconia,0.452557473
+2905,IFA,Lanius collurio,0.452557473
+2906,IFA,Ficedula hypoleuca,0.452557473
+2907,IFA,Cygnus olor,0.452557473
+2908,IFA,Pandion haliaetus,0.92989707
+2909,IFA,Milvus migrans,0.452557473
+2910,West Nile virus,Phoenicurus phoenicurus,0.452557473
+2911,West Nile virus,Accipiter gentilis,0.452557473
+2912,West Nile virus,Ciconia ciconia,0.780477858
+2913,West Nile virus,Lanius collurio,0.452557473
+2914,West Nile virus,Ficedula hypoleuca,0.452557473
+2915,West Nile virus,Cygnus olor,0.452557473
+2916,West Nile virus,Pandion haliaetus,0.92989707
+2917,West Nile virus,Milvus migrans,0.452557473
+2918,West Nile virus,Mus musculus,0.7697305259999999
+2919,West Nile virus,White  footed mouse,0.7697305259999999
+2920,West Nile virus,Peromyscus leucopus,0.7697305259999999
+2921,West Nile virus,House mouse,0.7697305259999999
+2922,West Nile virus,R rattus,0.9116732940000001
+2923,FITC,mouse,0.811348455
+2924,FITC,goat,0.811348455
+2925,TBEV,mouse,0.922188745
+2926,TBEV,goat,0.922188745
+2927,TBEV,mouse,0.733737337
+2928,TBEV,goat,0.733737337
+2929,Zika,monkeys,0.5
+2930,Zika,monkeys,0.5
+2931,yellow fever,monkeys,0.5
+2932,yellow fever,monkeys,0.5
+2933,yellow fever virus,monkeys,0.5
+2934,yellow fever virus,monkeys,0.5
+2935,Sindbis,human,0.8130997090000001
+2936,West Nile,human,0.8130997090000001
+2937,USUV,Linnet,0.21137518
+2938,USUV,Blackbird,0.811348455
+2939,USUV,Duck,0.21137518
+2940,USUV,Green woodpecker,0.21137518
+2941,USUV,Garden warbler,0.21137518
+2942,USUV,Chaffinch,0.535475279
+2943,USUV,Jackdaw,0.21137518
+2944,USUV,Great tit,0.21137518
+2945,USUV,Carrion crow,0.811348455
+2946,USUV,House martin,0.21137518
+2947,USUV,Blackcap,0.811348455
+2948,USUV,Kestrel,0.21137518
+2949,USUV,Lesser whitethroat,0.21137518
+2950,USUV,Jay,0.21137518
+2951,USUV,Chicken,0.21137518
+2952,USUV,Dunnock,0.21137518
+2953,SINV,Linnet,0.21137518
+2954,SINV,Blackbird,0.811348455
+2955,SINV,Duck,0.21137518
+2956,SINV,Green woodpecker,0.21137518
+2957,SINV,Garden warbler,0.21137518
+2958,SINV,Chaffinch,0.535475279
+2959,SINV,Jackdaw,0.21137518
+2960,SINV,Great tit,0.21137518
+2961,SINV,Carrion crow,0.811348455
+2962,SINV,House martin,0.21137518
+2963,SINV,Blackcap,0.811348455
+2964,SINV,Kestrel,0.21137518
+2965,SINV,Lesser whitethroat,0.21137518
+2966,SINV,Jay,0.21137518
+2967,SINV,Chicken,0.21137518
+2968,SINV,Dunnock,0.21137518
+2969,LIV,Linnet,0.21137518
+2970,LIV,Blackbird,0.811348455
+2971,LIV,Duck,0.21137518
+2972,LIV,Green woodpecker,0.21137518
+2973,LIV,Garden warbler,0.21137518
+2974,LIV,Chaffinch,0.535475279
+2975,LIV,Jackdaw,0.21137518
+2976,LIV,Great tit,0.21137518
+2977,LIV,Carrion crow,0.811348455
+2978,LIV,House martin,0.21137518
+2979,LIV,Blackcap,0.811348455
+2980,LIV,Kestrel,0.21137518
+2981,LIV,Lesser whitethroat,0.21137518
+2982,LIV,Jay,0.21137518
+2983,LIV,Chicken,0.21137518
+2984,LIV,Dunnock,0.21137518
+2985,NSW,Human,0.7697305259999999
+2986,TBE,human,0.811348455
+2987,bluetongue,mouflon,0.7697305259999999
+2988,epizootic hemorrhagic disease,mouflon,0.7697305259999999
+2989,JEV,human,0.811348455
+2990,Tembusu virus,Duck,0.7697305259999999
+2991,Tembusu virus,Duck,0.919551329
+2992,Tembusu virus,Duck,0.9723201490000001
+2993,SMRV,monkey,0.811348455
+2994,squirrel monkey retrovirus,monkey,0.811348455
+2995,West Nile virus,monkey,0.811348455
+2996,WNV,monkey,0.811348455
+2997,SMRV,monkey,0.811348455
+2998,West Nile virus,chicken,0.9778846520000001
+2999, ICR ,mice,0.7697305259999999
+3000,Usutu virus,Pyrrhula pyrrhula,0.9778846520000001
+3001,Usutu virus,great spotted woodpecker,0.9778846520000001
+3002,ZIKV,human,0.990533002
+3003,ZIKV,human,0.991338518
+3004,IHC,T merula,0.911581805
+3005,IHC,T merula,0.911581805
+3006,IHC,T merula,0.911581805
+3007,IHC,T merula,0.911581805
+3008,yellow fever virus,Chaerephon pumilus,0.9871241470000001
+3009,yellow fever virus,little free  tailed bat,0.9871241470000001
+3010,Entebbe bat virus,Chaerephon pumilus,0.9871241470000001
+3011,Entebbe bat virus,little free  tailed bat,0.9871241470000001
+3012,ENTV,Chaerephon pumilus,0.9871241470000001
+3013,ENTV,little free  tailed bat,0.9871241470000001
+3014,USUTU VIRUS,blackbird,0.92989707
+3015,USUTU VIRUS,blackbird,0.92989707
+3016,SLEV,Eared Dove,0.811348455
+3017,SLEV,Pitangus sulphuratus,0.811348455
+3018,SLEV,Agelaioides badius,0.535475279
+3019,SLEV,Picui Ground  Dove,0.811348455
+3020,SLEV,Columbina picui,0.811348455
+3021,SLEV,Rufous Hornero,0.811348455
+3022,SLEV,Furnarius rufus,0.811348455
+3023,SLEV,Bay  winged Cowbird,0.535475279
+3024,SLEV,House Sparrow,0.811348455
+3025,SLEV,Passer domesticus,0.811348455
+3026,SLEV,Great Kiskadee,0.811348455
+3027,West Nile virus,human,0.811348455
+3028,TBEV,M glareolus,0.7697305259999999
+3029,RSSE,dog,0.990854391
+3030,TBE virus,dog,0.9569250890000001
+3031, RSSE ,dog,0.9569250890000001
+3032,TBE,Apodemus,0.9166542679999999
+3033,TBE,Apodemus,0.9166542679999999
+3034,TBE virus,Apodemus,0.7466977290000001
+3035,TBE virus,Apodemus,0.811348455
+3036,WNV,white stork,0.811348455
+3037,IHC,T merula,0.811348455
+3038,IHC,T merula,0.811348455
+3039,IHC,T merula,0.811348455
+3040,IHC,T merula,0.811348455
+3041,IHC,Turdus merula,0.811348455
+3042,West Nile virus,Lemur catta,0.9988415759999999
+3043,West Nile virus,Ring  tailed lemur,0.9988415759999999
+3044,West Nile virus,Propithecus verreauxi,0.894728836
+3045,West Nile virus,Barbary macaque,0.9602245490000001
+3046,West Nile virus,Macaca sylvanus,0.9602245490000001
+3047,West Nile virus,Propithecus coquereli,0.9602245490000001
+3048,West Nile virus,Brown lemur,0.973371329
+3049,West Nile virus,Lepilemur edwardsi,0.9927208340000001
+3050,West Nile virus,Papio cynocephalus,0.9602245490000001
+3051,West Nile virus,Weasel,0.894728836
+3052,TBE,monkeys,0.811348455
+3053,SIN,human,0.294076903
+3054,SIN,human,0.294076903
+3055,JEV,pig,0.7697305259999999
+3056,AAHL,pig,0.7697305259999999
+3057,MVEV,pig,0.7697305259999999
+3058,JEV,pig,0.7697305259999999
+3059,KUNV,pig,0.7697305259999999
+3060,USUV,Turdus merula,0.9965950259999999
+3061,OKHV,Sheep,0.535475279
+3062,DHOV,Sheep,0.7697305259999999
+3063,MYKV,Sheep,0.811348455
+3064,TDMV,Sheep,0.811348455
+3065,THOV,Sheep,0.811348455
+3066,BAUV,Sheep,0.811348455
+3067,CWV,Sheep,0.811348455
+3068,Louping ill virus,sheep,0.9916422090000001
+3069,LIV,sheep,0.9723201490000001
+3070,WNV,Milvus migrans,0.7697305259999999
+3071,WNV,Accipiter gentilis,0.7697305259999999
+3072,WNV,Haliaeetus albicilla,0.7697305259999999
+3073,Dakar bat virus,Mops condylurus,0.9035593820000001
+3074,Dakar bat virus,Rhinolophus hildebrandtii,0.9035593820000001
+3075,Dakar bat virus,Rousettus aegyptiacus,0.989716913
+3076,Dakar bat virus,eloquent horseshoe bat,0.9035593820000001
+3077,Dakar bat virus,Egyptian fruit bat,0.989716913
+3078,Dakar bat virus,Mops condylurus,0.978352628
+3079,Dakar bat virus,Rhinolophus hildebrandtii,0.7379873859999999
+3080,Dakar bat virus,Rousettus aegyptiacus,0.7379873859999999
+3081,Dakar bat virus,eloquent horseshoe bat,0.7379873859999999
+3082,Dakar bat virus,Egyptian fruit bat,0.7379873859999999
+3083,ENTV,Mops condylurus,0.7737268959999999
+3084,ENTV,Rhinolophus hildebrandtii,0.7737268959999999
+3085,ENTV,Rousettus aegyptiacus,0.9723201490000001
+3086,ENTV,eloquent horseshoe bat,0.7737268959999999
+3087,ENTV,Egyptian fruit bat,0.9723201490000001
+3088,Bukalasa bat virus,Mops condylurus,0.978352628
+3089,Bukalasa bat virus,Rhinolophus hildebrandtii,0.92374338
+3090,Bukalasa bat virus,Rousettus aegyptiacus,0.7379873859999999
+3091,Bukalasa bat virus,eloquent horseshoe bat,0.9916422090000001
+3092,Bukalasa bat virus,Egyptian fruit bat,0.7379873859999999
+3093,ENTV,Mops condylurus,0.9035593820000001
+3094,ENTV,Rhinolophus hildebrandtii,0.9035593820000001
+3095,ENTV,Rousettus aegyptiacus,0.9690578390000001
+3096,ENTV,eloquent horseshoe bat,0.9035593820000001
+3097,ENTV,Egyptian fruit bat,0.9035593820000001
+3098,Entebbe bat virus,Mops condylurus,0.7737268959999999
+3099,Entebbe bat virus,Rhinolophus hildebrandtii,0.7737268959999999
+3100,Entebbe bat virus,Rousettus aegyptiacus,0.9723201490000001
+3101,Entebbe bat virus,eloquent horseshoe bat,0.7737268959999999
+3102,Entebbe bat virus,Egyptian fruit bat,0.9723201490000001
+3103,ENTV,Mops condylurus,0.9035593820000001
+3104,ENTV,Rhinolophus hildebrandtii,0.9035593820000001
+3105,ENTV,Rousettus aegyptiacus,0.9035593820000001
+3106,ENTV,eloquent horseshoe bat,0.9035593820000001
+3107,ENTV,Egyptian fruit bat,0.9035593820000001
+3108,Bukalasa bat virus,Mops condylurus,0.7737268959999999
+3109,Bukalasa bat virus,Rhinolophus hildebrandtii,0.7737268959999999
+3110,Bukalasa bat virus,Rousettus aegyptiacus,0.9723201490000001
+3111,Bukalasa bat virus,eloquent horseshoe bat,0.7737268959999999
+3112,Bukalasa bat virus,Egyptian fruit bat,0.9723201490000001
+3113,USUV,human,0.811348455
+3114,TBE,dog,0.811348455
+3115,TBE,dog,0.978352628
+3116,TBE,horse,0.811348455
+3117,JE virus,dog,0.9723201490000001
+3118,JE virus,dog,0.9723201490000001
+3119,JE virus,horse,0.9723201490000001
+3120,TBE virus,dog,0.9723201490000001
+3121,TBE virus,dog,0.9916422090000001
+3122,TBE virus,horse,0.9723201490000001
+3123,TBEV,red deer,0.9916422090000001
+3124,FBS,green monkey,0.7697305259999999
+3125, FBS ,green monkey,0.7697305259999999
+3126,WNV,pig,0.811348455
+3127,WNV,blackbird,0.7697305259999999
+3128,WNV,pig,0.811348455
+3129,WNV,blackbird,0.7697305259999999
+3130,USUV,pig,0.811348455
+3131,USUV,blackbird,0.811348455
+3132,Japanese encephalitis virus,Macaca nemestrina,0.811348455
+3133,chikungunya virus,Macaca nemestrina,0.811348455
+3134,dengue virus,Macaca nemestrina,0.811348455
+3135,TBE,human,0.811348455
+3136,louping ill virus,sheep,0.9778846520000001
+3137,louping ill virus,mice,0.9778846520000001
+3138,louping ill virus,pig,0.9778846520000001
+3139,MVEV,horse,0.9905223470000001
+3140,MVEV,Nankeen night heron,0.9105029590000001
+3141, WNV ,horse,0.977576962
+3142, WNV ,Nankeen night heron,0.7697305259999999
+3143,Japanese encephalitis,horse,0.977576962
+3144,Japanese encephalitis,Nankeen night heron,0.7697305259999999
+3145,West Nile virus,horse,0.977576962
+3146,West Nile virus,Nankeen night heron,0.7697305259999999
+3147,MVEV,horse,0.971434713
+3148,MVEV,Nankeen night heron,0.9105029590000001
+3149,ZIKV,human,0.996435718
+3150,TBEV,horse,0.846764195
+3151,WNV,horse,0.846764195
+3152,eastern equine encephalitis virus,Caracara cheriway,0.911581805
+3153, EEEV ,Caracara cheriway,0.911581805
+3154, WNV ,Caracara cheriway,0.911581805
+3155, FLAV ,Caracara cheriway,0.7703678959999999
+3156, SLEV ,Caracara cheriway,0.911581805
+3157,West Nile virus,Caracara cheriway,0.911581805
+3158,WNV,striped skunk,0.5
+3159,West Nile virus,Gallus gallus domesticus,0.811348455
+3160,WNV,C modestus,0.92989707
+3161,West Nile virus,Tamiasciurus hudsonicus,0.733737337
+3162,West Nile virus,Brown rat,0.733737337
+3163,West Nile virus,Roof rat,0.733737337
+3164,West Nile virus,Sciurus griseus,0.733737337
+3165,West Nile virus,Tamias striatus,0.733737337
+3166,West Nile virus,Sciurus carolinensis,0.733737337
+3167,West Nile virus,Hispid cotton rat,0.534446059
+3168,West Nile virus,Rattus norvegicus,0.7698757970000001
+3169,West Nile virus,Fox squirrel,0.984849063
+3170,West Nile virus,Rattus norvegicus,0.733737337
+3171,West Nile virus,R rattus,0.733737337
+3172,West Nile virus,Sciurus niger,0.984849063
+3173,West Nile virus,Sigmodon hispidus,0.534446059
+3174,West Nile virus,Rattus rattus,0.733737337
+3175,West Nile virus,Rattus sp,0.733737337
+3176,West Nile virus,R rattus,0.911357504
+3177,West Nile virus,R rattus,0.733737337
+3178,West Nile virus,R rattus,0.7698757970000001
+3179,West Nile virus,Red squirrel,0.733737337
+3180,West Nile virus,Western gray squirrel,0.733737337
+3181,West Nile virus,European ground squirrel,0.733737337
+3182,West Nile virus,Eastern gray squirrel,0.733737337
+3183,West Nile virus,Eastern chipmunk,0.733737337
+3184,WNV,Tamiasciurus hudsonicus,0.733737337
+3185,WNV,Brown rat,0.733737337
+3186,WNV,Roof rat,0.733737337
+3187,WNV,Sciurus griseus,0.733737337
+3188,WNV,Tamias striatus,0.733737337
+3189,WNV,Sciurus carolinensis,0.733737337
+3190,WNV,Hispid cotton rat,0.534446059
+3191,WNV,Rattus norvegicus,0.984849063
+3192,WNV,Fox squirrel,0.733737337
+3193,WNV,Rattus norvegicus,0.733737337
+3194,WNV,R rattus,0.733737337
+3195,WNV,Sciurus niger,0.733737337
+3196,WNV,Sigmodon hispidus,0.534446059
+3197,WNV,Rattus rattus,0.733737337
+3198,WNV,Rattus sp,0.733737337
+3199,WNV,R rattus,0.911357504
+3200,WNV,R rattus,0.733737337
+3201,WNV,R rattus,0.964274318
+3202,WNV,Red squirrel,0.733737337
+3203,WNV,Western gray squirrel,0.733737337
+3204,WNV,European ground squirrel,0.733737337
+3205,WNV,Eastern gray squirrel,0.733737337
+3206,WNV,Eastern chipmunk,0.733737337
+3207,SLEV,Taraba major,0.7698757970000001
+3208,SLEV,Troglodytes aedon,0.911357504
+3209,WNV,Falco sparverius,0.9166542679999999
+3210,WNV,American kestrel,0.9166542679999999
+3211,TBEV,Myodes glareolus,0.811348455
+3212,TBEV,Myodes rufocanus,0.811348455
+3213,TBEV,goat,0.452557473
+3214,TBEV,Microtus agrestis,0.811348455
+3215,TBEV,Apodemus flavicollis,0.811348455
+3216,TBEV,Sciurus vulgaris,0.811348455
+3217,TBEV,cattle,0.452557473
+3218,TBEV,euro,0.811348455
+3219,TBEV,Sorex araneus,0.92989707
+3220,TBEV,sheep,0.452557473
+3221,TBEV,Erinaceus concolor,0.780477858
+3222,TBEV,Apodemus sylvaticus,0.811348455
+3223,TBEV,Apodemus,0.294076903
+3224,Modoc,deer mouse,0.918637574
+3225,Modoc virus,mice,0.99869619
+3226,TBE,monkey,0.7697305259999999
+3227,Kyasanur Forest disease,monkeys,0.9916422090000001
+3228,USUV,chicken,0.7697305259999999
+3229,WNV,human,0.294076903
+3230,WNV,human,0.294076903
+3231,Langat,Dog,0.9131081529999999
+3232,TBE,Dog,0.9131081529999999
+3233,Murray Valley encephalitis virus,horse,0.991338518
+3234,WNV,Mice,0.7697305259999999
+3235,WNV,mice,0.7697305259999999
+3236,WNV,human,0.7697305259999999
+3237,WNV,cattle,0.21137518
+3238,WNV,cattle,0.21137518
+3239,WNV,cattle,0.21137518
+3240,WNV,cattle,0.21137518
+3241,Powassan virus,sheep,0.21137518
+3242,MEAV,sheep,0.21137518
+3243,Kokobera virus,sheep,0.5
+3244,ILHV,sheep,0.21137518
+3245,RBV,sheep,0.21137518
+3246,Langat virus,sheep,0.21137518
+3247,Kyasanur forest disease virus,sheep,0.21137518
+3248,Dengue virus,sheep,0.21137518
+3249,IGUV,sheep,0.5
+3250,POWV,sheep,0.21137518
+3251,YFV,sheep,0.21137518
+3252,KOKV,sheep,0.5
+3253,Gadgets Gully virus,sheep,0.21137518
+3254,Entebbe bat virus,sheep,0.5
+3255,Saumarez Reef virus,sheep,0.21137518
+3256,Modoc virus,sheep,0.21137518
+3257,Montana myotis leukoencephalitis virus,sheep,0.21137518
+3258,Dengue virus,sheep,0.21137518
+3259,Omsk hemorrhagic fever virus,sheep,0.21137518
+3260,BSQV,sheep,0.5
+3261,Aroa virus,sheep,0.5
+3262,KFDV,sheep,0.21137518
+3263,Murray Valley encephalitis virus,sheep,0.21137518
+3264,ENTV,sheep,0.5
+3265,Kadam virus,sheep,0.21137518
+3266,Royal Farm virus,sheep,0.21137518
+3267,Bagaza virus,sheep,0.21137518
+3268,AHFV,sheep,0.21137518
+3269,Yokose virus,sheep,0.5
+3270,West Nile virus,sheep,0.21137518
+3271,Louping ill virus,sheep,0.5
+3272,OHFV,sheep,0.21137518
+3273,BAGV,sheep,0.21137518
+3274,tick  borne encephalitis,sheep,0.5
+3275,Japanese encephalitis virus,sheep,0.21137518
+3276,Tyuleniy virus,sheep,0.21137518
+3277,Dengue virus,sheep,0.21137518
+3278,MVEV,sheep,0.21137518
+3279,Apoi virus,sheep,0.21137518
+3280,WNV,sheep,0.21137518
+3281,LIV,sheep,0.5
+3282,ROCV,sheep,0.21137518
+3283,Usutu virus,sheep,0.21137518
+3284,SLEV,sheep,0.21137518
+3285,KUNV,sheep,0.21137518
+3286,TYUV,sheep,0.21137518
+3287,Meaban virus,sheep,0.21137518
+3288,Ilheus virus,sheep,0.21137518
+3289,Rio Bravo virus,sheep,0.21137518
+3290,USUV,sheep,0.21137518
+3291,JEV,sheep,0.21137518
+3292,Dengue virus,sheep,0.21137518
+3293,tick  borne encephalitis virus,sheep,0.5
+3294,Yellow fever virus,sheep,0.21137518
+3295,Tick  borne encephalitis,sheep,0.21137518
+3296,Yellow fever virus,sheep,0.21137518
+3297,TBE,dog,0.7697305259999999
+3298,JEV,human,0.811348455
+3299,TBEV,Turdus iliacus,0.9199528990000001
+3300,ZIKV,human,0.7697305259999999
+3301,ZIKV,human,0.7697305259999999
+3302,WNV,C modestus,0.811348455
+3303,WEST NILE VIRUS,C modestus,0.811348455
+3304,EEEV,Cyanocitta cristata,0.9102092140000001
+3305,WNV,Cyanocitta cristata,0.9102092140000001
+3306,LIV,goat,0.811348455
+3307,LIV,sheep,0.811348455
+3308,Louping ill,Sheep,0.811348455
+3309,Louping ill,human,0.521006723
+3310,tick  borne encephalitis virus,Sheep,0.7697305259999999
+3311,tick  borne encephalitis virus,human,0.245508239
+3312,Omsk hemorrhagic fever,Sheep,0.7697305259999999
+3313,Omsk hemorrhagic fever,human,0.245508239
+3314,tick  borne encephalitis,Sheep,0.811348455
+3315,tick  borne encephalitis,human,0.7697305259999999
+3316,Powassan,Sheep,0.7697305259999999
+3317,Powassan,human,0.245508239
+3318,ENTV,little free  tailed bat,0.991421861
+3319,USUV,rabbit,0.7697305259999999
+3320,USUV,T pilaris,0.7355591509999999
+3321,USUV,Turdus iliacus,0.45418465700000005
+3322,WNV,Corvus brachyrhynchos,0.811348455
+3323,WNV,American Crow,0.811348455
+3324,TBE,human,0.7697305259999999
+3325,SMRV,Cygnus olor,0.500899866
+3326,WNV,Cygnus olor,0.911581805
+3327,SMRV,Cygnus olor,0.500899866
+3328,SMRV,Cygnus olor,0.911581805
+3329,WNV,Cygnus olor,0.7703678959999999
+3330,SMRV,Cygnus olor,0.500899866
+3331,TBE,human,0.811348455
+3332,TBEV,sheep,0.977576962
+3333,TBEV,goat,0.977576962
+3334,TBE,sheep,0.991338518
+3335,TBE,goat,0.991338518
+3336,KFD,human,0.811348455
+3337,WNV,Mephitis mephitis,0.9927208340000001
+3338,WNV,striped skunk,0.9927208340000001
+3339,TBE,human,0.811348455
+3340,TBE,human,0.7697305259999999
+3341,Royal farm virus,human,0.9116732940000001
+3342,Kadam virus,human,0.9116732940000001
+3343,TBEV,Microtus arvalis,0.971334661
+3344,West Nile Virus,Human,0.811348455
+3345,WNV,human,0.997274792
+3346,JEV,human,0.9739322640000001
+3347,SLEV,human,0.997274792
+3348,JEV,human,0.8967706940000001
+3349,USUV,Strix nebulosa,0.9102092140000001
+3350,USUV,Aegolius funereus,0.9102092140000001
+3351,USUV,great grey owl,0.9102092140000001
+3352,USUV,Strix nebulosa,0.962856983
+3353,USUV,Aegolius funereus,0.962856983
+3354,USUV,great grey owl,0.962856983
+3355, WNV ,Strix nebulosa,0.962856983
+3356, WNV ,Aegolius funereus,0.962856983
+3357, WNV ,great grey owl,0.894014078
+3358,West Nile virus,Strix nebulosa,0.962856983
+3359,West Nile virus,Aegolius funereus,0.962856983
+3360,West Nile virus,great grey owl,0.962856983
+3361,Usutu virus,human,0.971334661
+3362,Louping Ill,Len,0.521006723
+3363,Louping Ill,Len,0.521006723
+3364,TBE,human,0.294076903
+3365,TBE,human,0.294076903
+3366, TBEV ,blackbird,0.7697305259999999
+3367,West Nile,blackbird,0.521006723
+3368,USUV,blackbird,0.811348455
+3369,Entebbe bat,little free  tailed bat,0.978352628
+3370,Entebbe bat,Chaerephon pumilus,0.978352628
+3371,Rio Bravo virus,little free  tailed bat,0.7379873859999999
+3372,Rio Bravo virus,Chaerephon pumilus,0.7379873859999999
+3373,West Nile virus,Falco sparverius,0.811348455
+3374,mem,sheep,0.7697305259999999
+3375,tick  borne encephalitis,sheep,0.7697305259999999
+3376,IFA,Pandion haliaetus,0.7697305259999999
+3377,WNV,Pandion haliaetus,0.7697305259999999
+3378,SLEV,Bay  winged Cowbird,0.9166542679999999
+3379,SLEV,Rufous Hornero,0.9166542679999999
+3380,SLEV,Bay  winged Cowbird,0.7697305259999999
+3381,SLEV,Rufous Hornero,0.8952688259999999
+3382,CGLV,Choloepus hoffmanni,0.7697305259999999
+3383,CGLV,Bradypus variegatus,0.7697305259999999
+3384,ILHV,Choloepus hoffmanni,0.7697305259999999
+3385,ILHV,Bradypus variegatus,0.7697305259999999
+3386,WNV,Ciconia ciconia,0.911581805
+3387,IFA,Ciconia ciconia,0.911581805
+3388,WNV,Ciconia ciconia,0.911581805
+3389,Yersinia,Cynomys mexicanus,0.978352628
+3390,TBEV,A pallipes,0.97136427
+3391,TBEV,mice,0.97136427
+3392,ASFV,mouse,0.5
+3393,ASFV,Pig,0.5
+3394,SLE,human,0.92989707
+3395,SLE,cattle,0.92989707
+3396,WNV,jay,0.92989707
+3397,Tick  Borne Encephalitis Virus,Microtus arvalis,0.971334661
+3398,tick  borne encephalitis,roe deer,0.7697305259999999
+3399,DENV,Didelphis marsupialis,0.811348455
+3400,Langat,dog,0.5
+3401,Langat,dog,0.5
+3402,RSSE,dog,0.5
+3403,RSSE,dog,0.5
+3404,tick  borne encephalitis,human,0.991338518
+3405,TBEV,M arvalis,0.977576962
+3406,TBEV,M arvalis,0.977576962
+3407,TBEV,M arvalis,0.971334661
+3408,SLE virus,killer whale,0.7697305259999999
+3409,CDC,killer whale,0.7697305259999999
+3410,SLE,killer whale,0.7697305259999999
+3411,BAGV,human,0.406677151
+3412,ZIKV,monkey,0.5
+3413,West Nile,chicken,0.644473812
+3414,CNS,human,0.5
+3415,MVE,human,0.5
+3416,SLE,human,0.5
+3417,WNV,Dama dama,0.9914590209999999
+3418,WNV,European roe,0.996435718
+3419,WNV,Capreolus capreolus,0.996435718
+3420,WNV,fallow deer,0.996435718
+3421,WNV,Ovis aries,0.9778846520000001
+3422,WNV,Cervus elaphus,0.9914590209999999
+3423,WNV,red sheep,0.9914590209999999
+3424,WNV,red deer,0.9914590209999999
+3425,TBE,horse,0.718884883
+3426,TBE,dog,0.718884883
+3427,TBE,horse,0.718884883
+3428,TBE,dog,0.718884883
+3429,FITC,Rabbit,0.811348455
+3430,FITC,Goat,0.811348455
+3431, WNV ,mouse,0.971334661
+3432, ABC ,mouse,0.977576962
+3433,TBEV,Myodes glareolus,0.9778846520000001
+3434,TBEV,Apodemus sylvaticus,0.9914590209999999
+3435,TBEV,Microtus agrestis,0.9914590209999999
+3436,TBEV,Apodemus agrarius,0.996435718
+3437,TBEV,Microtus arvalis,0.9778846520000001
+3438,TBEV,Apodemus flavicollis,0.996435718
+3439,yellow fever,mice,0.9102092140000001
+3440,dengue,mice,0.9102092140000001
+3441,TBE,human,0.991338518
+3442,MEAV,human,0.911357504
+3443,MEAV,human,0.91832782
+3444,HIT,human,0.911357504
+3445,HIT,human,0.810714404
+3446,JEV,Black  crowned Night Heron,0.811348455
+3447,JEV,Bubulcus ibis,0.811348455
+3448,JEV,Cattle Egret,0.811348455
+3449,JEV,Sus scrofa,0.811348455
+3450,JEV,Nycticorax nycticorax,0.811348455
+3451,JEV,swine,0.811348455
+3452,WNV,human,0.811348455
+3453,WNV,horse,0.811348455
+3454,TBE,human,0.811348455
+3455,TBE,human,0.7697305259999999
+3456,TBE,human,0.7697305259999999
+3457,IFA,C ciconia,0.911581805
+3458,IFA,P haliaetus,0.911581805
+3459,IFA,Phoenicurus phoenicurus,0.911581805
+3460,WNV,C ciconia,0.911581805
+3461,WNV,P haliaetus,0.911581805
+3462,WNV,Phoenicurus phoenicurus,0.911581805
+3463,USUV,C ciconia,0.911581805
+3464,USUV,P haliaetus,0.911581805
+3465,USUV,Phoenicurus phoenicurus,0.911581805
+3466,dengue,monkeys,0.7697305259999999
+3467,yellow fever,monkeys,0.7697305259999999
+3468,WNV,western Mediterranean mouse,0.964528101
+3469,WNV,Apodemus,0.811348455
+3470,WNV,long  tailed field mouse,0.811348455
+3471,WNV,Mus spretus,0.918637574
+3472,WNV,mouse,0.811348455
+3473,WNV,Apodemus sylvaticus,0.535475279
+3474,TBE,red fox,0.8952688259999999
+3475,TBE,V vulpes,0.8952688259999999
+3476,USUV,Turdus merula,0.780477858
+3477,USUV,Eurasian Jay,0.92989707
+3478,USUV,Garrulus glandarius,0.92989707
+3479,USUV,Carrion Crow,0.92989707
+3480,USUV,Pica pica,0.92989707
+3481,USUV,Corvus corone cornix,0.92989707
+3482,USUV,European Starling,0.92989707
+3483,USUV,Magpie,0.92989707
+3484,USUV,Sturnus vulgaris,0.92989707
+3485,USUV,Eurasian Blackbird,0.780477858
+3486,WNV,Turdus merula,0.452557473
+3487,WNV,Eurasian Jay,0.92989707
+3488,WNV,Garrulus glandarius,0.92989707
+3489,WNV,Carrion Crow,0.92989707
+3490,WNV,Pica pica,0.92989707
+3491,WNV,Corvus corone cornix,0.92989707
+3492,WNV,European Starling,0.780477858
+3493,WNV,Magpie,0.92989707
+3494,WNV,Sturnus vulgaris,0.780477858
+3495,WNV,Eurasian Blackbird,0.452557473
+3496,USUV,Turdus merula,0.452557473
+3497,USUV,Eurasian Jay,0.92989707
+3498,USUV,Garrulus glandarius,0.92989707
+3499,USUV,Carrion Crow,0.92989707
+3500,USUV,Pica pica,0.92989707
+3501,USUV,Corvus corone cornix,0.92989707
+3502,USUV,European Starling,0.92989707
+3503,USUV,Magpie,0.92989707
+3504,USUV,Sturnus vulgaris,0.780477858
+3505,USUV,Eurasian Blackbird,0.780477858
+3506,WNV,Turdus merula,0.780477858
+3507,WNV,Eurasian Jay,0.92989707
+3508,WNV,Garrulus glandarius,0.92989707
+3509,WNV,Carrion Crow,0.92989707
+3510,WNV,Pica pica,0.92989707
+3511,WNV,Corvus corone cornix,0.92989707
+3512,WNV,European Starling,0.92989707
+3513,WNV,Magpie,0.92989707
+3514,WNV,Sturnus vulgaris,0.92989707
+3515,WNV,Eurasian Blackbird,0.780477858
+3516,TBEV,sheep,0.811348455
+3517,TBEV,rabbit,0.9778846520000001
+3518,Usutu virus,human,0.811348455
+3519,WNF,human,0.7697305259999999
+3520,WNF,human,0.7697305259999999
+3521,West Nile,human,0.7697305259999999
+3522,West Nile,human,0.811348455
+3523, WNF ,human,0.7697305259999999
+3524, WNF ,human,0.811348455
+3525,Japanese encephalitis virus,Turdus merula,0.9914590209999999
+3526,Usutu virus,Turdus merula,0.9963938929999999
+3527, USUV ,Turdus merula,0.9914590209999999
+3528,Usutu Virus,Turdus merula,0.922188745
+3529,West Nile,Human,0.811348455
+3530,West Nile,Human,0.811348455
+3531, SLEV ,Human,0.245508239
+3532, SLEV ,Human,0.245508239
+3533,West Nile,Human,0.811348455
+3534,West Nile,Human,0.7697305259999999
+3535,Cherry,duck,0.811348455
+3536,Cherry,duck,0.811348455
+3537,SLEV,human,0.811348455
+3538,TBEV,red deer,0.9916422090000001
+3539,TBEV,red deer,0.9723201490000001
+3540,SSEV,sheep,0.918637574
+3541,West Nile virus,Accipiter gentilis,0.9885914640000001
+3542,West Nile virus,Bubo virginianus,0.9885914640000001
+3543,TBEV,Turdus pallidus,0.9723201490000001
+3544,TBEV,T iliacus,0.9723201490000001
+3545,TBEV,Lanius cristatus,0.9723201490000001
+3546,TBEV,Emberiza fucata,0.9723201490000001
+3547,TBEV,Troglodytes troglodytes,0.9723201490000001
+3548,TBEV,T pilaris,0.9723201490000001
+3549,TBEV,Accipiter gentilis,0.9723201490000001
+3550,WNV,human,0.911581805
+3551, SSEV ,sheep,0.7697305259999999
+3552,Sindbis,human,0.811348455
+3553,WNV,Crowned Eagle,0.7697305259999999
+3554,WNV,lapwing,0.92989707
+3555,WNV,black  headed gull,0.92989707
+3556,WNV,Fulica atra,0.92989707
+3557,WNV,Larus ridibundus,0.92989707
+3558,WNV,turtle dove,0.92989707
+3559,WNV,common coot,0.92989707
+3560,WNV,garganey,0.92989707
+3561,WNV,Ciconia ciconia,0.92989707
+3562,WNV,white stork,0.92989707
+3563,WNV,Vanellus vanellus,0.92989707
+3564,TBEV,cattle,0.991233885
+3565,TBEV,Vulpes vulpes,0.991233885
+3566,TBEV,Capreolus capreolus,0.991233885
+3567,TBEV,roe deer,0.991233885
+3568,TBEV,red fox,0.991233885
+3569,TBEV,cattle,0.991233885
+3570,TBEV,Vulpes vulpes,0.996642646
+3571,TBEV,Capreolus capreolus,0.996642646
+3572,TBEV,roe deer,0.99860318
+3573,TBEV,red fox,0.996642646
+3574,TMB,horse,0.7697305259999999
+3575,Japanese encephalitis,human,0.811348455
+3576,FCS,mice,0.7697305259999999
+3577,FCS,mice,0.7697305259999999
+3578,FCS,mice,0.7697305259999999
+3579,SPOV,human,0.9116732940000001
+3580,TBEV,brambling,0.996272313
+3581,TBEV,brambling,0.9971002840000001
+3582,JEV,mice,0.9916422090000001
+3583,TBEV,red deer,0.971334661
+3584,TBEV,red deer,0.977576962
+3585,ALKV,sheep,0.9637842809999999
+3586,KFDV,sheep,0.9637842809999999
+3587,WNV,human,0.911581805
+3588,TBEV,cow,0.911581805
+3589,TBEV,cow,0.92989707
+3590,yellow fever,Human,0.7697305259999999
+3591,USUV,blackbird,0.92989707
+3592,TBEV,blackbird,0.911581805
+3593,SLEV,Crowned Eagle,0.97136427
+3594,TBEV,goat,0.811348455
+3595,USUV,human,0.9131081529999999
+3596,USUV,human,0.9131081529999999
+3597,West Nile virus,human,0.9131081529999999
+3598,West Nile virus,human,0.9131081529999999
+3599,USUV,human,0.9131081529999999
+3600,USUV,human,0.9131081529999999
+3601,Japanese encephalitis virus,human,0.9131081529999999
+3602,Japanese encephalitis virus,human,0.5
+3603,NKV,mice,0.294076903
+3604,TBE,human,0.7697305259999999
+3605,DENV,Marmosa murina,0.811348455
+3606,ZIKV,human,0.811348455
+3607,TBEV,mouse,0.9116732940000001
+3608,MVEV,mouse,0.9906540979999999
+3609,SPV,Sigmodon hispidus,0.965019996
+3610,SPV,white  footed mouse,0.9131081529999999
+3611,SPV,Peromyscus leucopus,0.9131081529999999
+3612,SVV,Sigmodon hispidus,0.9131081529999999
+3613,SVV,white  footed mouse,0.965019996
+3614,SVV,Peromyscus leucopus,0.965019996
+3615,JUTV,Sigmodon hispidus,0.965019996
+3616,JUTV,white  footed mouse,0.9131081529999999
+3617,JUTV,Peromyscus leucopus,0.9131081529999999
+3618,Cowbone Ridge virus,Sigmodon hispidus,0.965019996
+3619,Cowbone Ridge virus,white  footed mouse,0.9131081529999999
+3620,Cowbone Ridge virus,Peromyscus leucopus,0.9131081529999999
+3621,TBEV,cattle,0.8634331409999999
+3622,TBE,cattle,0.7241581509999999
+3623,TBE,cattle,0.5
+3624,DENV,human,0.971334661
+3625,dengue,human,0.977576962
+3626,JEV,horse,0.7697305259999999
+3627,CVL,horse,0.7697305259999999
+3628,yellow fever virus,monkeys,0.811348455
+3629,TBE,mouse,0.7697305259999999
+3630,TBE,rhesus monkey,0.7697305259999999
+3631,TBE,sheep,0.7697305259999999
+3632,TBE,pig,0.7697305259999999
+3633,WNV,pig,0.9199528990000001
+3634,louping ill,goat,0.7697305259999999
+3635,West Nile virus,Corvus mellori,0.7697305259999999
+3636,West Nile virus,little raven,0.7697305259999999
+3637,Zika virus,human,0.811348455
+3638,USUV,blackbird,0.977576962
+3639,Zika,Monkey,0.294076903
+3640,yellow fever,Monkey,0.294076903
+3641, INIA ,INIA,0.811348455
+3642,USUV,Anser anser,0.811348455
+3643,USUV,Gallus domesticus,0.811348455
+3644,USUV,chicken,0.811348455
+3645,USUV,Anser anser,0.811348455
+3646,USUV,Gallus domesticus,0.811348455
+3647,USUV,chicken,0.811348455
+3648,tick  borne encephalitis virus,Vulpes vulpes,0.7737268959999999
+3649,tick  borne encephalitis virus,red deer,0.7737268959999999
+3650,tick  borne encephalitis virus,Cervus elaphus,0.811348455
+3651,tick  borne encephalitis virus,red deer,0.811348455
+3652,tick  borne encephalitis virus,Vulpes vulpes,0.811348455
+3653,tick  borne encephalitis virus,Cervus elaphus,0.7737268959999999
+3654,tick  borne encephalitis virus,Vulpes vulpes,0.992100743
+3655,tick  borne encephalitis virus,red deer,0.996976277
+3656,tick  borne encephalitis virus,Cervus elaphus,0.886713702
+3657,tick  borne encephalitis virus,red deer,0.886713702
+3658,tick  borne encephalitis virus,Vulpes vulpes,0.886713702
+3659,tick  borne encephalitis virus,Cervus elaphus,0.996976277
+3660, TBEV ,Vulpes vulpes,0.992100743
+3661, TBEV ,red deer,0.996976277
+3662, TBEV ,Cervus elaphus,0.886713702
+3663, TBEV ,red deer,0.886713702
+3664, TBEV ,Vulpes vulpes,0.886713702
+3665, TBEV ,Cervus elaphus,0.996976277
+3666,TBEV,Vulpes vulpes,0.7737268959999999
+3667,TBEV,red deer,0.7737268959999999
+3668,TBEV,Cervus elaphus,0.811348455
+3669,TBEV,red deer,0.811348455
+3670,TBEV,Vulpes vulpes,0.811348455
+3671,TBEV,Cervus elaphus,0.7737268959999999
+3672,WNV,pale  breasted thrush,0.991338518
+3673,WNV,bananaquit,0.991338518
+3674,WNV,G gallus,0.991338518
+3675,WNV,C flaveola,0.991338518
+3676,WNV,chicken,0.977576962
+3677,WNV,T leucomelas,0.991338518
+3678,Chikungunya Virus,Monkey,0.811348455
+3679,Chikungunya Virus,monkey,0.7697305259999999
+3680,Chikungunya Virus,Macaca nemestrina,0.7697305259999999
+3681,Chikungunya Virus,Macaca nemestrina,0.811348455
+3682,Chikungunya virus,Monkey,0.811348455
+3683,Chikungunya virus,monkey,0.811348455
+3684,Chikungunya virus,Macaca nemestrina,0.811348455
+3685,Chikungunya virus,Macaca nemestrina,0.535475279
+3686,Japanese encephalitis,Monkey,0.535475279
+3687,Japanese encephalitis,monkey,0.811348455
+3688,Japanese encephalitis,Macaca nemestrina,0.811348455
+3689,Japanese encephalitis,Macaca nemestrina,0.535475279
+3690,Dengue,Monkey,0.535475279
+3691,Dengue,monkey,0.811348455
+3692,Dengue,Macaca nemestrina,0.811348455
+3693,Dengue,Macaca nemestrina,0.535475279
+3694,Japanese Encephalitis,Monkey,0.811348455
+3695,Japanese Encephalitis,monkey,0.7697305259999999
+3696,Japanese Encephalitis,Macaca nemestrina,0.7697305259999999
+3697,Japanese Encephalitis,Macaca nemestrina,0.811348455
+3698,Dengue,Monkey,0.811348455
+3699,Dengue,monkey,0.7697305259999999
+3700,Dengue,Macaca nemestrina,0.7697305259999999
+3701,Dengue,Macaca nemestrina,0.811348455
+3702,EEE,cattle,0.780477858
+3703,EEE,chicken,0.92989707
+3704,EEE,Glaucidium brasilianum,0.92989707
+3705,Pixuna,cattle,0.811348455
+3706,Pixuna,chicken,0.911581805
+3707,Pixuna,Glaucidium brasilianum,0.7697305259999999
+3708,Una,cattle,0.92989707
+3709,Una,chicken,0.911581805
+3710,Una,Glaucidium brasilianum,0.92989707
+3711,WNV,Passer domesticus,0.99637263
+3712,WNV,house sparrow,0.99637263
+3713,tick  borne encephalitis,cattle,0.811348455
+3714,USUTU VIRUS,house sparrow,0.811348455
+3715,louping ill virus,sheep,0.977576962
+3716,WNV,P montanus,0.984849063
+3717,WNV,Passer domesticus,0.984849063
+3718,TBEV,rabbit,0.7697305259999999
+3719,West Nile,Horse,0.997274792
+3720,NSW,Horse,0.9723201490000001
+3721, WNV ,human,0.811348455
+3722,WNV,human,0.7697305259999999
+3723,West Nile virus,human,0.811348455
+3724,West Nile,Cattle,0.5
+3725,West Nile,Dog,0.21137518
+3726,West Nile,Goat,0.5
+3727,Sindbis,Cattle,0.5
+3728,Sindbis,Dog,0.21137518
+3729,Sindbis,Goat,0.5
+3730,Langat,Cattle,0.5
+3731,Langat,Dog,0.21137518
+3732,Langat,Goat,0.5
+3733,TBEV,red deer,0.9723201490000001
+3734,TBEV,red deer,0.9916422090000001
+3735,TBE,Cervus elaphus,0.7697305259999999
+3736,TBE,Cervus elaphus,0.7697305259999999
+3737,TBEVVRBCro,red deer,0.9916422090000001
+3738,TBEVStrosinci,red deer,0.978352628
+3739,Chikungunya,Rhesus macaque,0.811348455
+3740,TBE,human,0.7697305259999999
+3741,WNV,magpie,0.9906540979999999
+3742,JEV,mouse,0.92989707
+3743,JEV,horse,0.92989707
+3744,JEV,mouse,0.92989707
+3745,JEV,horse,0.92989707
+3746,dengue virus,Macaca sinica,0.997175185
+3747,WNV,chicken,0.92989707
+3748,WNV,horse,0.92989707
+3749,EEEV,chicken,0.911581805
+3750,EEEV,horse,0.92989707
+3751,SLEV,chicken,0.92989707
+3752,SLEV,horse,0.92989707
+3753,TBE virus,dog,0.7697305259999999
+3754,TBE virus,horse,0.7697305259999999
+3755,TBEV,red deer,0.997425108
+3756,TBE,red deer,0.7697305259999999
+3757,TBE,Cervus elaphus,0.7697305259999999
+3758,TBE,red deer,0.7697305259999999
+3759,USUV,chicken,0.7697305259999999
+3760,vEE,Peromyscus leucopus,0.535475279
+3761,vEE,Lynx,0.811348455
+3762,vEE,Baiomys taylori,0.535475279
+3763,vEE,Neotoma mexicana,0.21137518
+3764,vEE,Mephitis mephitis,0.811348455
+3765,vEE,Procyon lotor,0.811348455
+3766,vEE,Odocoileus virginianus,0.811348455
+3767,VEE,Peromyscus leucopus,0.535475279
+3768,VEE,Lynx,0.811348455
+3769,VEE,Baiomys taylori,0.535475279
+3770,VEE,Neotoma mexicana,0.535475279
+3771,VEE,Mephitis mephitis,0.811348455
+3772,VEE,Procyon lotor,0.811348455
+3773,VEE,Odocoileus virginianus,0.811348455
+3774,VSV,Peromyscus leucopus,0.535475279
+3775,VSV,Lynx,0.811348455
+3776,VSV,Baiomys taylori,0.21137518
+3777,VSV,Neotoma mexicana,0.21137518
+3778,VSV,Mephitis mephitis,0.811348455
+3779,VSV,Procyon lotor,0.811348455
+3780,VSV,Odocoileus virginianus,0.811348455
+3781,vSV,Peromyscus leucopus,0.535475279
+3782,vSV,Lynx,0.811348455
+3783,vSV,Baiomys taylori,0.535475279
+3784,vSV,Neotoma mexicana,0.21137518
+3785,vSV,Mephitis mephitis,0.811348455
+3786,vSV,Procyon lotor,0.811348455
+3787,vSV,Odocoileus virginianus,0.811348455
+3788,TBE,human,0.7697305259999999
+3789,WNV,Roman mole,0.811348455
+3790,WNV,Talpa romana,0.811348455
+3791,West Nile virus,human,0.7697305259999999
+3792, SLEV ,human,0.7697305259999999
+3793,JEV,human,0.7697305259999999
+3794,Murray Valley encephalitis virus,human,0.7697305259999999
+3795, WNV ,human,0.7697305259999999
+3796, MVEV ,human,0.7697305259999999
+3797,Japanese encephalitis virus,human,0.811348455
+3798, JEV ,human,0.811348455
+3799,Saint Louis encephalitis virus,human,0.7697305259999999
+3800,WNV,American kestrel,0.811348455
+3801,TBE,Monkey,0.245508239
+3802,TBE,Macaca sylvanus,0.245508239
+3803,TBE,monkey,0.5
+3804,TBE,Macaca sylvanus,0.5
+3805, TBE ,Monkey,0.245508239
+3806, TBE ,Macaca sylvanus,0.245508239
+3807, TBE ,monkey,0.5
+3808, TBE ,Macaca sylvanus,0.5
+3809,WNV,House Sparrow,0.811348455
+3810,WNV,Passer domesticus,0.811348455
+3811,WNV,Hemignathus virens,0.811348455
+3812,WNV,House Finch,0.811348455
+3813,WNV,Carpodacus mexicanus,0.811348455
+3814,SLEV,House Sparrow,0.811348455
+3815,SLEV,Passer domesticus,0.811348455
+3816,SLEV,Hemignathus virens,0.811348455
+3817,SLEV,House Finch,0.811348455
+3818,SLEV,Carpodacus mexicanus,0.811348455
+3819,TBE,Vulpes vulpes,0.7697305259999999
+3820,TBEV,Vulpes vulpes,0.326992165
+3821,TBE,Vulpes vulpes,0.644473812
+3822,TBE,human,0.811348455
+3823,CHIK,monkeys,0.92989707
+3824,CHIK,human,0.992618001
+3825,CHIK,monkeys,0.911581805
+3826,CHIK,human,0.992618001
+3827,TBE,human,0.7697305259999999
+3828,Louping Ill,sheep,0.535475279
+3829,louping ill,sheep,0.811348455
+3830,FITC,Rabbit,0.7697305259999999
+3831,FITC,chicken,0.7697305259999999
+3832,SLEV,human,0.9916422090000001
+3833,EEEV,human,0.9723201490000001
+3834,WNV,human,0.9916422090000001
+3835,Usutu,Larus ridibundus,0.7697305259999999
+3836,Usutu,black  headed gull,0.7697305259999999
+3837,TBEV,M arvalis,0.989491973
+3838,USUV,T merula,0.92989707
+3839,USUV,Blackbird,0.92989707
+3840,EEE,human,0.911581805
+3841,EEE virus,human,0.911581805
+3842,Murray Valley encephalitis virus,horse,0.971334661
+3843,Murray Valley encephalitis virus,human,0.811348455
+3844,MVEV,horse,0.9168477759999999
+3845,MVEV,human,0.811348455
+3846,Murray Valley encephalitis virus,horse,0.991338518
+3847,Murray Valley encephalitis virus,human,0.730967357
+3848,IHC,horse,0.21137518
+3849,IHC,Elephas maximus,0.21137518
+3850,IHC,Red deer,0.5
+3851,IHC,Mountain goat,0.294076903
+3852,IHC,Cervus elaphus,0.5
+3853,IHC,Rhinoceros unicornis,0.21137518
+3854,IHC,Rangifer tarandus,0.5
+3855,IHC,Equus caballus,0.21137518
+3856,IHC,Oreamnos americanus,0.294076903
+3857,IHC,Fallow deer,0.5
+3858,IHC,White  tailed deer,0.245508239
+3859,IHC,Dama dama,0.5
+3860,IHC,European roe,0.245508239
+3861,IHC,Roman mole,0.245508239
+3862,IHC,Asian elephant,0.21137518
+3863,IHC,Indian rhinoceros,0.21137518
+3864,IHC,Odocoileus virginianus,0.245508239
+3865,IHC,Capreolus capreolus,0.245508239
+3866,IHC,Talpa romana,0.245508239
+3867,IHC,Reindeer,0.5
+3868,IHC,Red sheep,0.5
+3869,DENV,human,0.811348455
+3870,JEV,human,0.811348455
+3871,bluetongue virus,sheep,0.5158127220000001
+3872,Japanese encephalitis,human,0.7697305259999999
+3873,USUV,human,0.977576962
+3874,TBE virus,human,0.950122712
+3875,Bluetongue,cattle,0.811348455
+3876,Bluetongue,sheep,0.811348455
+3877,MEAV,mouse,0.7697305259999999
+3878,DENV,Human,0.971334661
+3879,JEV,Human,0.971334661
+3880,TBEVTikves,red deer,0.9916422090000001
+3881,TBEVSDjCro,red deer,0.9916422090000001
+3882,TBEVVRBCro,red deer,0.978352628
+3883,TBEV,red deer,0.9916422090000001
+3884,TBEVVZCro,red deer,0.9916422090000001
+3885,West Nile virus,Asian house shrew,0.9988415759999999
+3886,West Nile virus,Suncus murinus,0.9988415759999999
+3887,West Nile virus,Crocidura russula,0.9927208340000001
+3888,West Nile virus,yellow baboon,0.9906540979999999
+3889,West Nile virus,African giant shrew,0.973371329
+3890,West Nile virus,Papio cynocephalus,0.9906540979999999
+3891,West Nile virus,Crocidura zaphiri,0.973371329
+3892,West Nile virus,Greater white  toothed shrew,0.997214713
+3893,West Nile virus,Papio anubis,0.9906540979999999
+3894,West Nile virus,olive baboon,0.9718242579999999
+3895,TBEV,Turdus pilaris,0.9914590209999999
+3896,USUV,Garden Warbler,0.7697305259999999
+3897,USUV,Nightingale,0.7697305259999999
+3898,TBEV,Sheep,0.7697305259999999
+3899,TBEV,monkey,0.7697305259999999
+3900,DENV,monkeys,0.7697305259999999
+3901,dengue,monkeys,0.811348455
+3902,JEV,monkeys,0.7697305259999999
+3903,TBE,human,0.245508239
+3904,TBE,human,0.811348455
+3905,TBE,human,0.521006723
+3906,WNV,monkeys,0.811348455
+3907,WNV,Alouatta caraya,0.811348455
+3908,WNV,black howler,0.811348455
+3909,WNV,monkeys,0.811348455
+3910,WNV,Alouatta caraya,0.811348455
+3911,WNV,black howler,0.811348455
+3912,WNV,Oryctolagus cuniculus,0.918637574
+3913,WNV,rabbits,0.918637574
+3914,USUV,Turdus merula,0.811348455
+3915,USUV,Strix nebulosa,0.811348455
+3916,WNV,Accipiter nisus,0.452557473
+3917,WNV,Accipiter gentilis,0.452557473
+3918,WNV,Fulica atra,0.452557473
+3919,WNV,Osprey,0.780477858
+3920,WNV,White Stork,0.92989707
+3921,WNV,Grey Heron,0.92989707
+3922,WNV,Mute Swan,0.92989707
+3923,WNV,Columba livia,0.452557473
+3924,WNV,Columba palumbus,0.452557473
+3925,WNV,Western Marsh Harrier,0.452557473
+3926,WNV,Circus aeruginosus,0.452557473
+3927,WNV,Pandion haliaetus,0.780477858
+3928,WNV,Cygnus olor,0.92989707
+3929,WNV,Ardea cinerea,0.92989707
+3930,WNV,Ciconia ciconia,0.92989707
+3931,WNV,Common Buzzard,0.452557473
+3932,WNV,Common Kestrel,0.452557473
+3933,WNV,Buteo buteo,0.452557473
+3934,WNV,Northern Goshawk,0.452557473
+3935,WNV,Pigeon,0.452557473
+3936,WNV,Falco tinnunculus,0.452557473
+3937,WNV,Eurasian Coot,0.452557473
+3938,WNV,Common Wood Pigeon,0.452557473
+3939,WNV,Common Pigeon,0.452557473
+3940,USUV,Accipiter nisus,0.452557473
+3941,USUV,Accipiter gentilis,0.452557473
+3942,USUV,Fulica atra,0.452557473
+3943,USUV,Osprey,0.780477858
+3944,USUV,White Stork,0.92989707
+3945,USUV,Grey Heron,0.92989707
+3946,USUV,Mute Swan,0.92989707
+3947,USUV,Columba livia,0.452557473
+3948,USUV,Columba palumbus,0.452557473
+3949,USUV,Western Marsh Harrier,0.452557473
+3950,USUV,Circus aeruginosus,0.452557473
+3951,USUV,Pandion haliaetus,0.780477858
+3952,USUV,Cygnus olor,0.92989707
+3953,USUV,Ardea cinerea,0.92989707
+3954,USUV,Ciconia ciconia,0.92989707
+3955,USUV,Common Buzzard,0.452557473
+3956,USUV,Common Kestrel,0.452557473
+3957,USUV,Buteo buteo,0.452557473
+3958,USUV,Northern Goshawk,0.452557473
+3959,USUV,Pigeon,0.452557473
+3960,USUV,Falco tinnunculus,0.452557473
+3961,USUV,Eurasian Coot,0.452557473
+3962,USUV,Common Wood Pigeon,0.452557473
+3963,USUV,Common Pigeon,0.452557473
+3964,DENV,human,0.811348455
+3965,Langat virus,dog,0.9723201490000001
+3966,LI virus,sheep,0.9885914640000001
+3967,LI virus,sheep,0.9911102340000001
+3968,DENV,human,0.911581805
+3969, SINV ,Turkey,0.21137518
+3970,Dengue,Turkey,0.245508239
+3971, LEDV ,Turkey,0.245508239
+3972, INKV ,Turkey,0.245508239
+3973,West Nile,Turkey,0.535475279
+3974,Usutu,Turkey,0.245508239
+3975, DENV ,Turkey,0.7737268959999999
+3976,Sindbis,Turkey,0.21137518
+3977, BATV ,Turkey,0.245508239
+3978, TAHV ,Turkey,0.7697305259999999
+3979, USUV ,Turkey,0.245508239
+3980, WNV ,Turkey,0.535475279
+3981,BAHV,Oenanthe oenanthe,0.9916422090000001
+3982,SLE virus,human,0.9916422090000001
+3983,USUV,house sparrow,0.811348455
+3984,JEV,human,0.9905223470000001
+3985,USUV,Turdus merula,0.9778846520000001
+3986,USUV,blackbird,0.9778846520000001
+3987,DENV,Macaca fascicularis,0.971334661
+3988,JEV,Macaca fascicularis,0.971334661
+3989,TBEVTikves,red deer,0.978352628
+3990,WNV,goose,0.911581805
+3991,SINV,Lagopus lagopus,0.5
+3992,WNV,Great Kiskadee,0.535475279
+3993,WNV,Rufous Hornero,0.811348455
+3994,WNV,Rufous Hornero,0.21137518
+3995,WNV,Great Kiskadee,0.811348455
+3996,WNV,Rufous Hornero,0.21137518
+3997,SLEV,Great Kiskadee,0.811348455
+3998,SLEV,Rufous Hornero,0.7697305259999999
+3999,SLEV,Rufous Hornero,0.535475279
+4000,SLEV,Great Kiskadee,0.811348455
+4001,SLEV,Rufous Hornero,0.21137518
+4002,WNV,Great Kiskadee,0.7697305259999999
+4003,WNV,Rufous Hornero,0.245508239
+4004,WNV,Rufous Hornero,0.7697305259999999
+4005,WNV,Great Kiskadee,0.7697305259999999
+4006,WNV,Rufous Hornero,0.811348455
+4007,SLEV,Great Kiskadee,0.811348455
+4008,SLEV,Rufous Hornero,0.7697305259999999
+4009,SLEV,Rufous Hornero,0.811348455
+4010,SLEV,Great Kiskadee,0.7697305259999999
+4011,SLEV,Rufous Hornero,0.811348455
+4012,SLEV,Great Kiskadee,0.21137518
+4013,SLEV,Rufous Hornero,0.811348455
+4014,SLEV,Rufous Hornero,0.21137518
+4015,SLEV,Great Kiskadee,0.811348455
+4016,SLEV,Rufous Hornero,0.21137518
+4017,WNV,Great Kiskadee,0.7697305259999999
+4018,WNV,Rufous Hornero,0.521006723
+4019,WNV,Rufous Hornero,0.811348455
+4020,WNV,Great Kiskadee,0.7697305259999999
+4021,WNV,Rufous Hornero,0.811348455
+4022,SLEV,Great Kiskadee,0.811348455
+4023,SLEV,Rufous Hornero,0.7697305259999999
+4024,SLEV,Rufous Hornero,0.811348455
+4025,SLEV,Great Kiskadee,0.811348455
+4026,SLEV,Rufous Hornero,0.811348455
+4027,TBE,human,0.911581805
+4028,TBE,human,0.92989707
+4029,WNV,woodchuck,0.811348455
+4030,WNV,Marmota monax,0.811348455
+4031,LI virus,mouse,0.9723201490000001
+4032,TYUV,goat,0.7697305259999999
+4033,LIV,goat,0.811348455
+4034,TBEV,goat,0.811348455
+4035,Dengue,human,0.245508239
+4036,Japanese encephalitis,human,0.245508239
+4037,CHIK,human,0.245508239
+4038,CHIK,human,0.5
+4039,Tembusu,human,0.245508239
+4040,CHIK,human,0.5
+4041,Zika,human,0.245508239
+4042,tick  borne encephalitis,Macaca radiata,0.7697305259999999
+4043,LIV,hare,0.811348455
+4044,LIV,cattle,0.811348455
+4045,LIV,horse,0.811348455
+4046,LIV,goat,0.811348455
+4047,LIV,pig,0.811348455
+4048,LIV,dog,0.811348455
+4049,WNV,human,0.245508239
+4050,Japanese encephalitis virus,human,0.7697305259999999
+4051,JEV,human,0.521006723
+4052,West Nile virus,human,0.521006723
+4053,West Nile virus,human,0.811348455
+4054,WEE,human,0.7697305259999999
+4055,WEE,cattle,0.7697305259999999
+4056,WEE,horse,0.7697305259999999
+4057,EEE virus,human,0.811348455
+4058,EEE virus,cattle,0.811348455
+4059,EEE virus,horse,0.811348455
+4060,TBEV,M arvalis,0.811348455
+4061,TBEV,M glareolus,0.97172553
+4062,TBEV,A flavicollis,0.97172553
+4063,TBE virus,sheep,0.7697305259999999
+4064, TBE ,sheep,0.7697305259999999
+4065,tick  borne encephalitis,sheep,0.7697305259999999
+4066,louping ill,human,0.811348455
+4067,WNV,common dasymys,0.9927208340000001
+4068,WNV,Dasymys incomtus,0.9927208340000001
+4069,WNV,sika,0.9927208340000001
+4070,WNV,rusty  bellied brush  furred rat,0.9927208340000001
+4071,WNV,Thallomys nigricauda,0.9927208340000001
+4072,WNV,African arvicanthis,0.9927208340000001
+4073,CEEV,human,0.811348455
+4074,WNV,Rufous Hornero,0.7697305259999999
+4075,SLEV,Rufous Hornero,0.245508239
+4076,SLEV,Rufous Hornero,0.7697305259999999
+4077,WNV,Rufous Hornero,0.811348455
+4078,West Nile virus,Chicken,0.7697305259999999
+4079,West Nile virus,horse,0.7697305259999999
+4080,USUTU virus,Chicken,0.7697305259999999
+4081,USUTU virus,horse,0.7697305259999999
+4082,WNV,Crocidura olivieri,0.7697305259999999
+4083,WNV,C occidentalis,0.7697305259999999
+4084,SIN,human,0.811348455
+4085,TBEV,M glareolus,0.5
+4086,TBE,M glareolus,0.5
+4087,TBEV,mice,0.992877153
+4088, WNV ,Caracara cheriway,0.811348455
+4089, EEEV ,Caracara cheriway,0.811348455
+4090, SLEV ,Caracara cheriway,0.811348455
+4091,West Nile virus,Caracara cheriway,0.811348455
+4092,eastern equine encephalitis virus,Caracara cheriway,0.811348455
+4093,EYAV,sheep,0.7697305259999999
+4094,BHAV,sheep,0.7697305259999999
+4095,TRBV,sheep,0.7697305259999999
+4096,TBEV,M glareolus,0.8952688259999999
+4097,TBEV,M agrestis,0.8952688259999999
+4098,WNV,horse,0.9906540979999999
+4099,WNV,human,0.9906540979999999
+4100,WNV,greater Egyptian gerbil,0.535475279
+4101,WNV,Microtus guentheri,0.21137518
+4102,WNV,Myodes glareolus,0.21137518
+4103,WNV,Tatera indica,0.811348455
+4104,WNV,bank vole,0.21137518
+4105,WNV,Indian gerbil,0.811348455
+4106,WNV,bushy  tailed jird,0.811348455
+4107,WNV,Gerbillus pyramidum,0.535475279
+4108,WNV,Indian desert jird,0.811348455
+4109,WNV,Sekeetamys calurus,0.811348455
+4110,WNV,Microtus arvalis,0.452557473
+4111,WNV,common vole,0.21137518
+4112,WNV,Meriones hurrianae,0.811348455
+4113,Yellow fever,monkeys,0.811348455
+4114,Yellow fever,mantled howler,0.811348455
+4115,Yellow fever,monkeys,0.811348455
+4116,USUV,human,0.811348455
+4117,LI virus,mouse,0.971334661
+4118,LI virus,mouse,0.971334661
+4119,AVAV,pigeon,0.7697305259999999
+4120,PIV,pigeon,0.7697305259999999
+4121,TBEV,M arvalis,0.991233885
+4122,TBE,human,0.7697305259999999
+4123,TBEV,Myodes rufocanus,0.811348455
+4124,TBEV,Microtus arvalis,0.811348455
+4125,TBEV,Myodes rufocanus,0.7697305259999999
+4126,TBEV,Microtus arvalis,0.7697305259999999
+4127,TBEV,Myodes rufocanus,0.811348455
+4128,TBEV,Microtus arvalis,0.811348455
+4514,Zika virus,monkey,0.778382659
+4515,WNV,starling,0.834824502
+4516,WNV,blue tit,0.834887803
+4517,WNV,Great reed warbler,0.46092864899999997
+4518,WNV,Red  crested pochard,0.46092864899999997
+4519,WNV,Aythya ferina,0.46092864899999997
+4520,WNV,Turdus merula,0.46092864899999997
+4521,WNV,Anas platyrhynchos,0.46092864899999997
+4522,WNV,Hirundo rustica,0.46092864899999997
+4523,WNV,Reed bunting,0.460930258
+4524,WNV,goose,0.46092864899999997
+4525,WNV,Blackcap,0.46092864899999997
+4526,WNV,Acrocephalus schoenobaenus,0.46092864899999997
+4527,WNV,Lanius collurio,0.46092894700000003
+4528,WNV,Reed warbler,0.46092864899999997
+4529,WNV,Larus ridibundus,0.46092864899999997
+4530,WNV,Sylvia nisoria,0.46092864899999997
+4531,WNV,Anser anser,0.46092864899999997
+4532,WNV,Acrocephalus palustris,0.46092864899999997
+4533,WNV,Gadwall,0.46092864899999997
+4534,WNV,Stonechat,0.46092864899999997
+4535,WNV,Sylvia atricapilla,0.46092864899999997
+4536,WNV,Common kingfisher,0.46092864899999997
+4537,WNV,Blue tit,0.46092864899999997
+4538,WNV,Panurus biarmicus,0.46092864899999997
+4539,WNV,Netta rufina,0.46092864899999997
+4540,WNV,Common coot,0.46092864899999997
+4541,WNV,Emberiza schoeniclus,0.46093452
+4542,WNV,Acrocephalus arundinaceus,0.46092864899999997
+4543,WNV,Song thrush,0.46092864899999997
+4544,WNV,Tufted duck,0.46092864899999997
+4545,WNV,Icterine warbler,0.46092864899999997
+4546,WNV,Remiz pendulinus,0.46092864899999997
+4547,WNV,Saxicola torquatus,0.46092864899999997
+4548,WNV,Acrocephalus scirpaceus,0.46092864899999997
+4549,WNV,parus caeruleus,0.460928679
+4550,WNV,Starling,0.46092844
+4551,WNV,Fulica atra,0.46092864899999997
+4552,WNV,Common sandpiper,0.46092864899999997
+4553,WNV,Aythya fuligula,0.46092864899999997
+4554,WNV,Turdus philomelos,0.46092864899999997
+4555,WNV,Marsh warbler,0.46092864899999997
+4556,WNV,Little grebe,0.46092864899999997
+4557,WNV,Barred warbler,0.46092864899999997
+4558,WNV,mallard,0.46092864899999997
+4559,WNV,Hippolais icterina,0.46092864899999997
+4560,WNV,Sturnus vulgaris,0.460930854
+4561,WNV,Locustella luscinioides,0.46092864899999997
+4562,WNV,Common pochard,0.46092864899999997
+4563,WNV,Sedge warbler,0.46092864899999997
+4564,WNV,Blackbird,0.46092864899999997
+4565,WNV,duck,0.46092864899999997
+4566,WNV,Swallow,0.46092864899999997
+4567,WNV,Red  backed shrike,0.46092882799999996
+4568,WNV,Black  headed gull,0.46092864899999997
+4569,WNV,Anas platyrhynchos,0.46092864899999997
+4570,WNV,Tachybaptus ruficollis,0.46092864899999997
+4571,WEST NILE VIRUS,Great reed warbler,0.46092864899999997
+4572,WEST NILE VIRUS,Red  crested pochard,0.46092864899999997
+4573,WEST NILE VIRUS,Aythya ferina,0.46092864899999997
+4574,WEST NILE VIRUS,Turdus merula,0.46092864899999997
+4575,WEST NILE VIRUS,Anas platyrhynchos,0.46092864899999997
+4576,WEST NILE VIRUS,Hirundo rustica,0.46092864899999997
+4577,WEST NILE VIRUS,Reed bunting,0.460930258
+4578,WEST NILE VIRUS,goose,0.46092864899999997
+4579,WEST NILE VIRUS,Blackcap,0.46092864899999997
+4580,WEST NILE VIRUS,Acrocephalus schoenobaenus,0.46092864899999997
+4581,WEST NILE VIRUS,Lanius collurio,0.46092894700000003
+4582,WEST NILE VIRUS,Reed warbler,0.46092864899999997
+4583,WEST NILE VIRUS,Larus ridibundus,0.46092864899999997
+4584,WEST NILE VIRUS,Sylvia nisoria,0.46092864899999997
+4585,WEST NILE VIRUS,Anser anser,0.46092864899999997
+4586,WEST NILE VIRUS,Acrocephalus palustris,0.46092864899999997
+4587,WEST NILE VIRUS,Gadwall,0.46092864899999997
+4588,WEST NILE VIRUS,Stonechat,0.46092864899999997
+4589,WEST NILE VIRUS,Sylvia atricapilla,0.46092864899999997
+4590,WEST NILE VIRUS,Common kingfisher,0.46092864899999997
+4591,WEST NILE VIRUS,Blue tit,0.46092864899999997
+4592,WEST NILE VIRUS,Panurus biarmicus,0.46092864899999997
+4593,WEST NILE VIRUS,Netta rufina,0.46092864899999997
+4594,WEST NILE VIRUS,Common coot,0.46092864899999997
+4595,WEST NILE VIRUS,Emberiza schoeniclus,0.46093452
+4596,WEST NILE VIRUS,Acrocephalus arundinaceus,0.46092864899999997
+4597,WEST NILE VIRUS,Song thrush,0.46092864899999997
+4598,WEST NILE VIRUS,Tufted duck,0.46092864899999997
+4599,WEST NILE VIRUS,Icterine warbler,0.46092864899999997
+4600,WEST NILE VIRUS,Remiz pendulinus,0.46092864899999997
+4601,WEST NILE VIRUS,Saxicola torquatus,0.46092864899999997
+4602,WEST NILE VIRUS,Acrocephalus scirpaceus,0.46092864899999997
+4603,WEST NILE VIRUS,parus caeruleus,0.460928679
+4604,WEST NILE VIRUS,Starling,0.46092844
+4605,WEST NILE VIRUS,Fulica atra,0.46092864899999997
+4606,WEST NILE VIRUS,Common sandpiper,0.46092864899999997
+4607,WEST NILE VIRUS,Aythya fuligula,0.46092864899999997
+4608,WEST NILE VIRUS,Turdus philomelos,0.46092864899999997
+4609,WEST NILE VIRUS,Marsh warbler,0.46092864899999997
+4610,WEST NILE VIRUS,Little grebe,0.46092864899999997
+4611,WEST NILE VIRUS,Barred warbler,0.46092864899999997
+4612,WEST NILE VIRUS,mallard,0.46092864899999997
+4613,WEST NILE VIRUS,Hippolais icterina,0.46092864899999997
+4614,WEST NILE VIRUS,Sturnus vulgaris,0.460930854
+4615,WEST NILE VIRUS,Locustella luscinioides,0.46092864899999997
+4616,WEST NILE VIRUS,Common pochard,0.46092864899999997
+4617,WEST NILE VIRUS,Sedge warbler,0.46092864899999997
+4618,WEST NILE VIRUS,Blackbird,0.46092864899999997
+4619,WEST NILE VIRUS,duck,0.46092864899999997
+4620,WEST NILE VIRUS,Swallow,0.46092864899999997
+4621,WEST NILE VIRUS,Red  backed shrike,0.46092882799999996
+4622,WEST NILE VIRUS,Black  headed gull,0.46092864899999997
+4623,WEST NILE VIRUS,Anas platyrhynchos,0.46092864899999997
+4624,WEST NILE VIRUS,Tachybaptus ruficollis,0.46092864899999997
+4625,tick  borne encephalitis virus,dog,0.82661432
+4626,SLE,pig,0.893675089
+4627,Rio Bravo,pig,0.893626213
+4628, PFU ,green monkey,0.565426588
+4629, PFU ,rhesus monkey,0.565284491
+4630,USUV,common coot,0.589871109
+4631,SLE virus,turkey,0.845296443
+4632,Koutango,turkey,0.845087409
+4633,CPE,turkey,0.84692651
+4634,Salmonella,swine,0.646261275
+4635,Escherichia,swine,0.638717234
+4636,Zika virus,human,0.759952009
+4637,Zika virus,monkey,0.758276939
+4638,Zika virus,human,0.7606925370000001
+4639,Zika virus,monkey,0.758983552
+4640,Koutango,turkey,0.6610922810000001
+4641,Bukalasa bat,turkey,0.743376851
+4642,Saboya,turkey,0.749992847
+4643,Koutango,turkey,0.75114584
+4644,Entebbe bat,turkey,0.736548007
+4645,Rio Bravo,turkey,0.762573719
+4646,Apoi,turkey,0.750091672
+4647,Dakar bat,turkey,0.7427050470000001
+4648,WNV,Panurus biarmicus,0.61402452
+4649,WNV,blue tit,0.589025021
+4650,WNV,Panurus biarmicus,0.613820493
+4651,WNV,blue tit,0.588781416
+4652,TBE,human,0.882630646
+4653,TBE,loup,0.8818576929999999
+4654,TBE,mouflon,0.7382007840000001
+4655, TBE ,mouflon,0.75460583
+4656,louping ill virus,mouflon,0.760466874
+4657,West Nile virus,Columba livia,0.824742436
+4658,Jutiapa,S hispidus,0.665412009
+4659,Jutiapa,Cow,0.733711302
+4660,dengue,human,0.7410960790000001
+4661,dengue,human,0.740997493
+4662,West Nile,human,0.7410981059999999
+4663,West Nile,human,0.740999341
+4664,Murray Valley encephalitis,human,0.7410976290000001
+4665,Murray Valley encephalitis,human,0.7409989240000001
+4666, MVE ,human,0.7410941120000001
+4667, MVE ,human,0.7409952879999999
+4668,Japanese encephalitis,human,0.741098702
+4669,Japanese encephalitis,human,0.740999877
+4670,WNV,mouse,0.471718401
+4671, EDTA ,mouse,0.439843208
+4672,DENV,A lituratus,0.77539742
+4673,DENV,A jamaicensis,0.774572313
+4674,DENV,G soricina,0.792861521
+4675,DENV,A lituratus,0.7862534520000001
+4676,DENV,A jamaicensis,0.785457373
+4677,DENV,G soricina,0.8017157909999999
+4678,WN virus,human,0.829037845
+4679,MVE,human,0.8289227490000001
+4680,USUV,Spotted Eagle,0.816016257
+4681,USUV,magpie,0.8039187190000001
+4682,WNV,Spotted Eagle,0.802338421
+4683,WNV,magpie,0.791851759
+4684,DENV,human,0.934110343
+4685,FUAS,mice,0.880092144
+4686,WNV,common coot,0.659677088
+4687,ZIKA VIRUS,MONKEY,0.607047439
+4688,WNV,Pica pica,0.569349229
+4689,WNV,Pica pica,0.591685414
+4690,USUV,common coot,0.6302953960000001
+4691,fam,monkeys,0.859938145
+4692,Zika virus,monkeys,0.862009823
+4693,Koutango,turkey,0.617712438
+4694,TBEV,mouflon,0.702810585
+4695,TBEV,mouflon,0.734273672
+4696,dengue virus,monkeys,0.9140876529999999
+4697,Wesselsbron virus,human,0.76086098
+4698,Wesselsbron virus,human,0.7373844979999999
+4699,louping ill virus,sheep,0.841942787
+4700,louping ill virus,human,0.841906667
+4701,louping ill virus,goat,0.841842949
+4702,louping ill virus,sheep,0.841898382
+4703,TBEV,sheep,0.8419353959999999
+4704,TBEV,human,0.841898024
+4705,TBEV,goat,0.8418363329999999
+4706,TBEV,sheep,0.841890693
+4707,MVEV,human,0.707746744
+4708,MVEV,human,0.7068932059999999
+4709,Tembusu virus,human,0.77094996
+4710,Tembusu virus,human,0.7734600309999999
+4711,dengue,human,0.758470118
+4712,dengue,Carollia perspicillata,0.739486456
+4713,DENV,human,0.7586459520000001
+4714,DENV,Carollia perspicillata,0.739716113
+4715,DENV,human,0.75823617
+4716,DENV,Carollia perspicillata,0.739181578
+4717,DENV,human,0.7622597809999999
+4718,DENV,Carollia perspicillata,0.7439081670000001
+4719,DENV,human,0.758470654
+4720,DENV,Carollia perspicillata,0.7394871709999999
+4721,DENV,human,0.7584583159999999
+4722,DENV,Carollia perspicillata,0.7394710179999999
+4723,DENV,human,0.7584708929999999
+4724,DENV,Carollia perspicillata,0.7394875879999999
+4725,DENV,human,0.7584712509999999
+4726,DENV,Carollia perspicillata,0.7394879459999999
+4727,DENV,human,0.758471131
+4728,DENV,Carollia perspicillata,0.739487708
+4729,DENV,A lituratus,0.891680658
+4730,TBEV,mouflon,0.53488946
+4731,TBEV,mouflon,0.530466735
+4732,TBEV,mouflon,0.534684837
+4733,louping ill virus,mouflon,0.532548547
+4734,Saboya,turkey,0.48790288
+4735,SLE virus,turkey,0.668536544
+4736,Zika virus,human,0.682127655
+4737,Zika virus,human,0.6821884509999999
+4738,USUV,Blackbird,0.868962288
+4739,WRC,Blackbird,0.863849282
+4740,Rio Bravo virus,human,0.552233636
+4741,Zika Virus,Monkey,0.46392729899999996
+4742,FUAS,mice,0.758584797
+4743,TBE,dog,0.79822427
+4744,DENV,human,0.78672868
+4745,DENV,monkeys,0.786727011
+4746,DENV,A lituratus,0.776890278
+4747,DENV,A jamaicensis,0.785801888
+4748,DENV,G soricina,0.792406321
+4749,DENV,human,0.786727011
+4750,DENV,human,0.791659355
+4751,DENV,monkeys,0.791657865
+4752,DENV,A lituratus,0.783144295
+4753,DENV,A jamaicensis,0.791532218
+4754,DENV,G soricina,0.797555685
+4755,DENV,human,0.791657865
+4756,DENV,human,0.786742508
+4757,DENV,monkeys,0.786740124
+4758,DENV,A lituratus,0.776907921
+4759,DENV,A jamaicensis,0.785818934
+4760,DENV,G soricina,0.792420208
+4761,DENV,human,0.786740184
+4762,Entebbe bat,monkey,0.442766875
+4763,Rio Bravo virus,monkey,0.46502208700000003
+4764,SLE,monkey,0.43650811899999997
+4765,tick  borne encephalitis,sheep,0.780116916
+4766,WNV,great reed warbler,0.645596147
+4767,Murray Valley encephalitis virus,horse,0.8349105720000001
+4768,louping ill virus,sheep,0.587416112
+4769,DENV,A lituratus,0.8426261540000001
+4770,DENV,G soricina,0.836198986
+4771,WNV,Starling,0.678969741
+4772,WNV,Magpie,0.678375244
+4773,WNV,moustached warbler,0.626258552
+4774,WNV,Acrocephalus melanopogon,0.634000301
+4775,WNV,reed warbler,0.649445772
+4776,Modoc,turkey,0.7044823170000001
+4777,TBE,mouflon,0.7496948240000001
+4778,TBEV,mouflon,0.776152611
+4779,West Nile virus,human,0.686603546
+4780,JE virus,Nycticorax nycticorax,0.451057792
+4781, TBE ,Ovis ammon,0.73442924
+4782, TBE ,human,0.726361156
+4783, TBE ,mouflon,0.73442018
+4784,Modoc virus,mice,0.7137019040000001
+4785,Modoc virus,Peromyscus maniculatus,0.7188643809999999
+4786,Zika virus,Euro,0.43216541399999997
+4787,chikungunya,Euro,0.430080831
+4788,dengue,Euro,0.429604828
+4789,dengue,human,0.7201557759999999
+4790,Koutango,turkey,0.7783014770000001
+4791,WNV,blue tit,0.724227726
+4792,WNV,common kingfisher,0.707807422
+4793,WNV,human,0.471526325
+4794,USUV,coot,0.47100234
+4795,USUV,coot,0.471623898
+4796,USUV,coot,0.482719004
+4797,USUV,coot,0.483291149
+4798,WNV,coot,0.47144141799999995
+4799,WNV,coot,0.4721286
+4800,WNV,coot,0.473749697
+4801,WNV,coot,0.47445923100000004
+4802,USUV,coot,0.471476495
+4803,USUV,coot,0.47216036899999997
+4804,WNV,human,0.738397539
+4805,DENV,Glossophaga soricina,0.692267895
+4806,DENV,A lituratus,0.686828315
+4807,DENV,A lituratus,0.711321175
+4808,DENV,Artibeus jamaicensis,0.696060956
+4809,USUV,Magpie,0.5015451910000001
+4810,West Nile virus,human,0.7884257440000001
+4811,Tembusu virus,monkeys,0.821198702
+4812,USUV,Starling,0.9150634409999999
+4813,USUV,Greater Spotted Eagle,0.9055929779999999
+4814,dengue,monkey,0.758001447
+4815,Zika virus,monkey,0.755285084
+4816,DENV,A phaeotis,0.543978274
+4817,DENV,Glossophaga commissarisi,0.543985665
+4818,DENV,Pteronotus davyi,0.54439342
+4819,DENV,Carollia perspicillata,0.543977618
+4820,DENV,S bilineata,0.544271111
+4821,DENV,Sturnira lilium,0.545114338
+4822,DENV,Hylonycteris underwoodi,0.54382962
+4823,DENV,A lituratus,0.5439777370000001
+4824,DENV,C sowelli,0.543975592
+4825,DENV,G soricina,0.5439650420000001
+4826,DENV,S ludovici,0.542448461
+4827,DENV,Desmodus rotundus,0.5439800020000001
+4828,DENV,Uroderma bilobatum,0.542702138
+4829,DENV,Artibeus jamaicensis,0.5439777370000001
+4830,DENV,Platyrrhinus helleri,0.543949723
+4831,DENV,A phaeotis,0.54955107
+4832,DENV,Glossophaga commissarisi,0.5495575070000001
+4833,DENV,Pteronotus davyi,0.549915195
+4834,DENV,Carollia perspicillata,0.549550474
+4835,DENV,S bilineata,0.549813569
+4836,DENV,Sturnira lilium,0.550560057
+4837,DENV,Hylonycteris underwoodi,0.5494202970000001
+4838,DENV,A lituratus,0.549550593
+4839,DENV,C sowelli,0.5495486860000001
+4840,DENV,G soricina,0.549539387
+4841,DENV,S ludovici,0.548209846
+4842,DENV,Desmodus rotundus,0.54955256
+4843,DENV,Uroderma bilobatum,0.548403561
+4844,DENV,Artibeus jamaicensis,0.549550593
+4845,DENV,Platyrrhinus helleri,0.549525857
+4846,West Nile virus,human,0.8057255740000001
+4847,APOI,turkey,0.49686750799999996
+4848,Saboya,turkey,0.50019747
+4849,Apoi,turkey,0.480513453
+4850,Dengue,human,0.41901901399999997
+4851,Dengue,human,0.41901901399999997
+4852, USUV ,Fulica atra,0.33891168200000005
+4853, USUV ,Fulica atra,0.339012831
+4854,USUTU,Fulica atra,0.33892598700000004
+4855,USUTU,Fulica atra,0.339027852
+4856,WNV,Fulica atra,0.33841541399999997
+4857,WNV,Fulica atra,0.338492185
+4858, WNV ,Fulica atra,0.338850886
+4859, WNV ,Fulica atra,0.338942975
+4860,WNV,Fulica atra,0.338841766
+4861,WNV,Fulica atra,0.33893191799999994
+4862,USUV,Fulica atra,0.338683277
+4863,USUV,Fulica atra,0.338794559
+4864,WEST NILE VIRUS,Fulica atra,0.33889848
+4865,WEST NILE VIRUS,Fulica atra,0.338996708
+4866,WNV,coot,0.70288074
+4867,WNV,coot,0.702697575
+4868,Usutu,coot,0.70292002
+4869,Usutu virus,coot,0.7011958359999999
+4870,FCS,mouse,0.705538929
+4871, PFU ,mouse,0.706904531
+4872,WNV,mouse,0.706892788
+4873,Koutango,turkey,0.695461452
+4874,Saboya,turkey,0.705522656
+4875,Entebbe bat,turkey,0.676687837
+4876,DENV,Carollia sowelli,0.505279481
+4877,DENV,A planirostris,0.552723527
+4878,DENV,Myotis nigricans,0.5131430029999999
+4879,DENV,Carollia sowelli,0.502024233
+4880,DENV,A planirostris,0.544529915
+4881,DENV,Myotis nigricans,0.509399533
+4882,DENV,Carollia sowelli,0.486556053
+4883,DENV,A planirostris,0.53684634
+4884,DENV,Myotis nigricans,0.491172761
+4885,TBEV,mouflon,0.578627825
+4886,TBEV,mouflon,0.57957834
+4887,Zika virus,monkey,0.8354773520000001
+4888,Zika Virus,Monkey,0.57558912
+4889,Jutiapa,turkey,0.500936866
+4890,Apoi,turkey,0.50236392
+4891,Cowbone Ridge,turkey,0.5012577770000001
+4892,Koutango,turkey,0.502541184
+4893,Entebbe bat,turkey,0.502548039
+4894,Carey Island,turkey,0.501993418
+4895,Rio Bravo,turkey,0.49640411100000004
+4896,Bukalasa bat,turkey,0.501881599
+4897,Phnom Penh bat,turkey,0.49710270799999995
+4898,Saboya,turkey,0.5025098920000001
+4899,TBE,mouflon,0.788458943
+4900,DENV,human,0.6960207820000001
+4901,MVEV,human,0.7619475720000001
+4902,SLE virus,turkey,0.6108784079999999
+4903,Phnom Penh bat,Cynopterus brachyotis,0.791980565
+4904,Dakar bat,Cynopterus brachyotis,0.811184824
+4905,Saboya,Cynopterus brachyotis,0.7967768909999999
+4906,Carey Island,Cynopterus brachyotis,0.7921352979999999
+4907,Koutango,turkey,0.853248298
+4908,FUAS,turkey,0.85269171
+4909,USUV,Eurasian Collared  Dove,0.587885141
+4910,USUV,European Serin,0.587881207
+4911,USUV,White Stork,0.587885141
+4912,USUV,Alauda arvensis,0.587885141
+4913,USUV,Common Buzzard,0.587885141
+4914,USUV,Dendrocopos major,0.587885141
+4915,USUV,Nightjar,0.587885141
+4916,USUV,Common Kestrel,0.587885141
+4917,USUV,Eurasian Green Woodpecker,0.587885141
+4918,USUV,Ciconia ciconia,0.587885141
+4919,USUV,Black  winged Stilt,0.587885141
+4920,USUV,Serinus serinus,0.58805716
+4921,USUV,Buteo buteo,0.587885082
+4922,USUV,Streptopelia decaocto,0.587885141
+4923,USUV,Common Teal,0.587885141
+4924,USUV,Little Egret,0.587885141
+4925,USUV,Caprimulgus europaeus,0.587885141
+4926,USUV,Falco tinnunculus,0.587885141
+4927,USUV,Tawny Owl,0.587777436
+4928,USUV,Picus viridis,0.587885141
+4929,USUV,Anas crecca,0.587885141
+4930,USUV,Mallard,0.587885141
+4931,USUV,Himantopus himantopus,0.587885201
+4932,USUV,Egretta garzetta,0.587885141
+4933,USUV,Strix aluco,0.588573813
+4934,USUV,Great Tit,0.587885141
+4935,USUV,Goose,0.587885141
+4936,USUV,Little Owl,0.587885141
+4937,USUV,Anas platyrhynchos,0.587885141
+4938,USUV,Anser anser,0.587885141
+4939,USUV,Parus major,0.587885141
+4940,USUV,Eurasian Blackbird,0.587885141
+4941,USUV,Blackcap,0.58684212
+4942,USUV,European Robin,0.587885141
+4943,USUV,Circus aeruginosus,0.587885141
+4944,USUV,Athene noctua,0.587885141
+4945,USUV,Black  crowned Night Heron,0.587884128
+4946,USUV,European Bee  eater,0.587885141
+4947,USUV,Common Pheasant,0.587885141
+4948,USUV,Pallid Swift,0.587885141
+4949,USUV,Sylvia atricapilla,0.586296856
+4950,USUV,Cattle Egret,0.587885141
+4951,USUV,Turdus merula,0.587885141
+4952,USUV,Erithacus rubecula,0.587885141
+4953,USUV,Common Pigeon,0.587885141
+4954,USUV,Common Wood  Pigeon,0.587885141
+4955,USUV,Merops apiaster,0.587885141
+4956,USUV,Apus pallidus,0.587885141
+4957,USUV,Phasianus colchicus,0.587885141
+4958,USUV,Bubulcus ibis,0.587885141
+4959,USUV,Nycticorax nycticorax,0.587886035
+4960,USUV,Indian Peafowl,0.587885141
+4961,USUV,Hoopoe,0.5904112460000001
+4962,USUV,Columba livia domestica,0.587885141
+4963,USUV,Columba palumbus,0.587885141
+4964,USUV,Squacco Heron,0.587885141
+4965,USUV,Common Starling,0.587885141
+4966,USUV,Eurasian Jackdaw,0.587885141
+4967,USUV,Eurasian Magpie,0.587885141
+4968,USUV,Upupa epops,0.59143728
+4969,USUV,Grey Heron,0.587885141
+4970,USUV,Eurasian Sparrowhawk,0.587885141
+4971,USUV,Pavo cristatus,0.587885141
+4972,USUV,Eurasian Golden Oriole,0.58788383
+4973,USUV,Pica pica,0.587885141
+4974,USUV,Ardeola ralloides,0.587885141
+4975,USUV,Sturnus vulgaris,0.587885141
+4976,USUV,Ardea cinerea,0.587885141
+4977,USUV,Black  headed Gull,0.587885141
+4978,USUV,Corvus monedula,0.587885141
+4979,USUV,Cuckoo,0.587885082
+4980,USUV,Northern Lapwing,0.570594132
+4981,USUV,Accipiter nisus,0.587885141
+4982,USUV,Great Cormorant,0.587885141
+4983,USUV,Oriolus oriolus,0.587882519
+4984,USUV,Cuculus canorus,0.587885082
+4985,USUV,Larus ridibundus,0.587885141
+4986,USUV,Bittern,0.587885141
+4987,USUV,Vanellus vanellus,0.580085695
+4988,USUV,Great Crested Grebe,0.587885141
+4989,USUV,Barn Swallow,0.587885141
+4990,USUV,Phalacrocorax carbo,0.587885141
+4991,USUV,Greater Spotted Eagle,0.587885141
+4992,USUV,Botaurus stellaris,0.587885141
+4993,USUV,Peregrine Falcon,0.587885082
+4994,USUV,Yellow  legged Gull,0.587885141
+4995,USUV,Hirundo rustica,0.587885141
+4996,USUV,Podiceps cristatus,0.587885141
+4997,USUV,Corvus cornix,0.587885141
+4998,USUV,Greater Flamingo,0.587882996
+4999,USUV,Falco peregrinus,0.587885082
+5000,USUV,Larus michahellis,0.587885141
+5001,USUV,Tyto alba,0.587885141
+5002,USUV,European Goldfinch,0.587885141
+5003,USUV,Little Bittern,0.587885141
+5004,USUV,Phoenicopterus ruber,0.587892354
+5005,USUV,Northern House  Martin,0.587885141
+5006,USUV,Eurasian Jay,0.587885141
+5007,USUV,Eurasian Coot,0.587885141
+5008,USUV,Common Swift,0.587885141
+5009,USUV,Northern Goshawk,0.587885141
+5010,USUV,Ixobrychus minutus,0.587885141
+5011,USUV,Apus apus,0.587885141
+5012,USUV,Fulica atra,0.587885141
+5013,USUV,Garrulus glandarius,0.587885141
+5014,USUV,House Sparrow,0.587885141
+5015,USUV,Delichon urbica,0.587885141
+5016,USUV,Eurasian Woodcock,0.587919474
+5017,USUV,Accipiter gentilis,0.587885141
+5018,USUV,Black Tern,0.587885141
+5019,USUV,Eurasian Scops Owl,0.587885141
+5020,USUV,Common Moorhen,0.587885082
+5021,USUV,Passer domesticus,0.587885141
+5022,USUV,Scolopax rusticola,0.587959766
+5023,USUV,Chlidonias niger,0.587885141
+5024,USUV,Great Spotted Woodpecker,0.587885141
+5025,USUV,Eurasian Skylark,0.587885141
+5026,USUV,Asio otus,0.587885141
+5027,USUV,Otus scops,0.587885141
+5028,USUV,Gallinula chloropus,0.587885141
+5029,louping ill virus,mice,0.915764987
+5030,louping ill virus,pig,0.9221829770000001
+5031,louping ill virus,sheep,0.918552101
+5032,Zika virus,monkey,0.835092127
+5033,Koutango virus,turkey,0.6698483820000001
+5034,West Nile virus,Megascops asio,0.737318337
+5035,WNV,European Starling,0.759741366
+5036,WNV,marsh warbler,0.512817144
+5037,USUV,marsh warbler,0.521885753
+5038,MVE virus,Nankeen night heron,0.5247501729999999
+5039,SLE virus,turkey,0.7294093970000001
+5040,TBE virus,sheep,0.868378282
+5041,Zika virus,human,0.882671952
+5042,Zika virus,human,0.883051157
+5043,TBEV,mouflon,0.828567505
+5044,TBEV,mouflon,0.82551837
+5045,WNV,human,0.7624697090000001
+5046,TBEV,mouflon,0.9004024270000001
+5047,TBEV,mouflon,0.8830904959999999
+5048, TBEV ,mouflon,0.9012941720000001
