@@ -4,6 +4,10 @@
 
 In this project, we build a machine learning system to extract and identify correct mentions of virus and animal host species relations from academic research papers in the context of epidemiological research.
 
+<br>
+![graph](/network_graph/graph1.png)
+<br>
+
 <details><summary>Read summary here</summary>
 <p>
   
