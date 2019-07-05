@@ -1,12 +1,10 @@
 # Extracting Virus-Host Relations from Research Text - Machine Learning Project
 
-![pic](/misc/logo.png)
+![pic](/images/logo.png)
 
 In this project, we build a machine learning system to extract and identify correct mentions of virus and animal host species relations from academic research papers in the context of epidemiological research.
 
-<br>
-![graph](/network_graph/graph1.png)
-<br>
+<img src="https://github.com/EricaXia/snorkel/blob/master/network_graph/graph1.png" width="500">
 
 <details><summary>Read summary here</summary>
 <p>
