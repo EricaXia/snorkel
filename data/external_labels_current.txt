@@ -1,0 +1,298 @@
+virus	host	label
+0090-3558-10.3.279.pdf::span:25217:25226	0090-3558-10.3.279.pdf::span:25265:25270	1
+1-s2.0-S1877959X13000587-main.pdf::span:21208:21210	1-s2.0-S1877959X13000587-main.pdf::span:21212:21216	1
+1-s2.0-S1877959X13000587-main.pdf::span:21270:21272	1-s2.0-S1877959X13000587-main.pdf::span:21212:21216	1
+1-s2.0-S1877959X13001179-main.pdf::span:11607:11610	1-s2.0-S1877959X13001179-main.pdf::span:11668:11676	1
+1-s2.0-S1877959X13001179-main.pdf::span:11835:11838	1-s2.0-S1877959X13001179-main.pdf::span:11668:11676	1
+0090-3558-10.3.279.pdf::span:25217:25226	0090-3558-10.3.279.pdf::span:25255:25259	1
+059.041.0109.pdf::span:14260:14262	059.041.0109.pdf::span:14217:14227	1
+Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:6133:6135	Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:6246:6250	1
+Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:6252:6254	Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:6246:6250	1
+Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:6281:6283	Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:6246:6250	1
+059.041.0109.pdf::span:14260:14262	059.041.0109.pdf::span:14104:14112	1
+09-642913p460.pdf::span:5772:5781	09-642913p460.pdf::span:6216:6221	1
+09-642913p460.pdf::span:5772:5781	09-642913p460.pdf::span:5875:5879	1
+09-642913p460.pdf::span:6158:6167	09-642913p460.pdf::span:6216:6221	1
+09-642913p460.pdf::span:6158:6167	09-642913p460.pdf::span:5875:5879	1
+1040638711433325.pdf::span:19270:19284	1040638711433325.pdf::span:19232:19245	1
+1040638711433325.pdf::span:19270:19284	1040638711433325.pdf::span:19218:19229	1
+1040638712452723.pdf::span:2215:2218	1040638712452723.pdf::span:2158:2172	1
+1040638712452723.pdf::span:2215:2218	1040638712452723.pdf::span:2034:2053	1
+1-s2.0-S1090023313005315-main.pdf::span:13031:13041	1-s2.0-S1090023313005315-main.pdf::span:13110:13126	1
+1-s2.0-S1090023313005315-main.pdf::span:13031:13041	1-s2.0-S1090023313005315-main.pdf::span:13059:13075	1
+"Cao-2011-Tembusu virus in ducks, china.pdf::span:9056:9059"	"Cao-2011-Tembusu virus in ducks, china.pdf::span:9091:9094"	1
+Cigarroa-Toledo-2016-Serologic Evidence of Fla.pdf::span:13290:13292	Cigarroa-Toledo-2016-Serologic Evidence of Fla.pdf::span:13176:13179	1
+de Thoisy-2009-Dengue infection in neotropical.pdf::span:31601:31604	de Thoisy-2009-Dengue infection in neotropical.pdf::span:31716:31720	1
+Hayes-2009-Zika virus outside Africa.pdf::span:12003:12006	Hayes-2009-Zika virus outside Africa.pdf::span:12011:12015	1
+Hubalek-2008-Serologic survey of potential ver.pdf::span:11046:11048	Hubalek-2008-Serologic survey of potential ver.pdf::span:11121:11131	1
+1-s2.0-S1090023313005315-main.pdf::span:13031:13041	1-s2.0-S1090023313005315-main.pdf::span:13084:13107	1
+1-s2.0-S1090023313005315-main.pdf::span:14:24	1-s2.0-S1090023313005315-main.pdf::span:67:90	1
+1-s2.0-S1090023313005315-main.pdf::span:14:24	1-s2.0-S1090023313005315-main.pdf::span:42:58	1
+1-s2.0-S1090023313005315-main.pdf::span:14:24	1-s2.0-S1090023313005315-main.pdf::span:93:109	1
+1-s2.0-S1090023313005315-main.pdf::span:14:24	1-s2.0-S1090023313005315-main.pdf::span:378:401	1
+1-s2.0-S1090023313005315-main.pdf::span:14:24	1-s2.0-S1090023313005315-main.pdf::span:353:369	1
+Hubalek-2008-Serologic survey of potential ver.pdf::span:18893:18895	Hubalek-2008-Serologic survey of potential ver.pdf::span:18832:18842	1
+Hubalek-2008-Serologic survey of potential ver.pdf::span:19426:19428	Hubalek-2008-Serologic survey of potential ver.pdf::span:19357:19373	1
+0090-3558-10.3.279.pdf::span:24452:24465	0090-3558-10.3.279.pdf::span:24486:24489	1
+0090-3558-10.3.279.pdf::span:24530:24532	0090-3558-10.3.279.pdf::span:24486:24489	1
+1-s2.0-0035920362900743-main.pdf::span:144:155	1-s2.0-0035920362900743-main.pdf::span:162:166	1
+1-s2.0-S1090023313005315-main.pdf::span:14:24	1-s2.0-S1090023313005315-main.pdf::span:404:420	1
+1-s2.0-S1090023313005315-main.pdf::span:1464:1474	1-s2.0-S1090023313005315-main.pdf::span:1588:1604	1
+1-s2.0-S1090023313005315-main.pdf::span:1464:1474	1-s2.0-S1090023313005315-main.pdf::span:1666:1689	1
+1-s2.0-S1090023313005315-main.pdf::span:1464:1474	1-s2.0-S1090023313005315-main.pdf::span:1692:1708	1
+1-s2.0-S1090023313005315-main.pdf::span:325:335	1-s2.0-S1090023313005315-main.pdf::span:67:90	1
+1-s2.0-S1090023313005315-main.pdf::span:325:335	1-s2.0-S1090023313005315-main.pdf::span:42:58	1
+1-s2.0-S1090023313005315-main.pdf::span:325:335	1-s2.0-S1090023313005315-main.pdf::span:93:109	1
+1-s2.0-S1090023313005315-main.pdf::span:325:335	1-s2.0-S1090023313005315-main.pdf::span:378:401	1
+1-s2.0-S1090023313005315-main.pdf::span:325:335	1-s2.0-S1090023313005315-main.pdf::span:353:369	1
+1-s2.0-S1090023313005315-main.pdf::span:325:335	1-s2.0-S1090023313005315-main.pdf::span:404:420	1
+1-s2.0-S0147957197000246-main.pdf::span:14557:14559	1-s2.0-S0147957197000246-main.pdf::span:14576:14578	1
+1-s2.0-S0147957197000246-main.pdf::span:14562:14567	1-s2.0-S0147957197000246-main.pdf::span:14576:14578	1
+1-s2.0-S1877959X13000587-main.pdf::span:1675:1683	1-s2.0-S1877959X13000587-main.pdf::span:1707:1713	1
+1-s2.0-S1877959X13000587-main.pdf::span:1675:1683	1-s2.0-S1877959X13000587-main.pdf::span:1856:1863	1
+1-s2.0-S1877959X13000587-main.pdf::span:1675:1683	1-s2.0-S1877959X13000587-main.pdf::span:1716:1728	1
+1-s2.0-S1090023313005315-main.pdf::span:7543:7546	1-s2.0-S1090023313005315-main.pdf::span:7466:7489	1
+1-s2.0-S1877959X13000587-main.pdf::span:17390:17393	1-s2.0-S1877959X13000587-main.pdf::span:17479:17486	1
+1-s2.0-S1877959X13000587-main.pdf::span:1675:1683	1-s2.0-S1877959X13000587-main.pdf::span:1866:1879	1
+1-s2.0-S1877959X13000587-main.pdf::span:17086:17089	1-s2.0-S1877959X13000587-main.pdf::span:17190:17197	1
+1-s2.0-S1877959X13000587-main.pdf::span:17086:17089	1-s2.0-S1877959X13000587-main.pdf::span:17190:17197	1
+1-s2.0-S1877959X13000587-main.pdf::span:1908:1916	1-s2.0-S1877959X13000587-main.pdf::span:1707:1713	1
+1-s2.0-S1877959X13000587-main.pdf::span:1908:1916	1-s2.0-S1877959X13000587-main.pdf::span:1856:1863	1
+1-s2.0-S1877959X13000587-main.pdf::span:1908:1916	1-s2.0-S1877959X13000587-main.pdf::span:1716:1728	1
+1-s2.0-S1877959X13000587-main.pdf::span:1908:1916	1-s2.0-S1877959X13000587-main.pdf::span:1866:1879	1
+218.full.pdf::span:15716:15718	218.full.pdf::span:15723:15727	1
+218.full.pdf::span:15716:15718	218.full.pdf::span:15861:15864	1
+218.full.pdf::span:18864:18880	218.full.pdf::span:18936:18939	1
+218.full.pdf::span:18864:18880	218.full.pdf::span:18954:18956	1
+218.full.pdf::span:18864:18880	218.full.pdf::span:18942:18946	1
+218.full.pdf::span:6111:6115	218.full.pdf::span:6001:6010	1
+218.full.pdf::span:6111:6115	218.full.pdf::span:6220:6224	1
+218.full.pdf::span:6111:6115	218.full.pdf::span:5992:5998	1
+9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:3387:3389	9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:3408:3412	1
+1-s2.0-S1877959X13000587-main.pdf::span:18780:18782	1-s2.0-S1877959X13000587-main.pdf::span:18784:18788	1
+1-s2.0-S1877959X13000587-main.pdf::span:19037:19039	1-s2.0-S1877959X13000587-main.pdf::span:18784:18788	1
+1-s2.0-S1877959X13000587-main.pdf::span:19189:19191	1-s2.0-S1877959X13000587-main.pdf::span:18784:18788	1
+9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:13041:13043	9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:13065:13067	1
+Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:2259:2262	Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:2192:2203	1
+9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:3387:3389	9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:3418:3422	1
+9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:5569:5571	9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:5553:5557	1
+Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:12611:12614	Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:12859:12863	1
+9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:5569:5571	9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:5563:5567	1
+1-s2.0-S1877959X13000587-main.pdf::span:3098:3100	1-s2.0-S1877959X13000587-main.pdf::span:3142:3146	1
+1040638712452723.pdf::span:17118:17129	1040638712452723.pdf::span:17095:17108	1
+1040638712452723.pdf::span:17131:17136	1040638712452723.pdf::span:17095:17108	1
+1040638712452723.pdf::span:17259:17262	1040638712452723.pdf::span:17095:17108	1
+Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:12547:12550	Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:12859:12863	1
+Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:12547:12550	Achazi-2011-Rodents as Sentinels for the Preva.pdf::span:12848:12851	1
+"Bosch-2007-West Nile virus, Venezuela.pdf::span:3307:3309"	"Bosch-2007-West Nile virus, Venezuela.pdf::span:3455:3463"	1
+"Bosch-2007-West Nile virus, Venezuela.pdf::span:3307:3309"	"Bosch-2007-West Nile virus, Venezuela.pdf::span:3423:3433"	1
+9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:12963:12965	9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:12941:12946	1
+9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:24290:24300	9eadd392caba3df5b5fe5fdb6a7b051a13d4.pdf::span:24276:24280	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:10091:10107	Buckley-2003-Serological evidence of West Nile.pdf::span:10213:10217	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:10234:10236	Buckley-2003-Serological evidence of West Nile.pdf::span:10213:10217	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:4470:4473	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:4582:4586	1
+"Bosch-2007-West Nile virus, Venezuela.pdf::span:3307:3309"	"Bosch-2007-West Nile virus, Venezuela.pdf::span:3475:3481"	1
+"Bosch-2007-West Nile virus, Venezuela.pdf::span:3307:3309"	"Bosch-2007-West Nile virus, Venezuela.pdf::span:3383:3395"	1
+"Bosch-2007-West Nile virus, Venezuela.pdf::span:3307:3309"	"Bosch-2007-West Nile virus, Venezuela.pdf::span:3398:3417"	1
+"Briggs-2011-Tick-borne encephalitis virus, Kyr.pdf::span:4942:4945"	"Briggs-2011-Tick-borne encephalitis virus, Kyr.pdf::span:4991:5001"	1
+"Briggs-2011-Tick-borne encephalitis virus, Kyr.pdf::span:4942:4945"	"Briggs-2011-Tick-borne encephalitis virus, Kyr.pdf::span:5003:5006"	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:22638:22640	Buckley-2003-Serological evidence of West Nile.pdf::span:22742:22748	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:22638:22640	Buckley-2003-Serological evidence of West Nile.pdf::span:22864:22870	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:22833:22835	Buckley-2003-Serological evidence of West Nile.pdf::span:22742:22748	1
+Buckley-2003-Serological evidence of West Nile.pdf::span:22833:22835	Buckley-2003-Serological evidence of West Nile.pdf::span:22864:22870	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19216:19224	1
+Dupuis-2003-Serologic evidence of West Nile vi.pdf::span:11882:11884	Dupuis-2003-Serologic evidence of West Nile vi.pdf::span:12196:12215	1
+09-642913p460.pdf::span:219:228	09-642913p460.pdf::span:265:270	1
+09-642913p460.pdf::span:1058:1067	09-642913p460.pdf::span:1070:1075	1
+09-642913p460.pdf::span:1341:1350	09-642913p460.pdf::span:1398:1403	1
+09-642913p460.pdf::span:2635:2644	09-642913p460.pdf::span:2668:2673	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19730:19734	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:18705:18714	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:18957:18974	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19737:19747	1
+09-642913p460.pdf::span:7912:7921	09-642913p460.pdf::span:7945:7950	1
+09-642913p460.pdf::span:8167:8176	09-642913p460.pdf::span:8185:8189	1
+09-642913p460.pdf::span:8203:8212	09-642913p460.pdf::span:8185:8189	1
+09-642913p460.pdf::span:10415:10424	09-642913p460.pdf::span:10429:10434	1
+09-642913p460.pdf::span:10504:10509	09-642913p460.pdf::span:10429:10434	1
+218.full.pdf::span:5398:5407	218.full.pdf::span:5456:5460	1
+218.full.pdf::span:5434:5444	218.full.pdf::span:5456:5460	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19227:19237	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:18200:18217	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:20509:20516	1
+218.full.pdf::span:8825:8828	218.full.pdf::span:8970:8976	1
+218.full.pdf::span:8949:8951	218.full.pdf::span:8970:8976	1
+218.full.pdf::span:11249:11251	218.full.pdf::span:11355:11361	1
+218.full.pdf::span:13372:13375	218.full.pdf::span:13364:13370	1
+218.full.pdf::span:13440:13443	218.full.pdf::span:13364:13370	1
+218.full.pdf::span:13707:13710	218.full.pdf::span:13735:13741	1
+218.full.pdf::span:13756:13759	218.full.pdf::span:13735:13741	1
+218.full.pdf::span:14624:14629	218.full.pdf::span:14662:14668	1
+218.full.pdf::span:14713:14716	218.full.pdf::span:14662:14668	1
+218.full.pdf::span:14721:14724	218.full.pdf::span:14662:14668	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19483:19496	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19993:20010	1
+218.full.pdf::span:17861:17877	218.full.pdf::span:17828:17832	1
+218.full.pdf::span:18416:18444	218.full.pdf::span:18473:18475	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:18717:18729	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:20250:20274	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:18463:18480	1
+218.full.pdf::span:19423:19445	218.full.pdf::span:19387:19391	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:11801:11804	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:11777:11782	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:13111:13114	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:13149:13157	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:18980:18994	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19753:19764	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:20519:20536	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19243:19254	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:18219:18231	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19499:19516	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:18736:18748	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:20016:20033	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:18482:18496	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19767:19779	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:18997:19015	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19257:19269	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:20277:20297	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19522:19535	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:20551:20556	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:18751:18773	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:20036:20051	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:19785:19797	1
+Calzolari-2013-Usutu virus persistence and Wes.pdf::span:17973:17976	Calzolari-2013-Usutu virus persistence and Wes.pdf::span:18251:18265	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21412:21415	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21638:21647	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21412:21415	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21720:21736	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21412:21415	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21814:21836	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21412:21415	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21466:21481	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21412:21415	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21484:21499	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21417:21419	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21638:21647	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21417:21419	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21720:21736	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21417:21419	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21814:21836	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21417:21419	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21466:21481	1
+Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21417:21419	Diaz-2016-Activity Patterns of St. Louis Encep.pdf::span:21484:21499	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13624:13635	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13474:13480	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13624:13635	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13461:13472	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13692:13694	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13474:13480	1
+059.041.0109.pdf::span:2380:2391	059.041.0109.pdf::span:2341:2349	1
+059.041.0109.pdf::span:2394:2398	059.041.0109.pdf::span:2341:2349	1
+059.041.0109.pdf::span:2405:2408	059.041.0109.pdf::span:2341:2349	1
+059.041.0109.pdf::span:11907:11918	059.041.0109.pdf::span:11867:11875	1
+059.041.0109.pdf::span:11921:11925	059.041.0109.pdf::span:11867:11875	1
+059.041.0109.pdf::span:11932:11935	059.041.0109.pdf::span:11867:11875	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13692:13694	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13461:13472	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13740:13751	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13849:13854	-1
+059.041.0109.pdf::span:15496:15498	059.041.0109.pdf::span:15440:15448	1
+2.pdf::span:1323:1325	2.pdf::span:1317:1321	1
+2.pdf::span:2383:2387	2.pdf::span:2357:2361	1
+2.pdf::span:2460:2462	2.pdf::span:2357:2361	1
+2.pdf::span:8915:8918	2.pdf::span:8877:8881	1
+2.pdf::span:8924:8926	2.pdf::span:8877:8881	1
+2.pdf::span:9702:9705	2.pdf::span:9688:9692	1
+2.pdf::span:12046:12060	2.pdf::span:12067:12071	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:13093:13119	Calisher-2006-Bats_ important reservoir hosts.pdf::span:13000:13015	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:13121:13125	Calisher-2006-Bats_ important reservoir hosts.pdf::span:13000:13015	1
+Calisher-2006-Bats_ important reservoir hosts.pdf::span:19691:19711	Calisher-2006-Bats_ important reservoir hosts.pdf::span:19765:19769	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13740:13751	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13833:13847	-1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16156:16173	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16122:16128	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16156:16173	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16076:16082	-1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16542:16553	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16560:16564	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16542:16553	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16436:16442	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:87:98	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:124:129	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:87:98	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:171:179	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:87:98	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:140:155	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:1651:1653	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:1662:1667	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:2398:2409	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:2512:2516	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:2475:2486	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:2512:2516	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:10358:10369	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:10416:10422	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:10464:10475	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:10416:10422	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:954:965	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:1104:1109	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:954:965	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:1185:1199	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:954:965	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:1137:1152	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:954:965	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:1172:1183	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:14954:14965	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:14984:14990	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:954:965	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:1124:1135	1
+Hubalek-2008-Serologic survey of potential ver.pdf::span:11348:11356	Hubalek-2008-Serologic survey of potential ver.pdf::span:11436:11440	1
+Hubalek-2008-Serologic survey of potential ver.pdf::span:11348:11356	Hubalek-2008-Serologic survey of potential ver.pdf::span:11333:11337	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16769:16780	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16760:16766	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:19094:19105	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:19203:19207	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:24079:24090	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:24107:24113	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:24845:24856	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:24875:24881	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:24966:24977	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:24928:24934	1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:30706:30717	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:30724:30742	1
+Machain-William-2013-Serologic evidence of fla.pdf::span:4246:4257	Machain-William-2013-Serologic evidence of fla.pdf::span:4345:4349	1
+Machain-William-2013-Serologic evidence of fla.pdf::span:4259:4264	Machain-William-2013-Serologic evidence of fla.pdf::span:4345:4349	1
+Machain-William-2013-Serologic evidence of fla.pdf::span:4267:4281	Machain-William-2013-Serologic evidence of fla.pdf::span:4345:4349	1
+Machain-William-2013-Serologic evidence of fla.pdf::span:4283:4287	Machain-William-2013-Serologic evidence of fla.pdf::span:4345:4349	1
+Machain-William-2013-Serologic evidence of fla.pdf::span:4323:4328	Machain-William-2013-Serologic evidence of fla.pdf::span:4345:4349	1
+Hubalek-2008-Serologic survey of potential ver.pdf::span:11364:11368	Hubalek-2008-Serologic survey of potential ver.pdf::span:11436:11440	1
+Hubalek-2008-Serologic survey of potential ver.pdf::span:11364:11368	Hubalek-2008-Serologic survey of potential ver.pdf::span:11333:11337	1
+Hubalek-2008-Serologic survey of potential ver.pdf::span:11442:11444	Hubalek-2008-Serologic survey of potential ver.pdf::span:11436:11440	1
+Hubalek-2008-Serologic survey of potential ver.pdf::span:11442:11444	Hubalek-2008-Serologic survey of potential ver.pdf::span:11333:11337	1
+Machain-William-2013-Serologic evidence of fla.pdf::span:21933:21947	Machain-William-2013-Serologic evidence of fla.pdf::span:21996:22008	1
+Machain-William-2013-Serologic evidence of fla.pdf::span:8311:8313	Machain-William-2013-Serologic evidence of fla.pdf::span:8391:8394	1
+Machain-William-2013-Serologic evidence of fla.pdf::span:8311:8313	Machain-William-2013-Serologic evidence of fla.pdf::span:8253:8257	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3356:3361	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3341:3345	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3422:3433	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3341:3345	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3854:3859	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3776:3780	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3862:3873	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3776:3780	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3875:3880	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3776:3780	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3886:3901	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3776:3780	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3903:3908	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3776:3780	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:3972:3983	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:4006:4012	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:6224:6226	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:6314:6318	1
+Machain-William-2013-Serologic evidence of fla.pdf::span:8316:8319	Machain-William-2013-Serologic evidence of fla.pdf::span:8391:8394	1
+Machain-William-2013-Serologic evidence of fla.pdf::span:8316:8319	Machain-William-2013-Serologic evidence of fla.pdf::span:8253:8257	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:11765:11779	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:11933:11937	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:12384:12398	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:12486:12490	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18799:18802	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18640:18644	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18812:18815	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18640:18644	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18825:18827	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18640:18644	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18837:18840	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:18640:18644	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:20910:20913	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:20878:20882	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:28244:28247	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:28413:28417	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:28333:28336	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:28413:28417	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:28439:28442	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:28413:28417	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:1005:1007	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:1110:1115	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:767:771	Seymour-1983-Serologic evidence of natural tog.pdf::span:634:652	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:975:977	Seymour-1983-Serologic evidence of natural tog.pdf::span:1038:1044	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:996:1007	Seymour-1983-Serologic evidence of natural tog.pdf::span:1038:1044	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:1005:1007	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:1075:1079	1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:30954:30957	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:31205:31209	-1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:9132:9134	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:9193:9197	-1
+Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:9963:9965	Pauvolid-Correa-2014-Serological Evidence of W.pdf::span:9881:9885	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:1068:1070	Seymour-1983-Serologic evidence of natural tog.pdf::span:1140:1158	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:1068:1070	Seymour-1983-Serologic evidence of natural tog.pdf::span:1196:1202	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:1100:1105	Seymour-1983-Serologic evidence of natural tog.pdf::span:1140:1158	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:1100:1105	Seymour-1983-Serologic evidence of natural tog.pdf::span:1196:1202	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:1173:1184	Seymour-1983-Serologic evidence of natural tog.pdf::span:1140:1158	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:1173:1184	Seymour-1983-Serologic evidence of natural tog.pdf::span:1196:1202	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:2904:2915	Seymour-1983-Serologic evidence of natural tog.pdf::span:2970:2976	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:2904:2915	Seymour-1983-Serologic evidence of natural tog.pdf::span:3065:3084	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:2904:2915	Seymour-1983-Serologic evidence of natural tog.pdf::span:3262:3280	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:2904:2915	Seymour-1983-Serologic evidence of natural tog.pdf::span:3331:3349	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3522:3529	Seymour-1983-Serologic evidence of natural tog.pdf::span:2970:2976	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3522:3529	Seymour-1983-Serologic evidence of natural tog.pdf::span:3065:3084	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3522:3529	Seymour-1983-Serologic evidence of natural tog.pdf::span:3262:3280	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3522:3529	Seymour-1983-Serologic evidence of natural tog.pdf::span:3331:3349	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3748:3752	Seymour-1983-Serologic evidence of natural tog.pdf::span:3893:3897	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3748:3752	Seymour-1983-Serologic evidence of natural tog.pdf::span:3763:3767	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:4180:4187	Seymour-1983-Serologic evidence of natural tog.pdf::span:3893:3897	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:12408:12415	Seymour-1983-Serologic evidence of natural tog.pdf::span:12383:12389	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:12577:12584	Seymour-1983-Serologic evidence of natural tog.pdf::span:12545:12550	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:12603:12611	Seymour-1983-Serologic evidence of natural tog.pdf::span:12545:12550	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:12670:12678	Seymour-1983-Serologic evidence of natural tog.pdf::span:12721:12739	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:12994:13001	Seymour-1983-Serologic evidence of natural tog.pdf::span:13064:13069	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:13047:13055	Seymour-1983-Serologic evidence of natural tog.pdf::span:13064:13069	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:14143:14150	Seymour-1983-Serologic evidence of natural tog.pdf::span:14106:14111	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3866:3874	Seymour-1983-Serologic evidence of natural tog.pdf::span:3893:3897	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3866:3874	Seymour-1983-Serologic evidence of natural tog.pdf::span:3763:3767	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3951:3958	Seymour-1983-Serologic evidence of natural tog.pdf::span:3893:3897	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3951:3958	Seymour-1983-Serologic evidence of natural tog.pdf::span:3763:3767	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3988:3996	Seymour-1983-Serologic evidence of natural tog.pdf::span:3893:3897	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:3988:3996	Seymour-1983-Serologic evidence of natural tog.pdf::span:3763:3767	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:4159:4167	Seymour-1983-Serologic evidence of natural tog.pdf::span:3893:3897	1
+Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:15992:15994	Hubalek-2008-Serologic Survey of Birds for Wes.pdf::span:15925:15942	-1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:4159:4167	Seymour-1983-Serologic evidence of natural tog.pdf::span:3763:3767	1
+Seymour-1983-Serologic evidence of natural tog.pdf::span:18008:18016	Seymour-1983-Serologic evidence of natural tog.pdf::span:18104:18110	-1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13740:13751	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13849:13854	-1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13740:13751	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:13833:13847	-1
+Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16156:16173	Holzmann-2010-Impact of yellow fever outbreaks.pdf::span:16076:16082	-1
