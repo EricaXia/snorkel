@@ -35,7 +35,7 @@ The tasks are broken up into each step of the pipeline.
 - Unify the LFs and reduce their noise
 - Use marginal predictions from the model as the probabilistic training labels (for the end extraction model in Part 4)
 
-[**Part 4 - LSTM Neural Network Training**](snorkel_part_4.ipynb)
+[**Part 4 - Discriminitive End Extraction Model Training**](snorkel_part_4.ipynb)
 - Train a LSTM model using training labels from Part 3
 - Evaluate model performance on a blind test set
 
