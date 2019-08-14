@@ -5,6 +5,8 @@ Created on Wed Aug  7 12:08:40 2019
 @author: erica
 """
 
+# Log Reg extractor
+
 # Import all libraries
 import sqlite3
 import numpy as np
@@ -507,7 +509,7 @@ plt.legend(loc="lower right")
 plt.savefig('5_fold_cv_roc.png')
 plt.show()
 
-    
+
 # =============================================================================
 #     # Prec-Recall Curve (in loop)
 # 
